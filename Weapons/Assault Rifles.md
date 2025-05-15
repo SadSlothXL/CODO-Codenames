@@ -219,3 +219,11 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_r5rgp_item_icon](https://github.com/user-attachments/assets/b304cd9a-953d-4180-b312-4e304106e348)<br> Default | File_name  |
+
+
+# X51
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_arx51_item_icon](https://github.com/user-attachments/assets/c901c28b-58b9-4a66-b31f-1d41f22ed639)<br> Default | File_name  |
