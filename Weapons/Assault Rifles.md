@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_honeybadger_item_icon](https://github.com/user-attachments/assets/b6bad9cc-f3bf-4561-9601-a6a8cbfe6c42)<br> Default | ar_coslo723 | 
+![wea_honeybadger_item_icon](https://github.com/user-attachments/assets/350cb7fb-9be4-4a9b-a957-72b52f3a6c21)<br> Default | ar_coslo723 | 
 
 
 # AK117
