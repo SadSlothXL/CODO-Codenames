@@ -22,6 +22,14 @@
 ![wea_g18_item_icon](https://github.com/user-attachments/assets/5407ecc2-8552-4123-ac5f-b620646598ef)<br> Default | File_name | 
 
 
+# PDW2000
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_pp2000_item_icon](https://github.com/user-attachments/assets/847b9ee0-d8e8-4fc0-a521-da5ca99dd9d8)<br> Default | File_name | 
+
+
 # FA1911
 
 | Icon | Name |
