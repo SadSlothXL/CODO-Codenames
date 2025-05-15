@@ -19,7 +19,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/39f0fc59-2e31-42f4-9a2a-44009baff928)<br> Default | ar_aking74 | 
+![wea_ak104common_item_icon](https://github.com/user-attachments/assets/081853f6-f854-49ac-b642-03f0090de86a)<br> Default | ar_aking74 | 
 
 
  
