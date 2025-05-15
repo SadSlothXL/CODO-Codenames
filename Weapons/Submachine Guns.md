@@ -1,4 +1,4 @@
-# Assault Rifles
+# Submachine Guns
 
 > [!IMPORTANT]
 >
