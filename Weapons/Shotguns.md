@@ -59,7 +59,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_ranger_item_icon](https://github.com/user-attachments/assets/cd7ca3d7-9fdc-42da-9208-3871fbbfdfdb)<br> Default | File_name | 
 
 
 # Striker
@@ -67,7 +67,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_striker_item_icon](https://github.com/user-attachments/assets/2a51edd3-e7a9-4833-b115-667afd3aa09e)<br> Default | File_name | 
 
 
 # Winchester Model 1887
@@ -75,4 +75,4 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_model1887_item_icon](https://github.com/user-attachments/assets/2e96cd47-e4cb-46a2-8ad9-4f07f2e9d66a)<br> Default | File_name | 
