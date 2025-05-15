@@ -53,3 +53,10 @@
 | | | | | 
 ![wea_pecheneg_item_icon](https://github.com/user-attachments/assets/e479a427-57f8-4959-bfa5-be673aabc8a8)<br> Default | File_name | 
 
+
+# Steyr AUG-H
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_aug_item_icon](https://github.com/user-attachments/assets/6f5873f5-dbb8-414b-bd19-278b82cc4604)<br> Default | File_name | 
