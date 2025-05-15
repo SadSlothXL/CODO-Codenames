@@ -211,3 +211,11 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_vepr_item_icon](https://github.com/user-attachments/assets/c8b52b22-67db-4321-9ad8-d1156dd237f5)<br> Default | File_name  | 
+
+
+# R5 RGP
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_r5rgp_item_icon](https://github.com/user-attachments/assets/b304cd9a-953d-4180-b312-4e304106e348)<br> Default | File_name  |
