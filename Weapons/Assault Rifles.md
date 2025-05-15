@@ -118,6 +118,7 @@
 | | | | | 
 ![wea_tar21tech_item_icon](https://github.com/user-attachments/assets/180533ea-f894-42cd-af2a-e294335356e0)<br> Default | File_name  | 
 
+
 # M1 Garand
 
 | Icon | Name |
@@ -127,6 +128,14 @@
 
 
 # M4A1
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_m4_item_icon](https://github.com/user-attachments/assets/aeee740b-dc9d-4923-a4ee-a25f2ff40df8)<br> Default | File_name  | 
+
+
+# M4A1 Tech
 
 | Icon | Name |
 | :--: | :--: | 
