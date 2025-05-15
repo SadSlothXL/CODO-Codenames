@@ -78,14 +78,6 @@
 ![wea_pp2000_item_icon](https://github.com/user-attachments/assets/847b9ee0-d8e8-4fc0-a521-da5ca99dd9d8)<br> Default | File_name | 
 
 
-# Steyr TMP
-
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-![wea_tmp_item_icon](https://github.com/user-attachments/assets/55de85d1-40cb-49fd-b6d0-5fafbfa06f12)<br> Default | File_name | 
-
-
 # Vector
 
 | Icon | Name |
