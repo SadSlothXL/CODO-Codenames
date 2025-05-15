@@ -6,7 +6,7 @@
 
 
 
-# weapon_name
+# Compound Bow
 
 | Icon | Name |
 | :--: | :--: | 
