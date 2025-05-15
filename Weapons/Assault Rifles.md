@@ -47,6 +47,14 @@
 ![wea_akbp_item_icon](https://github.com/user-attachments/assets/6d94b964-0879-46a2-8de5-9f48ff667466)<br> Default | File_name | 
 
 
+# AKBP Tech
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_akbptech_item_icon](https://github.com/user-attachments/assets/23e6b7c9-0b63-4fbf-9c02-6c2699e40da1)<br> Default | File_name | 
+
+
 # AN-94
 
 | Icon | Name |
@@ -77,6 +85,13 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_fn2000_item_icon](https://github.com/user-attachments/assets/ac340f86-772f-464d-b372-b3cb170d78ea)<br> Default | File_name  | 
+
+# BPR2000 Tech
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_fn2000tech_item_icon](https://github.com/user-attachments/assets/3763bac2-698a-4777-ae79-458ef22fbdad)<br> Default | File_name  | 
 
 
 # MK17-CQC
@@ -165,6 +180,13 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_type95_item_icon](https://github.com/user-attachments/assets/f72863ff-4ebb-447c-863e-b4e19faa6e84)<br> Default | File_name  | 
+
+# Type 95 Tech
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_type95tech_item_icon](https://github.com/user-attachments/assets/a5597f1a-b1f7-402e-8f3b-5c16ba68890b)<br> Default | File_name  | 
 
 
 # Remington ACR
