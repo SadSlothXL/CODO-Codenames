@@ -60,7 +60,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_fal_item_icon](https://github.com/user-attachments/assets/828ea738-2111-4e86-bed8-e2d513de0081)<br> Default | File_name | 
+![wea_ff58_item_icon](https://github.com/user-attachments/assets/d67b2694-63b8-4216-893c-4ec59c00a64d)<br> Default | File_name | 
 
 
 # FAMAS
