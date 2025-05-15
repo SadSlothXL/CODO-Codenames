@@ -28,7 +28,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_ak47_item_icon](https://github.com/user-attachments/assets/b3933650-99bf-4736-93bd-0bda7a7e174b)<br> Default | ar_able18  | 
+![wea_ak47_item_icon](https://github.com/user-attachments/assets/89ab0672-ae9b-4d63-bfbb-ecff16323aab)<br> Default | ar_able18  | 
 
 
 # AKS-74U
@@ -36,8 +36,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-
-![wea_aks74u_item_icon](https://github.com/user-attachments/assets/1ed09008-b445-4ef4-802e-6b89a35c6997)<br> Default | ar_love85 | 
+![wea_aks74u_item_icon](https://github.com/user-attachments/assets/e854c760-4edf-46d6-8970-0c9b37f482d2)<br> Default | ar_love85 | 
 
 
 # AKBP
@@ -53,7 +52,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_an94_item_icon](https://github.com/user-attachments/assets/197229d5-bfd3-47e4-b4d9-b2c66e9aba5d)<br> Default | ar_rmary2  | 
+![wea_an94_item_icon](https://github.com/user-attachments/assets/1aa56f31-4620-4ae4-8859-b8544f6de205)<br> Default | ar_rmary2  | 
 
 
 # FAL.62-L
@@ -61,7 +60,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_fal_item_icon](https://github.com/user-attachments/assets/08cdbbc1-6481-47e7-9769-d8c0e59c3485)<br> Default | ar_asvalor | 
+![wea_fal_item_icon](https://github.com/user-attachments/assets/828ea738-2111-4e86-bed8-e2d513de0081)<br> Default | ar_asvalor | 
 
 
 # FAMAS
@@ -69,7 +68,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_famas_item_icon](https://github.com/user-attachments/assets/d5dc49eb-61f1-4dae-81aa-5da4f0b3425c)<br> Default  | ar_fable | 
+![wea_famas_item_icon](https://github.com/user-attachments/assets/74e3d237-acff-4f76-8b1b-f06edd4a4e7d)<br> Default  | ar_fable | 
 
 
 # BPR2000
@@ -77,9 +76,8 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_bpr2000_item_icon](https://github.com/user-attachments/assets/64adb31f-9ec7-4c49-89e3-ad0ae95aba1d)<br> Default | ar_tbaker  | 
+![wea_bpr2000_item_icon](https://github.com/user-attachments/assets/0ab5fad3-24e9-4575-8f50-7d5f990cca46)<br> Default | ar_tbaker  | 
 
------
 
 # MK17-CQC
 
@@ -110,7 +108,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/2151a0de-9cc8-4c2c-af79-cbac57533a54)<br> Default | ar_tbaker  | 
+![wea_tar21_item_icon](https://github.com/user-attachments/assets/0b3b23ba-dc01-483d-91b0-260237b853ce)<br> Default | ar_tbaker  | 
 
 
 # Tavor-21 Tech
@@ -118,7 +116,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/2151a0de-9cc8-4c2c-af79-cbac57533a54)<br> Default | ar_tbaker  | 
+![wea_tar21tech_item_icon](https://github.com/user-attachments/assets/180533ea-f894-42cd-af2a-e294335356e0)<br> Default | ar_tbaker  | 
 
 # M1 Garand
 
