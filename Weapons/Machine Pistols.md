@@ -1,4 +1,4 @@
-# Light Machine Guns
+# Machine Pistols
 
 > [!IMPORTANT]
 >
