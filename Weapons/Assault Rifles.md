@@ -22,21 +22,12 @@
 ![wea_ak104common_item_icon](https://github.com/user-attachments/assets/081853f6-f854-49ac-b642-03f0090de86a)<br> Default | File_name | 
 
 
- 
 # AK-47
 
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
 ![wea_ak47_item_icon](https://github.com/user-attachments/assets/89ab0672-ae9b-4d63-bfbb-ecff16323aab)<br> Default | File_name  | 
-
-
-# AKS-74U
-
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-![wea_aks74u_item_icon](https://github.com/user-attachments/assets/e854c760-4edf-46d6-8970-0c9b37f482d2)<br> Default | File_name | 
 
 
 # AKBP
