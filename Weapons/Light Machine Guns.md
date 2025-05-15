@@ -43,7 +43,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_ariar_item_icon](https://github.com/user-attachments/assets/b334cd61-ee14-4120-a1a7-b47d07c72f1a)<br> Default | File_name | 
+![wea_ariar_item_icon](https://github.com/user-attachments/assets/58214845-a036-4f70-b211-a939bb7ae6f2)<br> Default | File_name | 
 
 
 # PKP Pecheneg
