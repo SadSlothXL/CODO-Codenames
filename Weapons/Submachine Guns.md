@@ -70,14 +70,6 @@
 ![wea_miniuzi_item_icon](https://github.com/user-attachments/assets/092deca8-bc7d-4628-9fdf-cc8b657815c9)<br> Default | File_name | 
 
 
-# PDW2000
-
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-![wea_pp2000_item_icon](https://github.com/user-attachments/assets/847b9ee0-d8e8-4fc0-a521-da5ca99dd9d8)<br> Default | File_name | 
-
-
 # Vector
 
 | Icon | Name |
