@@ -44,7 +44,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_akbp_item_icon](https://github.com/user-attachments/assets/70b98e2e-c6bb-45b8-9356-5bd63b6f0d2e)<br> Default | ar_clove | 
+![wea_akbp_item_icon](https://github.com/user-attachments/assets/6d94b964-0879-46a2-8de5-9f48ff667466)<br> Default | ar_clove | 
 
 
 # AN-94
