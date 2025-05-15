@@ -55,7 +55,7 @@
 ![wea_an94_item_icon](https://github.com/user-attachments/assets/1aa56f31-4620-4ae4-8859-b8544f6de205)<br> Default | ar_rmary2  | 
 
 
-# FAL.62-L
+# FA7.62-L
 
 | Icon | Name |
 | :--: | :--: | 
