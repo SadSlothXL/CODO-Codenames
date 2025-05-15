@@ -6,16 +6,14 @@
 > 
 > Skeet is walking the fish
 
-# Map name
+# Maps
 
 | Icon | Name | 
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/462fe477-1d08-403c-bbbd-bdb667c336f1)<br> Babylon | devmap name | 
+<br> Babylon | mp_mapname | 
 
-# Map name
-
-| Icon | Name | 
+| Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/462fe477-1d08-403c-bbbd-bdb667c336f1)<br> Babylon | devmap name | 
+<br> Babylon | mp_mapname | 
