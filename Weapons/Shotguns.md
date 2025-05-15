@@ -6,7 +6,7 @@
 
 
 
-# AA-12
+# Atchisson AA-12
 
 | Icon | Name |
 | :--: | :--: | 
@@ -38,7 +38,7 @@
 ![wea_spas12_item_icon](https://github.com/user-attachments/assets/345f5f55-36eb-4e36-8593-9ad9ce985342)<br> Default | File_name | 
 
 
-# Remington 870 MCS
+# Remington 870 
 
 | Icon | Name |
 | :--: | :--: | 
@@ -54,7 +54,7 @@
 ![wea_gpas12career_item_icon](https://github.com/user-attachments/assets/77e5b940-b553-4518-96e0-edbebd8a4e80)<br> Default | File_name | 
 
 
-# Sears Ranger
+# Ranger
 
 | Icon | Name |
 | :--: | :--: | 
@@ -70,7 +70,7 @@
 ![wea_striker_item_icon](https://github.com/user-attachments/assets/2a51edd3-e7a9-4833-b115-667afd3aa09e)<br> Default | File_name | 
 
 
-# Winchester Model 1887
+# Winchester M1887
 
 | Icon | Name |
 | :--: | :--: | 
