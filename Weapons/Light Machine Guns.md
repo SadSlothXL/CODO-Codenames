@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_m240_item_icon](https://github.com/user-attachments/assets/0c0beb3e-03cc-43ff-aca1-0a9f273f4bef)<br> Default | File_name | 
 
 
 # RPD
@@ -19,7 +19,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_rpd_item_icon](https://github.com/user-attachments/assets/cf1a0cab-2b83-4bb2-9153-347a58a0eb38)<br> Default | File_name | 
 
 
 # MAG43
@@ -27,7 +27,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_mg4_item_icon](https://github.com/user-attachments/assets/845671bc-34f9-4e45-a926-2b0e9b24fe41)<br> Default | File_name | 
 
 
 # SA80-LSW
@@ -35,7 +35,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_l86_item_icon](https://github.com/user-attachments/assets/d9172d99-7fc7-4460-b3f9-5f8228305ae3)<br> Default | File_name | 
 
 
 # M4LMG
@@ -43,7 +43,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_ariarse_item_icon](https://github.com/user-attachments/assets/85a629d8-7a9d-44dd-af87-8baf7ca2a2b5)<br> Default | File_name | 
 
 
 # PKP Pecheneg
@@ -51,4 +51,5 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_pecheneg_item_icon](https://github.com/user-attachments/assets/e479a427-57f8-4959-bfa5-be673aabc8a8)<br> Default | File_name | 
+
