@@ -140,7 +140,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_m4a1techcommon_item_icon](https://github.com/user-attachments/assets/2f49b605-c340-420c-84a8-8da8efffe6b9)<br> Default | File_name  | 
+![wea_m4_item_icon](https://github.com/user-attachments/assets/f996d688-8e38-4213-bc83-0d0fe5d85630)<br> Default | File_name  | 
 
 
 # M16A4
