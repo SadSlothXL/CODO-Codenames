@@ -6,6 +6,14 @@
 
 
 
+# AKS-74U
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_aks74u_item_icon](https://github.com/user-attachments/assets/e854c760-4edf-46d6-8970-0c9b37f482d2)<br> Default | File_name | 
+
+
 # Vz. 61 E Skorpion
 
 | Icon | Name |
