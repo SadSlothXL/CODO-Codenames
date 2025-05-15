@@ -76,7 +76,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_bpr2000_item_icon](https://github.com/user-attachments/assets/0ab5fad3-24e9-4575-8f50-7d5f990cca46)<br> Default | File_name  | 
+![wea_fn2000_item_icon](https://github.com/user-attachments/assets/ac340f86-772f-464d-b372-b3cb170d78ea)<br> Default | File_name  | 
 
 
 # MK17-CQC
