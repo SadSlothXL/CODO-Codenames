@@ -147,7 +147,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_m4_item_icon](https://github.com/user-attachments/assets/aeee740b-dc9d-4923-a4ee-a25f2ff40df8)<br> Default | File_name  | 
+![wea_m4_item_icon](https://github.com/user-attachments/assets/f730b7ff-0da5-4c86-b7cb-c4acfcee852d)<br> Default | File_name  | 
 
 
 # M4A1 Tech
@@ -181,7 +181,7 @@
 | | | | | 
 ![wea_type95_item_icon](https://github.com/user-attachments/assets/f72863ff-4ebb-447c-863e-b4e19faa6e84)<br> Default | File_name  | 
 
-# Type 95 Tech
+# Type 97
 
 | Icon | Name |
 | :--: | :--: | 
