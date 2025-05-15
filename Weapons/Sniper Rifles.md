@@ -14,7 +14,7 @@
 ![wea_l115_item_icon](https://github.com/user-attachments/assets/f81a26f5-6088-4963-98c4-bf495704afc8)<br> Default | File_name | 
 
 
-# AS50
+# Arctic .50 BMG
 
 | Icon | Name |
 | :--: | :--: | 
@@ -38,7 +38,7 @@
 ![wea_rsrt3_item_icon](https://github.com/user-attachments/assets/8503a294-956f-4b2f-bed6-7754382c40de)<br> Default | File_name | 
 
 
-# M14 EBR
+# M21 EBR
 
 | Icon | Name |
 | :--: | :--: | 
