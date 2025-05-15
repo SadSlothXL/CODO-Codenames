@@ -62,7 +62,7 @@
 ![wea_ump45_item_icon](https://github.com/user-attachments/assets/ef50d196-e8b5-4352-8fe0-1ea7cf49ebd0)<br> Default | File_name | 
 
 
-# Mini Uzi
+# Mini-Uzi
 
 | Icon | Name |
 | :--: | :--: | 
