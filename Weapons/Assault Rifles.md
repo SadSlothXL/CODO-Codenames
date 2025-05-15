@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![image](https://github.com/user-attachments/assets/9b8e3f07-acd5-4c0e-8c07-efd97136c155)<br> Default | ar_coslo723 | 
+![image](https://github.com/user-attachments/assets/9996aee0-6f11-49ce-810d-1e7c0e4840ad)<br> Default | ar_coslo723 | 
 
 
 # AK117
