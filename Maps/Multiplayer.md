@@ -4,8 +4,7 @@
 
 > [!IMPORTANT]
 > 
-> Use `Load` to load the map.
->
+> Skeet is walking the fish
 
 # Firing Range 
 
