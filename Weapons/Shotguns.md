@@ -76,3 +76,12 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_model1887_item_icon](https://github.com/user-attachments/assets/2e96cd47-e4cb-46a2-8ad9-4f07f2e9d66a)<br> Default | File_name | 
+
+
+# Freedom
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | |  
+![wea_csg12ss_item_icon](https://github.com/user-attachments/assets/a154e90e-47c8-4e49-9923-9d668a34f52b)<br> Default | File_name | 
+
