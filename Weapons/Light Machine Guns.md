@@ -60,3 +60,21 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_aug_item_icon](https://github.com/user-attachments/assets/6f5873f5-dbb8-414b-bd19-278b82cc4604)<br> Default | File_name | 
+
+
+# Gaia's Arm
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_mg4ss_item_icon](https://github.com/user-attachments/assets/1d125f3d-f51e-499c-9ca1-75c3577725ec)<br> Default | File_name | 
+
+
+# Triumph
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_pechenegss_item_icon](https://github.com/user-attachments/assets/02e146c1-e837-4393-af1b-85200aabf0a6)<br> Default | File_name | 
+
+
