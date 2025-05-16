@@ -44,3 +44,11 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_sportpistolncm_item_icon](https://github.com/user-attachments/assets/81db006e-ab97-491b-b7d4-7c258bc6ddd5)<br> Default | File_name | 
+
+
+# Weapon_name
+
+| Icon | Base | Grip | Iron Sight | Iron Sight Glow | Muzzle | Mag | Rail | Stock |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| | 
+![unknown](https://github.com/user-attachments/assets/6fa080bd-c405-468c-9e03-d60ef75b2177)<br> Default | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name |
