@@ -26,7 +26,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![none](https://github.com/user-attachments/assets/3f458391-b3e0-4cde-aaa5-0d14d6f94659)<br> Default | File_name | 
+![wea_defaultknife_item_icon](https://github.com/user-attachments/assets/74057e9c-e6e2-4cc4-b38b-802e347f91d6)<br> Default | File_name | 
 
 
 # Katana
