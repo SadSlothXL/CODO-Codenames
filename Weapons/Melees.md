@@ -6,6 +6,14 @@
 
 
 
+# Riot Shield
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | |  
+![wea_riotshield_item_icon](https://github.com/user-attachments/assets/78c48629-1f78-471b-aca3-a296724f131d)<br> Default | File_name | 
+
+
 # Ballistic Knife
 
 | Icon | Name |
