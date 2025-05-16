@@ -59,3 +59,11 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_slaymore_item_icon](https://github.com/user-attachments/assets/9952bcad-ca1b-4146-a13a-7796d1ade01c)<br> Default | File_name | 
+
+
+# Weapon_name
+
+| Icon | Base | Grip | Iron Sight | Iron Sight Glow | Muzzle | Mag | Rail | Stock |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| | 
+![unknown](https://github.com/user-attachments/assets/6fa080bd-c405-468c-9e03-d60ef75b2177)<br> Default | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name |
