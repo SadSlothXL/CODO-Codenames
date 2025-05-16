@@ -84,3 +84,27 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_tommygun_item_icon](https://github.com/user-attachments/assets/6b7cd059-f33f-4a28-a043-0e18d5c03635)<br> Default | File_name | 
+
+
+# Oracle
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_ump45ss_item_icon](https://github.com/user-attachments/assets/30df792d-2a4b-4896-abfc-87ed1df6c862)<br> Default | File_name | 
+
+
+# Judgment
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_miniuziss_item_icon](https://github.com/user-attachments/assets/64d58369-859e-405a-8860-3a17859b83cc)<br> Default | File_name |
+
+
+# Titan
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_veprss_item_icon](https://github.com/user-attachments/assets/151f05f6-8507-4380-b967-06bbc043f55b)
