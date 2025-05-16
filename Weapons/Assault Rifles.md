@@ -218,3 +218,59 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_arx51_item_icon](https://github.com/user-attachments/assets/c901c28b-58b9-4a66-b31f-1d41f22ed639)<br> Default | File_name  |
+
+
+# Chaos
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_an94ss_item_icon](https://github.com/user-attachments/assets/b0d8663c-7ece-4b3a-bd32-5bd696244e48)<br> Default | File_name  |
+
+
+# Death
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_honeybadgerss_item_icon](https://github.com/user-attachments/assets/ad0e5117-8264-4bb3-b939-a99819b626a4)<br> Default | File_name  |
+
+
+# Doom
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_scarss_item_icon](https://github.com/user-attachments/assets/e7ac3ce5-3536-4ec8-bdb7-ebbad97a9919)<br> Default | File_name  |
+
+
+# Fate
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_g36css_item_icon](https://github.com/user-attachments/assets/de97a0cc-9171-4ca7-a318-8e9a2dbda89a)<br> Default | File_name  |
+
+
+# Phantom
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_scarsaprss_item_icon](https://github.com/user-attachments/assets/4997ac31-d41d-4413-9e62-8d81e46ff151)<br> Default | File_name  |
+
+
+# Justice
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_ak47ss_item_icon](https://github.com/user-attachments/assets/2e321b67-ef51-4326-9445-06f8ef770dce)<br> Default | File_name  |
+
+
+# Mandate
+
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+![wea_m4a1techss_item_icon](https://github.com/user-attachments/assets/c1ad6c49-1a5a-49dc-90f9-99cff45e3a0d)<br> Default | File_name  |
