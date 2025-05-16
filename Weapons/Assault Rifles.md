@@ -11,7 +11,7 @@
 | Icon | Base | Grip | Iron Sight | Iron Sight Glow | Muzzle | Mag | Rail | Stock |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | | 
-![wea_honeybadger_item_icon](https://github.com/user-attachments/assets/350cb7fb-9be4-4a9b-a957-72b52f3a6c21)<br> Default | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name |
+![wea_honeybadger_item_icon](https://github.com/user-attachments/assets/350cb7fb-9be4-4a9b-a957-72b52f3a6c21)<br> Default | wea_acc_acchoneybadger | None | iro_default_acchoneybadger | iro_glow_acchoneybadger_vmgun | None | mag_default_acchoneybadger | None | None | None |
 
 # AK117
 
