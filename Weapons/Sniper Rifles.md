@@ -76,3 +76,11 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_bow_item_icon](https://github.com/user-attachments/assets/068d7ac6-1b68-4dc6-85dc-d14200905224)<br> Default | File_name | 
+
+
+# Weapon_name
+
+| Icon | Base | Grip | Iron Sight | Iron Sight Glow | Muzzle | Mag | Rail | Stock |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| | 
+![unknown](https://github.com/user-attachments/assets/6fa080bd-c405-468c-9e03-d60ef75b2177)<br> Default | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name |
