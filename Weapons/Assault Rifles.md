@@ -12,7 +12,22 @@
 | :--: | :--: |
 | | 
 ![wea_honeybadger_item_icon](https://github.com/user-attachments/assets/350cb7fb-9be4-4a9b-a957-72b52f3a6c21)<br> Default | acchoneybadger |
-
+| Icon | Name |
+![wea_honeybadgerdis_item_icon](https://github.com/user-attachments/assets/98f5169f-ba09-40d0-889b-7df2597fc4e5)<br> Default | honeybadgerdis |
+| Icon | Name |
+![wea_honeybadgermustang_item_icon](https://github.com/user-attachments/assets/d87c6d89-e406-4b3b-85d1-53d16a85bab7)<br> Default | honeybadgermustang |
+| Icon | Name |
+![wea_honeybadgerplatinum_item_icon](https://github.com/user-attachments/assets/6b73c773-3838-4f87-82b6-b631394f0351)<br> Default | honeybadgerplatinum |
+| Icon | Name |
+![wea_honeybadgerronin_item_icon](https://github.com/user-attachments/assets/2583cdb8-6218-4265-96de-8e1024cfcf65)<br> Default | honeybadgerronin |
+| Icon | Name |
+![wea_honeybadgerspstation_item_icon](https://github.com/user-attachments/assets/dd11735d-1ff9-4c3f-bcd0-90c39447164f)<br> Default | honeybadgerspstation |
+| Icon | Name |
+![wea_honeybadgerstar_item_icon](https://github.com/user-attachments/assets/b6030a39-d9eb-407f-9c33-21b6da577353)<br> Default | honeybadgerstar |
+| Icon | Name |
+![wea_honeybadgertank_item_icon](https://github.com/user-attachments/assets/32e1e824-86b5-4c50-b917-aa8a88c90227)<br> Default | honeybadgertank |
+| Icon | Name |
+![wea_honeybadgerwargod_item_icon](https://github.com/user-attachments/assets/b3efa296-6b3a-42c4-abd5-719486d783eb)<br> Default | honeybadgerwargod |
 
 # AK117
 
