@@ -6,40 +6,73 @@
 > Like `mag` or `stock`
 
 ## Weapons
-[AAC](#AAC)
-[AK117](#AK117)
-[AK-47](#AK-47)
-[AKBP](#AKBP)
-[AKBP Tech](#AKBP_Tech)
-[AN-94](#AN-94)
-[FA7.62-L](#FA7.62-L)
-[FAMAS](#FAMAS)
-[BPR2000](#BPR2000)
-[BPR2000 Tech](#BPR2000_Tech)
-[MK17-CQC](#MK17-CQC)
-[MR23](#MR23)
-[G37H](#G37H)
-[Tavor-21](#Tavor-21)
-[Tavor-21 Tech](#Tavor-21_Tech)
-[M1 Garand](#M1_Garand)
-[M4A1](#M4A1)
-[M4A1 Tech](#M4A1_Tech)
-[M16A4](#M16A4)
-[MK14](#MK14)
-[Type 95](#Type_95)
-[Type 97](#Type_97)
-[Remington ACR](#Remington_ACR)
-[SPBC](#SPBC)
-[Vepr](#Vepr)
-[R5 RGP](#R5_RGP)
-[X51](#X51)
-[Chaos](#Chaos)
-[Death](#Death)
-[Doom](#Doom)
-[Fate](#Fate)
-[Phantom](#Phantom)
-[Justice](#Justice)
-[Mandate](#Mandate)
+- [AAC](#AAC)
+
+- [AK117](#AK117)
+
+- [AK-47](#AK-47)
+
+- [AKBP](#AKBP)
+
+- [AKBP Tech](#AKBP_Tech)
+
+- [AN-94](#AN-94)
+
+- [FA7.62-L](#FA7.62-L)
+
+- [FAMAS](#FAMAS)
+
+- [BPR2000](#BPR2000)
+
+- [BPR2000 Tech](#BPR2000_Tech)
+
+- [MK17-CQC](#MK17-CQC)
+
+- [MR23](#MR23)
+
+- [G37H](#G37H)
+
+- [Tavor-21](#Tavor-21)
+
+- [Tavor-21 Tech](#Tavor-21_Tech)
+
+- [M1 Garand](#M1_Garand)
+
+- [M4A1](#M4A1)
+
+- [M4A1 Tech](#M4A1_Tech)
+
+- [M16A4](#M16A4)
+
+- [MK14](#MK14)
+
+- [Type 95](#Type_95)
+
+- [Type 97](#Type_97)
+
+- [Remington ACR](#Remington_ACR)
+
+- [SPBC](#SPBC)
+
+- [Vepr](#Vepr)
+
+- [R5 RGP](#R5_RGP)
+
+- [X51](#X51)
+
+- [Chaos](#Chaos)
+
+- [Death](#Death)
+
+- [Doom](#Doom)
+
+- [Fate](#Fate)
+
+- [Phantom](#Phantom)
+
+- [Justice](#Justice)
+
+- [Mandate](#Mandate)
 
 
 ## AAC
