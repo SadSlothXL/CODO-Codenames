@@ -5,13 +5,8 @@
 >
 > Like `mag` or `stock`
 
-## Table of Contents
-1. [Introduction](#introduction)
-
-
-
 ## Weapons
-AAC(#AAC)
+1. [Introduction](#introduction)
 
 
 
