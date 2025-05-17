@@ -247,7 +247,7 @@
 | | | | | 
 ![wea_akbp_item_icon](https://github.com/user-attachments/assets/6d94b964-0879-46a2-8de5-9f48ff667466)<br> Default | akbp | 
 
-
+<a name="AKBP_Tech"></a>
 ## AKBP Tech
 
 | Icon | Name |
