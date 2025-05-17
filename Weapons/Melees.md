@@ -1,10 +1,8 @@
 # Melees
 
 > [!IMPORTANT]
-> Models are separated based on their respective parts
+> Melee weapons are a single model, so no merging is needed!
 >
-> Like `mag` or `stock`
-
 
 # Riot Shield
 
