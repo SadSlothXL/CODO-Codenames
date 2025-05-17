@@ -273,11 +273,3 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_m4a1techss_item_icon](https://github.com/user-attachments/assets/c1ad6c49-1a5a-49dc-90f9-99cff45e3a0d)<br> Default | m4a1techss  |
-
-# Weapon_name
-
-| Icon | Base | Grip | Iron Sight | Iron Sight Glow | Muzzle | Mag | Rail | Stock |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| | 
-![unknown](https://github.com/user-attachments/assets/6fa080bd-c405-468c-9e03-d60ef75b2177)<br> Default | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name |
-
