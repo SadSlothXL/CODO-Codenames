@@ -1,7 +1,7 @@
 # Equipment
 
 > [!IMPORTANT]
-> Equipment are a single model, so no merging is needed!
+> Equipment is a single model, so no merging is needed!
 >
 
 
