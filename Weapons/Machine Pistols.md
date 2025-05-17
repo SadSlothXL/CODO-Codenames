@@ -1,10 +1,9 @@
 # Machine Pistols
 
 > [!IMPORTANT]
+> Models are separated based on their respective parts
 >
-> Skeet is walking the fish
-
-
+> Like `mag` or `stock`
 
 # Beretta M93R
 
