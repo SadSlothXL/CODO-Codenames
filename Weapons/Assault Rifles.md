@@ -32,9 +32,9 @@
 
 - [G37H](#G37H)
 
-- [Tavor-21](#Tavor-21)
+- [Tavor-21](#Tavor_21)
 
-- [Tavor-21 Tech](#Tavor-21_Tech)
+- [Tavor-21 Tech](#Tavor_21_Tech)
 
 - [M1 Garand](#M1_Garand)
 
@@ -323,15 +323,15 @@
 | | | | | 
 ![wea_g36c_item_icon](https://github.com/user-attachments/assets/1123889c-eee7-48dd-89de-f0657e8173df)<br> Default | g36c  | 
 
-
-## Tavor-21
+<a name="Tavor_21"></a>
+## Tavor-21 
 
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
 ![wea_tar21_item_icon](https://github.com/user-attachments/assets/0b3b23ba-dc01-483d-91b0-260237b853ce)<br> Default | tar21  | 
 
-
+<a name="Tavor_21_Tech"></a>
 ## Tavor-21 Tech
 
 | Icon | Name |
