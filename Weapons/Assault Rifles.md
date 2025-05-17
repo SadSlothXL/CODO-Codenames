@@ -148,16 +148,6 @@
 | Icon | Name |
 ![wea_ak47rainbow_item_icon](https://github.com/user-attachments/assets/1435935c-7cde-45ac-8fb4-53a409278c86)<br> Default | ak47  | 
 | Icon | Name |
-![wea_ak47ss_item_icon](https://github.com/user-attachments/assets/9126ebdd-704a-41b1-badd-b0aa8e4b36de)<br> Default | ak47  | 
-| Icon | Name |
-![wea_ak47ssblack_item_icon](https://github.com/user-attachments/assets/0e7babd2-9126-4a88-b1f6-203b36491047)<br> Default | ak47  | 
-| Icon | Name |
-![wea_ak47sscny_item_icon](https://github.com/user-attachments/assets/c8d5bc23-3329-47de-855d-050d63e46997)<br> Default | ak47  | 
-| Icon | Name |
-![wea_ak47sslava_item_icon](https://github.com/user-attachments/assets/ad481cea-2c29-4c54-8ab8-d88305f194bb)<br> Default | ak47  | 
-| Icon | Name |
-![wea_ak47ssstar_item_icon](https://github.com/user-attachments/assets/4af1f942-3869-4954-b1d5-6f3dabe15033)<br> Default | ak47  | 
-| Icon | Name |
 ![wea_ak47t2event_item_icon](https://github.com/user-attachments/assets/efa7e33a-6db4-40e8-9b45-64db8b1302ed)<br> Default | ak47  | 
 | Icon | Name |
 ![wea_ak47tank_item_icon](https://github.com/user-attachments/assets/c0c7cd5a-3945-4d32-8d1d-85a1cb66ab73)<br> Default | ak47  | 
@@ -421,6 +411,16 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_ak47ss_item_icon](https://github.com/user-attachments/assets/2e321b67-ef51-4326-9445-06f8ef770dce)<br> Default | ak47ss  |
+| Icon | Name |
+![wea_ak47ss_item_icon](https://github.com/user-attachments/assets/9126ebdd-704a-41b1-badd-b0aa8e4b36de)<br> Default | ak47ss  | 
+| Icon | Name |
+![wea_ak47ssblack_item_icon](https://github.com/user-attachments/assets/0e7babd2-9126-4a88-b1f6-203b36491047)<br> Default | ak47ss  | 
+| Icon | Name |
+![wea_ak47sscny_item_icon](https://github.com/user-attachments/assets/c8d5bc23-3329-47de-855d-050d63e46997)<br> Default | ak47ss  | 
+| Icon | Name |
+![wea_ak47sslava_item_icon](https://github.com/user-attachments/assets/ad481cea-2c29-4c54-8ab8-d88305f194bb)<br> Default | ak47ss  | 
+| Icon | Name |
+![wea_ak47ssstar_item_icon](https://github.com/user-attachments/assets/4af1f942-3869-4954-b1d5-6f3dabe15033)<br> Default | ak47ss  | 
 
 
 # Mandate
