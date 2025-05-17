@@ -306,7 +306,7 @@
 | | | | | 
 ![wea_tar21tech_item_icon](https://github.com/user-attachments/assets/180533ea-f894-42cd-af2a-e294335356e0)<br> Default | tar21tech  | 
 
-
+<a name="M1_Garand"></a>
 ## M1 Garand
 
 | Icon | Name |
@@ -322,7 +322,7 @@
 | | | | | 
 ![wea_m4_item_icon](https://github.com/user-attachments/assets/f730b7ff-0da5-4c86-b7cb-c4acfcee852d)<br> Default | m4  | 
 
-
+<a name="M4A1_Tech"></a>
 ## M4A1 Tech
 
 | Icon | Name |
@@ -346,7 +346,7 @@
 | | | | | 
 ![wea_m14ebr_item_icon](https://github.com/user-attachments/assets/3358be58-88fa-4290-b707-084ee5b5de87)<br> Default | m14ebr  | 
 
-
+<a name="Type_95"></a>
 ## Type 95
 
 | Icon | Name |
@@ -354,6 +354,8 @@
 | | | | | 
 ![wea_type95_item_icon](https://github.com/user-attachments/assets/f72863ff-4ebb-447c-863e-b4e19faa6e84)<br> Default | type95  | 
 
+
+<a name="Type_97"></a>
 ## Type 97
 
 | Icon | Name |
@@ -361,7 +363,7 @@
 | | | | | 
 ![wea_type95tech_item_icon](https://github.com/user-attachments/assets/a5597f1a-b1f7-402e-8f3b-5c16ba68890b)<br> Default | type95tech  | 
 
-
+<a name="Remington_ACR"></a>
 ## Remington ACR
 
 | Icon | Name |
@@ -385,7 +387,7 @@
 | | | | | 
 ![wea_vepr_item_icon](https://github.com/user-attachments/assets/c8b52b22-67db-4321-9ad8-d1156dd237f5)<br> Default | vepr  | 
 
-
+<a name="R5_RGP"></a>
 ## R5 RGP
 
 | Icon | Name |
