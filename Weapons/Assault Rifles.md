@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > Models are separated based on their respective parts
 >
-> Like `mag`, `stock`, `Grip`, `Iron Sight`, `Iron Sight Glow`, `Muzzle` and `Rail`
+> Like `mag` or `stock`
 
 
 # AAC
