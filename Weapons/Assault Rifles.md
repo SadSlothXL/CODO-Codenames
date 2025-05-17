@@ -258,7 +258,8 @@
 | | | | | 
 ![wea_fn2000_item_icon](https://github.com/user-attachments/assets/ac340f86-772f-464d-b372-b3cb170d78ea)<br> Default | fn2000  | 
 
-# BPR2000 Tech
+<a name="BPR2000 Tech"></a>
+# BPR2000_Tech
 
 | Icon | Name |
 | :--: | :--: | 
