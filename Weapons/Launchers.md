@@ -51,10 +51,3 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_crossbow_item_icon](https://github.com/user-attachments/assets/428b3376-0f7a-46d2-bd8a-978f29bad95d)<br> Default | crossbow | 
-
-# Weapon_name
-
-| Icon | Base | Grip | Iron Sight | Iron Sight Glow | Muzzle | Mag | Rail | Stock |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| | 
-![unknown](https://github.com/user-attachments/assets/6fa080bd-c405-468c-9e03-d60ef75b2177)<br> Default | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name | File_name |
