@@ -1,7 +1,7 @@
 # Equipment
 
 > [!IMPORTANT]
-> Melee weapons are a single model, so no merging is needed!
+> Equipment are a single model, so no merging is needed!
 >
 
 
