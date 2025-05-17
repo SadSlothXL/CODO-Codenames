@@ -13,6 +13,7 @@
 | | 
 ![wea_honeybadger_item_icon](https://github.com/user-attachments/assets/350cb7fb-9be4-4a9b-a957-72b52f3a6c21)<br> Default | acchoneybadger |
 
+
 # AK117
 
 | Icon | Name |
@@ -67,6 +68,12 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_famas_item_icon](https://github.com/user-attachments/assets/74e3d237-acff-4f76-8b1b-f06edd4a4e7d)<br> Default  | famas | 
+| Icon | Name |
+| | 
+![wea_famasss_item_icon](https://github.com/user-attachments/assets/c4ff9153-a03c-4834-9d19-696aa9edc71d)<br> Default | wea_famasss_famasss_blk |
+| Icon | Name |
+| | 
+![wea_famassscny_item_icon](https://github.com/user-attachments/assets/0fb30511-1e34-42bf-80c6-ecb25d8f1ab7)<br> Default | wea_famasss_famassscny_blk |
 
 
 # BPR2000
