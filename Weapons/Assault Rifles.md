@@ -18,7 +18,7 @@
 
 - [AN-94](#AN-94)
 
-- [FA7.62-L](#FA7.62-L)
+- [FA7.62-L](#FA7_62_L)
 
 - [FAMAS](#FAMAS)
 
@@ -263,8 +263,8 @@
 | | | | | 
 ![wea_an94_item_icon](https://github.com/user-attachments/assets/1aa56f31-4620-4ae4-8859-b8544f6de205)<br> Default | an94  | 
 
-
-## FA7.62-L
+<a name="FA7_62_L"></a>
+## FA7.62-L 
 
 | Icon | Name |
 | :--: | :--: | 
