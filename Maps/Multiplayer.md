@@ -13,7 +13,7 @@
 | | | | | 
 ![loadscreen_mp_nuked](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> NukeTown | mp_nuked | 
 | | | | |
-![loadscreen_mp_abandon_sh_mk](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Abandon | mp_abandon_sh_mk |
+![loadscreen_mp_abandon_sh_mk](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Carnival | mp_abandon_sh_mk |
 | | | | |
 ![loadscreen_mp_afghan](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Afghan | mp_afghan |
 | | | | |
