@@ -262,6 +262,19 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_akbp_item_icon](https://github.com/user-attachments/assets/6d94b964-0879-46a2-8de5-9f48ff667466)<br> Default | akbp | 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+![wea_akbpcoral_item_icon](https://github.com/user-attachments/assets/650a2969-7fe2-48a4-be12-ed50d35a6ca5)<br> coral | akbpcoral | 
+| Icon | Name |
+![wea_akbppink_item_icon](https://github.com/user-attachments/assets/b9141340-a4a5-4f19-9355-22a3fd23473e)<br> pink | akbppink | 
+| Icon | Name |
+![wea_akbpvip_item_icon](https://github.com/user-attachments/assets/928808f8-8ae9-46bd-ae7e-3950bb9b5c72)<br> vip | akbpvip |
+
+</details>
 
 <a name="AKBP_Tech"></a>
 ## AKBP Tech
@@ -270,7 +283,15 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_akbptech_item_icon](https://github.com/user-attachments/assets/23e6b7c9-0b63-4fbf-9c02-6c2699e40da1)<br> Default | akbptech | 
+<details>
+<summary> Skins </summary>
 
+| Icon | Name |
+| :--: | :--: | 
+| |
+![wea_akbptechsupplydrop_item_icon](https://github.com/user-attachments/assets/d54b5c15-32c9-4eeb-bd01-6efea0b060b0)<br> supplydrop | akbptechsupplydrop | 
+
+</details>
 
 ## AN-94
 
