@@ -342,6 +342,23 @@
 | | | | | 
 ![wea_ff58_item_icon](https://github.com/user-attachments/assets/d67b2694-63b8-4216-893c-4ec59c00a64d)<br> Default | ff58 | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+![wea_ff58wolf_item_icon](https://github.com/user-attachments/assets/402c8448-95d6-4024-b1c4-93445726505d)<br> wolf | ff58wolf | 
+| Icon | Name |
+![wea_ff58platinum_item_icon](https://github.com/user-attachments/assets/f9c4696e-2e11-4e0d-911b-278b2358254a)<br> platinum | ff58platinum | 
+| Icon | Name |
+![wea_ff58navyblue_item_icon](https://github.com/user-attachments/assets/553c19fd-7a6b-43da-b306-05fe7029c854)<br> navyblue | ff58navyblue | 
+| Icon | Name |
+![wea_ff58hero_item_icon](https://github.com/user-attachments/assets/36b0330f-c143-4412-bc4e-3922058e28a8)<br> hero | ff58hero | 
+| Icon | Name |
+![wea_ff58ww2_item_icon](https://github.com/user-attachments/assets/bc9a82b0-04fe-412c-9136-3d548002a821)<br> ww2 | ff58ww2 | 
+
+</details>
 
 ## FAMAS
 
@@ -349,11 +366,27 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_famas_item_icon](https://github.com/user-attachments/assets/74e3d237-acff-4f76-8b1b-f06edd4a4e7d)<br> Default  | famas | 
-| Icon | Name |
-![wea_famasss_item_icon](https://github.com/user-attachments/assets/c4ff9153-a03c-4834-9d19-696aa9edc71d)<br> Default | famasss |
-| Icon | Name |
-![wea_famassscny_item_icon](https://github.com/user-attachments/assets/0fb30511-1e34-42bf-80c6-ecb25d8f1ab7)<br> Default | famasss |
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_famasnya_item_icon](https://github.com/user-attachments/assets/dfe65198-08f5-4a90-9fff-435a9a814c96)<br> nya  | famasnya | 
+| Icon | Name |
+![wea_famasflanker_item_icon](https://github.com/user-attachments/assets/8b4477a9-cf76-4435-8e8d-eee727c7e371)<br> flanker  | famasflanker | 
+| Icon | Name |
+![wea_famas3kingdoms_item_icon](https://github.com/user-attachments/assets/b036d77b-906a-4f06-b75a-ba87d33bbde7)<br> 3kingdoms  | famas3kingdoms | 
+| Icon | Name |
+![wea_famasnyb_item_icon](https://github.com/user-attachments/assets/e0c04662-15f0-4937-b843-362b0c7a9e8d)<br> nyb  | famasnyb | 
+| Icon | Name |
+![wea_famasss_item_icon](https://github.com/user-attachments/assets/c4ff9153-a03c-4834-9d19-696aa9edc71d)<br> ss | famasss |
+| Icon | Name |
+![wea_famassscny_item_icon](https://github.com/user-attachments/assets/0fb30511-1e34-42bf-80c6-ecb25d8f1ab7)<br> sscny | famassscny |
+
+</details>
 
 ## BPR2000
 
