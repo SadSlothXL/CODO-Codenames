@@ -300,6 +300,40 @@
 | | | | | 
 ![wea_an94_item_icon](https://github.com/user-attachments/assets/1aa56f31-4620-4ae4-8859-b8544f6de205)<br> Default | an94  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+![wea_an94fool_item_icon](https://github.com/user-attachments/assets/a36a099f-7ebd-44e8-9212-bb1038300798)<br> fool | an94fool | 
+| Icon | Name |
+![wea_an94flanker_item_icon](https://github.com/user-attachments/assets/5c1a882d-0e23-476d-8998-783f299d4274)<br> flanker | an94flanker | 
+| Icon | Name |
+![wea_an94gldera_item_icon](https://github.com/user-attachments/assets/c70c08b5-a1e3-46a6-a82e-78c1b466e0dc)<br> gldera | an94gldera | 
+| Icon | Name |
+![wea_an94green_item_icon](https://github.com/user-attachments/assets/12548a75-59a7-4ace-b6c5-c1efdb8de03e)<br> green | an94green | 
+| Icon | Name |
+![wea_an94hellwalker_item_icon](https://github.com/user-attachments/assets/5f1273b1-499b-47ed-8c68-8d988b9d08b2)<br> hellwalker | an94hellwalker | 
+| Icon | Name |
+![wea_an94heloderma_item_icon](https://github.com/user-attachments/assets/8d1df680-fdea-44fb-a19c-a75e157d4a94)<br> heloderma | an94heloderma | 
+| Icon | Name |
+![wea_an94mw_item_icon](https://github.com/user-attachments/assets/43921ddc-9135-4625-8461-bef565b8911d)<br> mw | an94mw | 
+| Icon | Name |
+![wea_an94pink_item_icon](https://github.com/user-attachments/assets/6b5f95df-25c1-4412-a7ba-8adc2824ba30)<br> pink | an94pink | 
+| Icon | Name |
+![wea_an94platinum_item_icon](https://github.com/user-attachments/assets/21f45a44-3310-4406-a017-999a73a8e65a)<br> platinum | an94platinum | 
+| Icon | Name |
+![wea_an94spstation_item_icon](https://github.com/user-attachments/assets/d6e16c9a-7576-4ccc-98c5-4742c8792b8f)<br> spstation | an94spstation | 
+| Icon | Name |
+![wea_an94vulcan_item_icon](https://github.com/user-attachments/assets/f64ff80c-4b04-4c0c-89c5-228ec6eee5c2)<br> vulcan | an94vulcan | 
+| Icon | Name |
+![wea_an94wargod_item_icon](https://github.com/user-attachments/assets/995a9066-ea8b-46c4-80da-b34b57dab4fc)<br> wargod | an94wargod | 
+| Icon | Name |
+![wea_an94wgplatinum_item_icon](https://github.com/user-attachments/assets/0b1a6e5b-0eda-4e8f-bcba-53397764a84a)<br> wgplatinum | an94wgplatinum | 
+
+</details>
+
 <a name="FA7_62_L"></a>
 ## FA7.62-L 
 
