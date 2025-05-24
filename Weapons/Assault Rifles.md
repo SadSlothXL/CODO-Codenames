@@ -75,7 +75,10 @@
 - [Mandate](#Mandate)
 
 
+
 ## AAC
+<details>
+<summary> AAC </summary>
 
 | Icon | Name |
 | :--: | :--: |
@@ -97,9 +100,12 @@
 ![wea_honeybadgertank_item_icon](https://github.com/user-attachments/assets/32e1e824-86b5-4c50-b917-aa8a88c90227)<br> tank | honeybadgertank |
 | Icon | Name |
 ![wea_honeybadgerwargod_item_icon](https://github.com/user-attachments/assets/b3efa296-6b3a-42c4-abd5-719486d783eb)<br> wargod | honeybadgerwargod |
+</details>
 
 ## AK117
-
+<details>
+<summary> AK117 </summary>
+  
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
@@ -168,9 +174,11 @@
 ![wea_ak104ssstar_item_icon](https://github.com/user-attachments/assets/521fe84c-1571-4778-b064-ad02eb01e4b8)<br> ak104ssstar | ak104ssstar | 
 | Icon | Name |
 ![wea_ak104water_item_icon](https://github.com/user-attachments/assets/7c1c8ac4-a675-4c50-a18b-33779516fa65)<br> water | ak104water | 
-
+</details>
 
 ## AK-47
+<details>
+<summary> AK-47 </summary>
 
 | Icon | Name |
 | :--: | :--: | 
@@ -238,7 +246,7 @@
 ![wea_ak47ww2_item_icon](https://github.com/user-attachments/assets/d57201fe-5612-4621-b8e5-c54a36432694)<br> ww2 | ak47ww2  | 
 | Icon | Name |
 ![wea_ak47zhunter_item_icon](https://github.com/user-attachments/assets/497767a8-9840-4959-b00a-a567f177f643)<br> zhunter | ak47zhunter  | 
-
+<details>
 
 ## AKBP
 
