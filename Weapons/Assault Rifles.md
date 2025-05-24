@@ -77,15 +77,17 @@
 
 
 ## AAC
-<details>
-  
-<summary> AAC </summary>
-
 | Icon | Name |
 | :--: | :--: |
 | | 
 ![wea_honeybadger_item_icon](https://github.com/user-attachments/assets/350cb7fb-9be4-4a9b-a957-72b52f3a6c21)<br> Default | acchoneybadger |
+<details>
+<summary> Skins </summary>
+
+## AAC
 | Icon | Name |
+| :--: | :--: |
+| | 
 ![wea_honeybadgerdis_item_icon](https://github.com/user-attachments/assets/98f5169f-ba09-40d0-889b-7df2597fc4e5)<br> rdis | honeybadgerdis |
 | Icon | Name |
 ![wea_honeybadgermustang_item_icon](https://github.com/user-attachments/assets/d87c6d89-e406-4b3b-85d1-53d16a85bab7)<br> mustang | honeybadgermustang |
@@ -103,16 +105,17 @@
 ![wea_honeybadgerwargod_item_icon](https://github.com/user-attachments/assets/b3efa296-6b3a-42c4-abd5-719486d783eb)<br> wargod | honeybadgerwargod |
 </details>
 
-## AK117
-<details>
-  
-<summary> AK117 </summary>
-  
+## AK117  
 | Icon | Name |
 | :--: | :--: | 
-| | | | | 
+| |
 ![wea_ak104common_item_icon](https://github.com/user-attachments/assets/081853f6-f854-49ac-b642-03f0090de86a)<br> Default | ak104 | 
+<details>
+<summary> Skins </summary>
+
 | Icon | Name |
+| :--: | :--: | 
+| |
 ![wea_ak104hero_item_icon](https://github.com/user-attachments/assets/a040b5ee-840e-47dc-9ce0-d087ae089a79)<br> hero | ak104hero | 
 | Icon | Name |
 ![wea_ak104waterblue_item_icon](https://github.com/user-attachments/assets/be7b789d-7268-46fa-a78f-5c139681395d)<br> waterblue | ak104waterblue | 
@@ -179,14 +182,16 @@
 </details>
 
 ## AK-47
+| Icon | Name |
+| :--: | :--: | 
+| |
+![wea_ak47_item_icon](https://github.com/user-attachments/assets/89ab0672-ae9b-4d63-bfbb-ecff16323aab)<br> Default | ak47  | 
 <details>
-<summary> AK-47 </summary>
+<summary> Skins </summary>
 
 | Icon | Name |
 | :--: | :--: | 
-| | | | | 
-![wea_ak47_item_icon](https://github.com/user-attachments/assets/89ab0672-ae9b-4d63-bfbb-ecff16323aab)<br> Default | ak47  | 
-| Icon | Name |
+| |
 ![wea_ak47air_item_icon](https://github.com/user-attachments/assets/2dbfc528-8662-457d-9e7d-e229e78ab419)<br> air | ak47air  | 
 | Icon | Name |
 ![wea_ak47animal_item_icon](https://github.com/user-attachments/assets/236107c9-ee77-431b-89fd-9ab95451da43)<br> Default | ak47  | 
