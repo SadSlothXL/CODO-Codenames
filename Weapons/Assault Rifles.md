@@ -395,6 +395,19 @@
 | | | | | 
 ![wea_fn2000_item_icon](https://github.com/user-attachments/assets/ac340f86-772f-464d-b372-b3cb170d78ea)<br> Default | fn2000  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_fn2000tiger_item_icon](https://github.com/user-attachments/assets/1ebf3825-8007-46dc-ba44-be6ca2ab28c2)<br> tiger | fn2000tiger  | 
+| Icon | Name |
+![wea_fn2000xmas_item_icon](https://github.com/user-attachments/assets/7e51bdbd-80c0-4617-88d8-4d2021b081f4)<br> xmas | fn2000xmas  | 
+
+</details>
+
 <a name="BPR2000_Tech"></a>
 # BPR2000 Tech
 
@@ -403,6 +416,18 @@
 | | | | | 
 ![wea_fn2000tech_item_icon](https://github.com/user-attachments/assets/3763bac2-698a-4777-ae79-458ef22fbdad)<br> Default | fn2000tech  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_fn2000techshard_item_icon](https://github.com/user-attachments/assets/4fe8bfe6-1782-49ea-8b24-f44a3f599d71)<br> shard | fn2000techshard  | 
+| Icon | Name |
+![wea_fn2000techclown_item_icon](https://github.com/user-attachments/assets/b791eab3-90a4-49b5-961a-f98cad028003)<br> clown | fn2000techclown  | 
+
+</details>
 
 ## MK17-CQC
 
