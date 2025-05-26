@@ -465,6 +465,50 @@
 | | | | | 
 ![wea_scarsapr_item_icon](https://github.com/user-attachments/assets/24f77745-06fe-4be0-9a76-8423d3249c2a)<br> Default | scarsapr  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_scarsaprreskin_item_icon](https://github.com/user-attachments/assets/7ccb9c89-d860-4769-95b6-c0f442df8c4c)<br> reskin | scarsaprreskin  | 
+| Icon | Name |
+![wea_scarsaprsd_item_icon](https://github.com/user-attachments/assets/c516b86f-ceea-45aa-8354-40e86a8e3e94)<br> sd | scarsaprsd  | 
+| Icon | Name |
+![wea_scarsaprww2_item_icon](https://github.com/user-attachments/assets/6695b4d4-cd85-440b-81ae-4805dacd112d)<br> ww2 | scarsaprww2  | 
+| Icon | Name |
+![wea_scarsaprbo3_item_icon](https://github.com/user-attachments/assets/184fca06-bf44-46d3-a772-aadf906cafe9)<br> bo3 | scarsaprbo3  | 
+| Icon | Name |
+![wea_scarsaprcandy_item_icon](https://github.com/user-attachments/assets/9dec806d-bd16-4caa-aa28-88d3d217b964)<br> candy | scarsaprcandy  | 
+| Icon | Name |
+![wea_scarsaprcell_item_icon](https://github.com/user-attachments/assets/c374885d-64d5-45f9-a21b-6cbe17be76a7)<br> Cell Shading | scarsaprcell  | 
+| Icon | Name |
+![wea_scarsaprgeo_item_icon](https://github.com/user-attachments/assets/6ea58840-2f04-4aa6-b664-f87007deaed8)<br> geo | scarsaprgeo  | 
+| Icon | Name |
+![wea_scarsaprgold_item_icon](https://github.com/user-attachments/assets/15463ca2-52a7-455f-ba44-49c5c31304af)<br> gold | scarsaprgold  | 
+| Icon | Name |
+![wea_scarsaprorbit_item_icon](https://github.com/user-attachments/assets/6682c58b-4944-471d-955a-5a5df399f174)<br> orbit | scarsaprorbit  | 
+| Icon | Name |
+![wea_scarsaprplatinum_item_icon](https://github.com/user-attachments/assets/16c29b92-9615-4599-8118-a23bc98cd2bc)<br> platinum | scarsaprplatinum  | 
+| Icon | Name |
+![wea_scarsaprrainbow_item_icon](https://github.com/user-attachments/assets/bd74571f-a7b6-48f2-9583-b0ed202fa5f0)<br> rainbow | scarsaprrainbow  | 
+| Icon | Name |
+![wea_scarsaprrazorback_item_icon](https://github.com/user-attachments/assets/b07e5acb-508a-460e-bf60-f2b5156695d2)<br> razorback | scarsaprrazorback  | 
+| Icon | Name |
+![wea_scarsaprspy_item_icon](https://github.com/user-attachments/assets/67635a19-2505-4bf5-b81e-4ff2a3cd814a)<br> spy | scarsaprspy  | 
+| Icon | Name |
+![wea_scarsaprstar_item_icon](https://github.com/user-attachments/assets/2c247a0b-c931-4479-af2b-6c92b1e67d87)<br> star | scarsaprstar  | 
+| Icon | Name |
+![wea_scarsaprtesla_item_icon](https://github.com/user-attachments/assets/a5d0a1ed-b677-4746-b3cb-9c0f74fd734e)<br> tesla | scarsaprtesla  | 
+| Icon | Name |
+![wea_scarsaprtyrant_item_icon](https://github.com/user-attachments/assets/b3fe24af-ebe1-4042-be3b-a02bc394af5d)<br> tyrant | scarsaprtyrant  | 
+| Icon | Name |
+![wea_scarsaprvictory_item_icon](https://github.com/user-attachments/assets/840fe2af-f512-4dee-87e2-3b9d1df7bce1)<br> victory | scarsaprvictory  | 
+| Icon | Name |
+![wea_scarsaprwargod_item_icon](https://github.com/user-attachments/assets/6c9f08cf-1401-44ac-9bf9-e9dc41c2798b)<br> wargod | scarsaprwargod  | 
+
+</details>
 
 ## G37H
 
