@@ -1,4 +1,4 @@
-# Assault Rifles
+![wea_scarronin_item_icon](https://github.com/user-attachments/assets/b75d454f-22da-40d0-a659-df1f288446ca)# Assault Rifles
 
 > [!IMPORTANT]
 > Models are separated based on their respective parts
@@ -435,6 +435,27 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_scar_item_icon](https://github.com/user-attachments/assets/0581bd3f-148a-4cb8-b31c-2ce7aa195e7e)<br> Default | scar  |
+
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_scarscrawl_item_icon](https://github.com/user-attachments/assets/54b4a25f-6a86-48a0-adb3-9de49e9b529c)<br> scrawl | scarscrawl  |
+| Icon | Name |
+![wea_scarronin_item_icon](https://github.com/user-attachments/assets/b7b916c7-9ae7-4af3-b4bd-ebf437131db9)<br> ronin | scarronin  |
+| Icon | Name |
+![wea_scarmustang_item_icon](https://github.com/user-attachments/assets/d7a7baa0-2ab2-4881-8ab3-8d0ad3261ddd)<br> mustang | scarmustang  |
+| Icon | Name |
+![wea_scarknight_item_icon](https://github.com/user-attachments/assets/032c3528-dfcd-4dcf-a10b-fbad89de2435)<br> knight | scarknight  |
+| Icon | Name |
+![wea_scarevent_item_icon](https://github.com/user-attachments/assets/e5439650-1e8f-4aa3-9a45-16ee470efc56)<br> event | scarevent  |
+| Icon | Name |
+![wea_scarbluing_item_icon](https://github.com/user-attachments/assets/bdcb4c48-d56c-4c6f-af34-00fb01be04ea)<br> bluing | scarbluing  |
+
+</details>
 
 
 # MR23
