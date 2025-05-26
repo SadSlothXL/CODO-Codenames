@@ -82,7 +82,6 @@
 <details>
 <summary> Skins </summary>
 
-## AAC
 | Icon | Name |
 | :--: | :--: |
 | | 
