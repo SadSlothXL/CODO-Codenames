@@ -515,6 +515,32 @@
 | | | | | 
 ![wea_g36c_item_icon](https://github.com/user-attachments/assets/1123889c-eee7-48dd-89de-f0657e8173df)<br> Default | g36c  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_g36cbattlepass_item_icon](https://github.com/user-attachments/assets/35262ddc-e916-4f2a-ac31-c7a3b27b16ad)<br> battlepass | g36cbattlepass  | 
+| Icon | Name |
+![wea_g36cbrick_item_icon](https://github.com/user-attachments/assets/60fd2e2a-fe77-4c55-947d-5139fc7c0961)<br> brick | g36cbrick  | 
+| Icon | Name |
+![wea_g36chive_item_icon](https://github.com/user-attachments/assets/db595d5e-d56c-4223-91df-d5cae1727699)<br> hive | g36chive  | 
+| Icon | Name |
+![wea_g36cmurder_item_icon](https://github.com/user-attachments/assets/6022ed56-4588-4d24-b745-d9cdc75b86e6)<br> murder | g36cmurder  | 
+| Icon | Name |
+![wea_g36cplatinum_item_icon](https://github.com/user-attachments/assets/92428c9e-d435-4dc9-ac89-5a0f296f2ef0)<br> platinum | g36cplatinum  | 
+| Icon | Name |
+![wea_g36crr_item_icon](https://github.com/user-attachments/assets/9f3030f0-ea63-4ffa-becb-f4188c6cce35)<br> rr | g36crr  | 
+| Icon | Name |
+![wea_g36cwater_item_icon](https://github.com/user-attachments/assets/e067e48a-49a9-4920-adc0-3193cf805505)<br> water | g36cwater  | 
+| Icon | Name |
+![wea_g36cwaterblue_item_icon](https://github.com/user-attachments/assets/5fa73d77-f2d8-4b02-b8f9-d65a3ddeed31)<br> waterblue | g36cwaterblue  | 
+
+</details>
+
+
 <a name="Tavor_21"></a>
 ## Tavor-21 
 
