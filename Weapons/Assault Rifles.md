@@ -1,5 +1,3 @@
-![wea_scarronin_item_icon](https://github.com/user-attachments/assets/b75d454f-22da-40d0-a659-df1f288446ca)# Assault Rifles
-
 > [!IMPORTANT]
 > Models are separated based on their respective parts
 >
