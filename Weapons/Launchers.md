@@ -134,12 +134,12 @@
 | :--: | :--: |
 | | 
 | Icon | Name |
-![wea_crossbowgear_item_icon](https://github.com/user-attachments/assets/d9a9ade6-7cfe-42b7-89f7-df4f39bd61b5)
+![wea_crossbowgear_item_icon](https://github.com/user-attachments/assets/d9a9ade6-7cfe-42b7-89f7-df4f39bd61b5)<br> gear | crossbowgear | 
 | Icon | Name |
-![wea_crossbowrare_item_icon](https://github.com/user-attachments/assets/227ea4c9-a7fc-4659-8dbc-994426e48b8f)
+![wea_crossbowrare_item_icon](https://github.com/user-attachments/assets/227ea4c9-a7fc-4659-8dbc-994426e48b8f)<br> rare | crossbowrare | 
 | Icon | Name |
-![wea_crossbowtdreward_item_icon](https://github.com/user-attachments/assets/c8b55a3b-8144-44a2-a776-d027546d99f3)
+![wea_crossbowtdreward_item_icon](https://github.com/user-attachments/assets/c8b55a3b-8144-44a2-a776-d027546d99f3)<br> tdreward | crossbowtdreward | 
 | Icon | Name |
-![wea_crossbowxmas_item_icon](https://github.com/user-attachments/assets/0bb52d67-0907-4fa9-812b-a8160d29b460)
+![wea_crossbowxmas_item_icon](https://github.com/user-attachments/assets/0bb52d67-0907-4fa9-812b-a8160d29b460)<br> xmas | crossbowxmas | 
 
 </details>
