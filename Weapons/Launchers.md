@@ -69,10 +69,6 @@
 | Icon | Name |
 ![wea_m79rooster_item_icon](https://github.com/user-attachments/assets/5028c515-97b7-49bb-8f32-1920cc77f6e3)<br> rooster | m79rooster | 
 | Icon | Name |
-![wea_m79se_item_icon](https://github.com/user-attachments/assets/77d2af98-f25d-4226-81c3-91f44663f49d)<br> se | m79se |
-| Icon | Name |
-![wea_m79wp_item_icon](https://github.com/user-attachments/assets/763b776c-4acd-4d92-b2a5-74effb14bdf2)<br> wp | m79wp | 
-| Icon | Name |
 ![wea_m79zhunt_item_icon](https://github.com/user-attachments/assets/69f97d94-90aa-4f7a-bb98-14902ba75366)<br> zhunt | m79zhunt | 
 
 </details>
