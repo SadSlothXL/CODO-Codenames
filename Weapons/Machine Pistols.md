@@ -102,6 +102,29 @@
 | | | | | 
 ![wea_fa1911ncm_item_icon](https://github.com/user-attachments/assets/f169b55b-9c09-4ae4-822d-317e70995a8a)<br> Default | fa1911 | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: |
+| | 
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+</details>
 
 # Steyr TMP
 
