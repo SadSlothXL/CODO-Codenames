@@ -19,25 +19,19 @@
 | :--: | :--: |
 | | 
 | Icon | Name |
-![wea_m93wgdiamond_item_icon](https://github.com/user-attachments/assets/0b47f3f7-52e5-4f00-9904-3defd6da05da)
-
+![wea_m93wgdiamond_item_icon](https://github.com/user-attachments/assets/0b47f3f7-52e5-4f00-9904-3defd6da05da)<br> wgdiamond | m93wgdiamond | 
 | Icon | Name |
-![wea_m93iridescent_item_icon](https://github.com/user-attachments/assets/ef1ab594-62bb-4225-92bd-6551071d46c1)
-
+![wea_m93iridescent_item_icon](https://github.com/user-attachments/assets/ef1ab594-62bb-4225-92bd-6551071d46c1)<br> iridescent | m93iridescent | 
 | Icon | Name |
-![wea_m933kingdoms_item_icon](https://github.com/user-attachments/assets/b64eb208-8c6c-4c57-9126-f3f647ea32e5)
-
+![wea_m933kingdoms_item_icon](https://github.com/user-attachments/assets/b64eb208-8c6c-4c57-9126-f3f647ea32e5)<br> kingdoms | m93kingdoms | 
 | Icon | Name |
-![wea_m93battlepass_item_icon](https://github.com/user-attachments/assets/03e067b4-f85a-44d8-b26f-b8a774ff44c7)
-
+![wea_m93battlepass_item_icon](https://github.com/user-attachments/assets/03e067b4-f85a-44d8-b26f-b8a774ff44c7)<br> battlepass | m93battlepass | 
 | Icon | Name |
-![wea_m93dystopian_item_icon](https://github.com/user-attachments/assets/6532b25c-e529-4405-8d17-667db8b6395a)
-
+![wea_m93dystopian_item_icon](https://github.com/user-attachments/assets/6532b25c-e529-4405-8d17-667db8b6395a)<br> dystopian | m93dystopian | 
 | Icon | Name |
-![wea_m93gold_item_icon](https://github.com/user-attachments/assets/dac3a0bd-e842-4804-baac-4ca5d56901e4)
-
+![wea_m93gold_item_icon](https://github.com/user-attachments/assets/dac3a0bd-e842-4804-baac-4ca5d56901e4)<br> gold | m93gold | 
 | Icon | Name |
-![wea_m93wggold_item_icon](https://github.com/user-attachments/assets/45a5cfe6-e8e7-45c9-a823-4d4ac1219d74)
+![wea_m93wggold_item_icon](https://github.com/user-attachments/assets/45a5cfe6-e8e7-45c9-a823-4d4ac1219d74)<br> wggold | m93wggold | 
 
 </details>
 
