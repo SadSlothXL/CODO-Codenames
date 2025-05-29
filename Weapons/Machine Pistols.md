@@ -109,20 +109,27 @@
 | :--: | :--: |
 | | 
 | Icon | Name |
-
+![wea_fa19113kingdoms_item_icon](https://github.com/user-attachments/assets/50675f36-9b04-428b-b7e5-ab68486a06b4)<br> kingdoms | fa1911kingdoms | 
 | Icon | Name |
-
+![wea_fa1911skull_item_icon](https://github.com/user-attachments/assets/246f9c6e-ae39-488a-9986-10ba35deacf6)<br> skull | fa1911skull | 
 | Icon | Name |
-
+![wea_fa1911rr_item_icon](https://github.com/user-attachments/assets/b2b38cc6-6305-4b8d-be2a-9328c333f12d)<br> rr | fa1911rr | 
 | Icon | Name |
-
+![wea_fa1911rare_item_icon](https://github.com/user-attachments/assets/25255676-9097-4710-9787-73efcde59a22)<br> rare | fa1911rare | 
 | Icon | Name |
-
+![wea_fa1911navyblue_item_icon](https://github.com/user-attachments/assets/281e8a71-2eeb-49bb-80cd-ae253ba0f0c9)<br> navyblue | fa1911navyblue | 
 | Icon | Name |
-
+![wea_fa1911clown_item_icon](https://github.com/user-attachments/assets/ba90b24f-0ac9-4385-8ec3-28513f6c63ad)<br> clown | fa1911clown | 
 | Icon | Name |
-
+![wea_fa1911campaigner_item_icon](https://github.com/user-attachments/assets/82b6dfb7-5a27-4f85-8a7f-741114e215b4)<br> campaigner | fa1911campaigner | 
 | Icon | Name |
+![wea_fa1911bluing_item_icon](https://github.com/user-attachments/assets/404f2db9-6df1-498f-bbb2-b06b3a437a90)<br> bluing | fa1911bluing | 
+| Icon | Name |
+![wea_fa1911wgdiamond_item_icon](https://github.com/user-attachments/assets/f4787d92-4d42-4b51-9e65-f70b8682899d)<br> wgdiamond | fa1911wgdiamond | 
+| Icon | Name |
+![wea_fa1911wgglod_item_icon](https://github.com/user-attachments/assets/58dfe464-6742-4d3f-a2dc-960cbeddbf92)<br> wgglod | fa1911wgglod | 
+| Icon | Name |
+![wea_fa1911two_item_icon](https://github.com/user-attachments/assets/4cd3ea80-13de-4cd5-a834-ffb7f99de9cb)<br> two | fa1911two | 
 
 </details>
 
