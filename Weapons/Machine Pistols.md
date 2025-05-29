@@ -42,6 +42,33 @@
 | | | | | 
 ![wea_g18_item_icon](https://github.com/user-attachments/assets/5407ecc2-8552-4123-ac5f-b620646598ef)<br> Default | g18 | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: |
+| | 
+| Icon | Name |
+![wea_g18animal_item_icon](https://github.com/user-attachments/assets/b682c5ec-17f9-43a0-9759-6ed6788db974)<br> Default | g18 | 
+| Icon | Name |
+![wea_g18bluejade_item_icon](https://github.com/user-attachments/assets/e48383b5-2fd8-4964-aa07-7db08ebfee74)<br> Default | g18 | 
+| Icon | Name |
+![wea_g18deatheg_item_icon](https://github.com/user-attachments/assets/3c330945-1aee-4e58-bde4-7b755e086237)<br> Default | g18 | 
+| Icon | Name |
+![wea_g18gld_item_icon](https://github.com/user-attachments/assets/93c14b46-715b-4a40-acf3-478f93737346)<br> Default | g18 | 
+| Icon | Name |
+![wea_g18navyblue_item_icon](https://github.com/user-attachments/assets/773b7f04-30d4-46a4-af32-97f87a71fbf0)<br> Default | g18 | 
+| Icon | Name |
+![wea_g18redjade_item_icon](https://github.com/user-attachments/assets/8268dc0c-711c-4f36-90bd-02bb388d3d47)<br> Default | g18 | 
+| Icon | Name |
+![wea_g18wgdiamond_item_icon](https://github.com/user-attachments/assets/b2be147c-6046-4256-a6f7-eabc1a070ad0)<br> Default | g18 | 
+| Icon | Name |
+![wea_g18wggold_item_icon](https://github.com/user-attachments/assets/5e16d932-6131-40b2-ad99-559440f2c643)<br> Default | g18 | 
+| Icon | Name |
+![wea_g18wolf_item_icon](https://github.com/user-attachments/assets/2202e1f4-8444-4a36-b4fa-904ee2fe1b9b)<br> Default | g18 | 
+
+</details>
+
 
 # PDW2000
 
