@@ -94,8 +94,6 @@
 | :--: | :--: |
 | | 
 | Icon | Name |
-
-| Icon | Name |
 ![wea_magnumgold_item_icon](https://github.com/user-attachments/assets/a05c756e-0e86-4195-8601-f61f16b97518)<br> gold | magnumncmgold | 
 | Icon | Name |
 ![wea_magnumncmse_item_icon](https://github.com/user-attachments/assets/569c9c3e-c257-4626-aa7e-95b15cea1a84)<br> Toy | magnumncmse | 
