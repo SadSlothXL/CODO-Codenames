@@ -139,3 +139,30 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_tmp_item_icon](https://github.com/user-attachments/assets/55de85d1-40cb-49fd-b6d0-5fafbfa06f12)<br> Default | tmp | 
+
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: |
+| | 
+| Icon | Name |
+![wea_tmps4wargodrare_item_icon](https://github.com/user-attachments/assets/0285e13a-55c4-4acc-a1b6-14f523664978)<br> wargodrare | tmpwargodrare | 
+| Icon | Name |
+![wea_tmpstar_item_icon](https://github.com/user-attachments/assets/1f3dbf90-bf7e-4aec-ab82-d4921d83f09c)<br> star | tmpstar | 
+| Icon | Name |
+![wea_tmpsnake_item_icon](https://github.com/user-attachments/assets/c21d2321-c4c2-460f-94f1-34f1334ba5fa)<br> snake | tmpsnake | 
+| Icon | Name |
+![wea_tmpse_item_icon](https://github.com/user-attachments/assets/ecde4254-f958-47a8-bea5-84c8c317a507)<br> se | tmpse | 
+| Icon | Name |
+![wea_tmps4wargodepic_item_icon](https://github.com/user-attachments/assets/79c9889b-35d1-464d-adb3-c2ba2d998ffe)<br> wargodepic | tmpwargodepic | 
+| Icon | Name |
+![wea_tmprobot_item_icon](https://github.com/user-attachments/assets/58e0daa1-6ddb-435a-aec3-7421949b5ee8)<br> robot | tmprobot | 
+| Icon | Name |
+![wea_tmpgold_item_icon](https://github.com/user-attachments/assets/7dc04b4e-1ae6-4f04-adf3-67bd23fe025d)<br> gold | tmpgold | 
+| Icon | Name |
+![wea_tmpevent_item_icon](https://github.com/user-attachments/assets/04f4a550-50f0-4228-b053-1b278766c793)<br> event | tmpevent | 
+| Icon | Name |
+![wea_tmpcash_item_icon](https://github.com/user-attachments/assets/212b6bbb-8bf9-4671-8c23-b5b6ff839155)<br> cash | tmpcash | 
+
+</details>
