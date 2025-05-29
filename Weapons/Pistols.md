@@ -107,7 +107,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_sportpistolncm_item_icon](https://github.com/user-attachments/assets/f40fe2b1-aec8-4f95-93b5-b538cbf5c8aa)<br> Default | sportpistol | 
+![wea_sportpistolncm_item_icon](https://github.com/user-attachments/assets/33c2d536-d5b3-4f73-aedd-27b252abe14c)<br> Default | sportpistol | 
 
 <details>
 <summary> Skins </summary>
