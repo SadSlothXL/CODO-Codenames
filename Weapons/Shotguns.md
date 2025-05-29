@@ -283,14 +283,14 @@
 | :--: | :--: |
 | | 
 | Icon | Name |
-![wea_csg12ssstar_item_icon](https://github.com/user-attachments/assets/434436f4-629d-4edf-a5b8-d7af1c667331))<br> star | csg12ssstar | 
+![wea_csg12ssstar_item_icon](https://github.com/user-attachments/assets/434436f4-629d-4edf-a5b8-d7af1c667331)<br> star | csg12ssstar | 
 | Icon | Name |
-![wea_csg12sslava_item_icon](https://github.com/user-attachments/assets/d6e27f85-39da-41a6-be57-a4e217e31ac5))<br> lava | csg12sslava | 
+![wea_csg12sslava_item_icon](https://github.com/user-attachments/assets/d6e27f85-39da-41a6-be57-a4e217e31ac5)<br> lava | csg12sslava | 
 | Icon | Name |
-![wea_csg12sscny_item_icon](https://github.com/user-attachments/assets/af83d309-eb5e-4a93-bda3-30807015f2fe))<br> cny | csg12sscny | 
+![wea_csg12sscny_item_icon](https://github.com/user-attachments/assets/af83d309-eb5e-4a93-bda3-30807015f2fe)<br> cny | csg12sscny | 
 | Icon | Name |
-![wea_csg12ssblkred_item_icon](https://github.com/user-attachments/assets/e730e1cd-33a9-4546-a4bc-73c317b64966))<br> blkred | csg12ssblkred | 
+![wea_csg12ssblkred_item_icon](https://github.com/user-attachments/assets/e730e1cd-33a9-4546-a4bc-73c317b64966)<br> blkred | csg12ssblkred | 
 | Icon | Name |
-![wea_csg12ssblk_item_icon](https://github.com/user-attachments/assets/27169bcf-7e93-4d52-b9e8-dc7c78c3a576))<br> blk | csg12ssblk | 
+![wea_csg12ssblk_item_icon](https://github.com/user-attachments/assets/27169bcf-7e93-4d52-b9e8-dc7c78c3a576)<br> blk | csg12ssblk | 
 
 </details>
