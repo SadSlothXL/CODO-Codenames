@@ -13,6 +13,18 @@
 | | | | | 
 ![wea_m9_item_icon](https://github.com/user-attachments/assets/fd1f1133-a574-4ab2-aac9-7e1e16be3b5a)<br> Default | m9 | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: |
+| | 
+| Icon | Name |
+![wea_m9navyblue_item_icon](https://github.com/user-attachments/assets/959dee8d-6a36-4ec6-8204-c866656db3e8)<br> navyblue | m9navyblue | 
+| Icon | Name |
+![wea_m9gold_item_icon](https://github.com/user-attachments/assets/436a5065-4822-476f-a1ff-6362bd3e6426)<br> gold | m9gold | 
+
+</details>
 
 # Desert Eagle
 
@@ -20,7 +32,6 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_deserteagle_item_icon](https://github.com/user-attachments/assets/bf9e280b-6beb-4e80-b93b-1d8c53e03eb2)<br> Default | deserteagle | 
-
 
 # USPT.45
 
