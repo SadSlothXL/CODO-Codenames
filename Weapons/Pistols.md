@@ -48,7 +48,7 @@
 | Icon | Name |
 ![wea_deserteaglewargod_item_icon](https://github.com/user-attachments/assets/905fc3df-d88c-4779-851d-a64a52e68efb)<br> wargod | deserteaglewargod | 
 | Icon | Name |
-![wea_deserteaglewggold_item_icon](https://github.com/user-attachments/assets/ce789f2d-49c2-4c76-a449-973b1ca8868b)<br> wggold | deserteaglewggold | 
+![wea_deserteaglewggold_item_icon](https://github.com/user-attachments/assets/664aac81-37a1-4837-baa8-af57152f5526)<br> wggold | deserteaglewggold | 
 | Icon | Name |
 ![wea_deserteaglespecial_item_icon](https://github.com/user-attachments/assets/090b6aed-76e0-422c-90b3-2ae6ed0bf388)<br> special | deserteaglespecial | 
 
