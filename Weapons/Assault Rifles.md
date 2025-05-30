@@ -661,8 +661,6 @@
 | Icon | Name |
 ![wea_m4a1techzb_item_icon](https://github.com/user-attachments/assets/95622513-ada4-4d4d-ae3f-b2f44fc8779a)<br> zb | m4a1techzb  | 
 | Icon | Name |
-![m4a1techanimal_allwat_bundle_item_icon](https://github.com/user-attachments/assets/a01cb6e2-2502-4949-9288-1f9ba1cac377)<br> animal_allwat | m4a1techanimal_allwa  | 
-| Icon | Name |
 ![wea_m4a1techzombie_item_icon](https://github.com/user-attachments/assets/749bceef-bc86-4427-98ab-f156f750ac01)<br> zombie | m4a1techzombie  | 
 | Icon | Name |
 ![wea_m4a1techverc_item_icon](https://github.com/user-attachments/assets/44fb247f-9d4e-4cd3-a6dc-6b8f62c9c04d)<br> verc | m4a1techverc  | 
