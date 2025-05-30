@@ -1017,10 +1017,8 @@
 | |
 | Icon | Name |
 ![wea_honeybadgersslava_item_icon](https://github.com/user-attachments/assets/136f0258-446f-4264-812d-5922dc08b238)<br> lava | acchoneybadgersslava  |
-
 | Icon | Name |
 ![wea_honeybadgerssblk_item_icon](https://github.com/user-attachments/assets/a1c760e5-3f95-45b0-b195-899c74300f04)<br> Black | acchoneybadgerssblk  |
-
 
 </details>
 
@@ -1031,6 +1029,18 @@
 | | | | | 
 ![wea_scarss_item_icon](https://github.com/user-attachments/assets/e7ac3ce5-3536-4ec8-bdb7-ebbad97a9919)<br> Default | scarss  |
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_scarsslava_item_icon](https://github.com/user-attachments/assets/92672dc2-afc1-4296-8966-5973d21ff4b2)<br> lava | scarsslava  |
+| Icon | Name |
+![wea_scarssstar_item_icon](https://github.com/user-attachments/assets/a14fb7c2-0781-46ee-b2cd-10952d15ccf6)<br> star | scarssstar  |
+
+</details>
 
 ## Fate
 
@@ -1039,6 +1049,22 @@
 | | | | | 
 ![wea_g36css_item_icon](https://github.com/user-attachments/assets/de97a0cc-9171-4ca7-a318-8e9a2dbda89a)<br> Default | g36css  |
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_g36cssstar_item_icon](https://github.com/user-attachments/assets/cd0b0aa4-f3e2-4fd1-9146-9f14460df6cb)<br> star | g36cssstar  |
+| Icon | Name |
+![wea_g36csscny_item_icon](https://github.com/user-attachments/assets/6c01a6fc-c301-4fd9-8bdb-e3a894abeb32)<br> cny | g36csscny  |
+| Icon | Name |
+![wea_g36cssblk_item_icon](https://github.com/user-attachments/assets/b34c3f25-9120-4500-8eaf-d967c5c56186)<br> blk | g36cssblk  |
+| Icon | Name |
+![wea_g36cssyellow_item_icon](https://github.com/user-attachments/assets/efb301a1-f47f-4158-9bea-24b47e516231)<br> yellow | g36cssyellow  |
+
+</details>
 
 # Phantom
 
@@ -1047,6 +1073,22 @@
 | | | | | 
 ![wea_scarsaprss_item_icon](https://github.com/user-attachments/assets/4997ac31-d41d-4413-9e62-8d81e46ff151)<br> Default | scarsaprss  |
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_g36cssstar_item_icon](https://github.com/user-attachments/assets/cd0b0aa4-f3e2-4fd1-9146-9f14460df6cb)<br> star | g36cssstar  |
+| Icon | Name |
+![wea_g36csscny_item_icon](https://github.com/user-attachments/assets/6c01a6fc-c301-4fd9-8bdb-e3a894abeb32)<br> cny | g36csscny  |
+| Icon | Name |
+![wea_g36cssblk_item_icon](https://github.com/user-attachments/assets/b34c3f25-9120-4500-8eaf-d967c5c56186)<br> blk | g36cssblk  |
+| Icon | Name |
+![wea_g36cssyellow_item_icon](https://github.com/user-attachments/assets/efb301a1-f47f-4158-9bea-24b47e516231)<br> yellow | g36cssyellow  |
+
+</details>
 
 ## Justice
 
@@ -1054,6 +1096,13 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_ak47ss_item_icon](https://github.com/user-attachments/assets/2e321b67-ef51-4326-9445-06f8ef770dce)<br> Default | ak47ss  |
+
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
 | Icon | Name |
 ![wea_ak47ss_item_icon](https://github.com/user-attachments/assets/9126ebdd-704a-41b1-badd-b0aa8e4b36de)<br> Default | ak47ss  | 
 | Icon | Name |
@@ -1065,6 +1114,7 @@
 | Icon | Name |
 ![wea_ak47ssstar_item_icon](https://github.com/user-attachments/assets/4af1f942-3869-4954-b1d5-6f3dabe15033)<br> Default | ak47ss  | 
 
+</details>
 
 ## Mandate
 
@@ -1072,3 +1122,20 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_m4a1techss_item_icon](https://github.com/user-attachments/assets/c1ad6c49-1a5a-49dc-90f9-99cff45e3a0d)<br> Default | m4a1techss  |
+
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_m4a1techsslava_item_icon](https://github.com/user-attachments/assets/d982352f-5de8-409d-b10a-25f6c85e4770)<br> lava | m4a1techsslava  |
+| Icon | Name |
+![wea_m4a1techsscny_item_icon](https://github.com/user-attachments/assets/ce87c5d7-bea6-430c-925b-4a4d67826d7d)<br> cny | m4a1techsscny  |
+| Icon | Name |
+![wea_m4a1techssblk_item_icon](https://github.com/user-attachments/assets/6c1a14d9-7339-4c68-85b0-59b7a19cbd18)<br> blk | m4a1techssblk  |
+| Icon | Name |
+![wea_m4a1techssstar_item_icon](https://github.com/user-attachments/assets/1109d0a5-eae0-455d-b63e-172de7e0d038)<br> star | m4a1techssstar  |
+
+</details>
