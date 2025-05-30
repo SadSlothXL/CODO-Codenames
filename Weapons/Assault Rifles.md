@@ -651,8 +651,6 @@
 | Icon | Name |
 ![wea_m4carbon_item_icon](https://github.com/user-attachments/assets/8737b36b-59e9-48d5-b0a8-46b5513bdf4a)<br> carbon | m4carbon  | 
 | Icon | Name |
-![wea_m4bluing_item_icon](https://github.com/user-attachments/assets/58e36f07-18a9-4508-b6b2-0f2047e1579a)<br> bluing | m4bluing  | 
-| Icon | Name |
 ![wea_m4a1techzombie_item_icon](https://github.com/user-attachments/assets/83511e01-1700-439a-add8-f85564555f80)<br> techzombie | m4techzombie  | 
 | Icon | Name |
 ![wea_m4a1techverc_item_icon](https://github.com/user-attachments/assets/d1867efb-88c4-4aa1-b06b-cf8428febbcd)<br> verc | m4verc  | 
