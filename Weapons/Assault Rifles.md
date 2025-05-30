@@ -609,6 +609,27 @@
 | | | | | 
 ![wea_m4_item_icon](https://github.com/user-attachments/assets/f730b7ff-0da5-4c86-b7cb-c4acfcee852d)<br> Default | m4  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_m4t2_item_icon](https://github.com/user-attachments/assets/bea58a5f-c26e-44be-86e1-403a383606a7)<br> t2 | m4t2  | 
+| Icon | Name |
+![wea_m4cny_item_icon](https://github.com/user-attachments/assets/f07e91be-cef0-4f99-949e-9db2bbc073dd)<br> cny | m4cny  | 
+| Icon | Name |
+![wea_m4carbon_item_icon](https://github.com/user-attachments/assets/8737b36b-59e9-48d5-b0a8-46b5513bdf4a)<br> carbon | m4carbon  | 
+| Icon | Name |
+![wea_m4bluing_item_icon](https://github.com/user-attachments/assets/58e36f07-18a9-4508-b6b2-0f2047e1579a)<br> bluing | m4bluing  | 
+| Icon | Name |
+![wea_m4a1techzombie_item_icon](https://github.com/user-attachments/assets/83511e01-1700-439a-add8-f85564555f80)<br> techzombie | m4techzombie  | 
+| Icon | Name |
+![wea_m4a1techverc_item_icon](https://github.com/user-attachments/assets/d1867efb-88c4-4aa1-b06b-cf8428febbcd)<br> verc | m4verc  | 
+
+</details>
+
 <a name="M4A1_Tech"></a>
 ## M4A1 Tech
 
@@ -617,6 +638,26 @@
 | | | | | 
 ![wea_m4a1techcommon_item_icon](https://github.com/user-attachments/assets/baa89d70-acab-4395-88b7-8af5b359a8ea)<br> Default | m4a1tech  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_m4t2_item_icon](https://github.com/user-attachments/assets/bea58a5f-c26e-44be-86e1-403a383606a7)<br> t2 | m4t2  | 
+| Icon | Name |
+![wea_m4cny_item_icon](https://github.com/user-attachments/assets/f07e91be-cef0-4f99-949e-9db2bbc073dd)<br> cny | m4cny  | 
+| Icon | Name |
+![wea_m4carbon_item_icon](https://github.com/user-attachments/assets/8737b36b-59e9-48d5-b0a8-46b5513bdf4a)<br> carbon | m4carbon  | 
+| Icon | Name |
+![wea_m4bluing_item_icon](https://github.com/user-attachments/assets/58e36f07-18a9-4508-b6b2-0f2047e1579a)<br> bluing | m4bluing  | 
+| Icon | Name |
+![wea_m4a1techzombie_item_icon](https://github.com/user-attachments/assets/83511e01-1700-439a-add8-f85564555f80)<br> techzombie | m4techzombie  | 
+| Icon | Name |
+![wea_m4a1techverc_item_icon](https://github.com/user-attachments/assets/d1867efb-88c4-4aa1-b06b-cf8428febbcd)<br> verc | m4verc  | 
+
+</details>
 
 ## M16A4
 
@@ -625,6 +666,22 @@
 | | | | | 
 ![wea_m16_item_icon](https://github.com/user-attachments/assets/9140338a-007e-457b-9518-b3e1cc7a50ff)<br> Default | m16  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_m16police_item_icon](https://github.com/user-attachments/assets/465d1056-9334-4449-a2b4-ffbba399157d)<br> police | m16police  | 
+| Icon | Name |
+![wea_m16navyblue_item_icon](https://github.com/user-attachments/assets/b171fc8d-6c9a-4bbd-9d78-572e2a79c23a)<br> navyblue | m16navyblue  | 
+| Icon | Name |
+![wea_m16mucha_item_icon](https://github.com/user-attachments/assets/b4794297-a67e-401d-b376-1da140653dd2)<br> mucha | m16mucha  | 
+| Icon | Name |
+![wea_m16se_item_icon](https://github.com/user-attachments/assets/9e2f72ff-a097-443f-9102-e7ab8f76bc41)<br> se | m16se  | 
+
+</details>
 
 ## MK14
 
@@ -632,6 +689,35 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_m14ebr_item_icon](https://github.com/user-attachments/assets/3358be58-88fa-4290-b707-084ee5b5de87)<br> Default | m14ebr  | 
+
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_m14ebrwargod_item_icon](https://github.com/user-attachments/assets/86e25223-8d41-470f-8e3f-a73b4238d194)<br> wargod | m14ebrwargod  | 
+| Icon | Name |
+![wea_m14ebrplatinum_item_icon](https://github.com/user-attachments/assets/b1985b09-8de1-41e0-abff-74b503f9f9c1)<br> platinum | m14ebrplatinum  | 
+| Icon | Name |
+![wea_m14ebrornate_item_icon](https://github.com/user-attachments/assets/69822932-116a-4bff-9824-3b50fe419791)<br> ornate | m14ebrornate  | 
+| Icon | Name |
+![wea_m14ebrheloderma_item_icon](https://github.com/user-attachments/assets/c5b6133b-f337-473d-a0c4-5b48f62d11d0)<br> heloderma | m14ebrheloderma  | 
+| Icon | Name |
+![wea_m14ebrevent_item_icon](https://github.com/user-attachments/assets/2ae23b97-d5f3-4df1-92cc-05236e9e5d55)<br> event | m14ebrevent  | 
+| Icon | Name |
+![wea_m14ebrcampaigner_item_icon](https://github.com/user-attachments/assets/4501a177-91b9-48c6-8ddf-e5427f2ac016)<br> campaigner | m14ebrcampaigner  | 
+| Icon | Name |
+![wea_m14ebrbluing_item_icon](https://github.com/user-attachments/assets/62513d64-bc2e-41bf-be01-9ba72dbc04fb)<br> bluing | m14ebrbluing  | 
+| Icon | Name |
+![wea_m14ebrtile_item_icon](https://github.com/user-attachments/assets/b1c4cd19-0e6f-4291-9e67-4fad1c9f7941)<br> tile | m14ebrtile  | 
+| Icon | Name |
+![wea_m14ebrsnake_item_icon](https://github.com/user-attachments/assets/d60fc1c3-18bb-4211-aad0-4599143ab039)<br> snake | m14ebrsnake  | 
+| Icon | Name |
+![wea_m14ebrspace_item_icon](https://github.com/user-attachments/assets/f88fed9b-4151-4b5b-965c-06d77f18b145)<br> space | m14ebrspace  | 
+
+</details>
 
 <a name="Type_95"></a>
 ## Type 95
@@ -641,6 +727,24 @@
 | | | | | 
 ![wea_type95_item_icon](https://github.com/user-attachments/assets/f72863ff-4ebb-447c-863e-b4e19faa6e84)<br> Default | type95  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_type95army_item_icon](https://github.com/user-attachments/assets/818eb5ed-0afa-480c-ab81-659fe55b1bf0)<br> army | type95army  | 
+| Icon | Name |
+![wea_type95space_item_icon](https://github.com/user-attachments/assets/e13a6476-11bf-4706-8768-b21d02b7a898)<br> space | type95space  | 
+| Icon | Name |
+![wea_type95event_item_icon](https://github.com/user-attachments/assets/360a9449-f733-44d6-855c-dd104d9a203b)<br> event | type95event  | 
+| Icon | Name |
+![wea_type95coral_item_icon](https://github.com/user-attachments/assets/1a34bc64-2d89-46db-b49e-0d197eec4e5c)<br> coral | type95coral  | 
+| Icon | Name |
+![wea_type95clown_item_icon](https://github.com/user-attachments/assets/b7e9d9d6-b2a4-4c48-aef7-7b1a9b215220)<br> clown | type95clown  | 
+
+</details>
 
 <a name="Type_97"></a>
 ## Type 97
@@ -649,6 +753,34 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_type95tech_item_icon](https://github.com/user-attachments/assets/a5597f1a-b1f7-402e-8f3b-5c16ba68890b)<br> Default | type95tech  | 
+
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_type95techwargod_item_icon](https://github.com/user-attachments/assets/3eb4bd89-0ae8-4986-a1ba-2f999f336f12)<br> wargod | type95techwargod  | 
+| Icon | Name |
+![wea_type95techutacb_item_icon](https://github.com/user-attachments/assets/9a704e83-0f8f-46a9-b47a-5bc95943bfb4)<br> utacb | type95techutacb  | 
+| Icon | Name |
+![wea_type95techutaca_item_icon](https://github.com/user-attachments/assets/b125c017-85ee-4052-8994-9fd6a8ed599d)<br> utaca | type95techutaca  | 
+| Icon | Name |
+![wea_type95techstar_item_icon](https://github.com/user-attachments/assets/d2305af8-d6cd-46e1-8a0a-ec8c33f3eb58)<br> star | type95techstar  | 
+| Icon | Name |
+![wea_type95techslime_item_icon](https://github.com/user-attachments/assets/99c04901-de4e-42d3-a5fa-7dded93a963b)<br> slime | type95techslime  | 
+| Icon | Name |
+![wea_type95techmurder_item_icon](https://github.com/user-attachments/assets/be8cb735-6ad0-41c5-9743-620d36b1f60f)<br> murder | type95techmurder  | 
+| Icon | Name |
+![wea_type95techfriend_item_icon](https://github.com/user-attachments/assets/a15c98ec-d1f3-47be-8935-20b45eaf36a8)<br> friend | type95techfriend  | 
+| Icon | Name |
+![wea_type95techbcl_item_icon](https://github.com/user-attachments/assets/5f73a935-ae50-4478-9dc7-9f634d4bceeb)<br> bcl | type95techbcl  | 
+| Icon | Name |
+![wea_type95techwgplatinum_item_icon](https://github.com/user-attachments/assets/4b407877-80e4-463e-a132-e594054bf853)<br> wgplatinum | wgplatinum  | 
+
+
+</details>
 
 <a name="Remington_ACR"></a>
 ## Remington ACR
