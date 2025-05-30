@@ -824,7 +824,6 @@
 | Icon | Name |
 ![wea_type95techwgplatinum_item_icon](https://github.com/user-attachments/assets/4b407877-80e4-463e-a132-e594054bf853)<br> wgplatinum | wgplatinum  | 
 
-
 </details>
 
 <a name="Remington_ACR"></a>
@@ -835,6 +834,39 @@
 | | | | | 
 ![wea_acr_item_icon](https://github.com/user-attachments/assets/67b05454-7aa2-4c93-8822-c8abd30fee87)<br> Default | acr  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_acrzhunt_item_icon](https://github.com/user-attachments/assets/4e96c895-62fd-4af3-963b-50435a1f1cba)<br> zhunt | acrzhunt  | 
+| Icon | Name |
+![wea_acrww2_item_icon](https://github.com/user-attachments/assets/ea697745-96b8-4488-848f-3144dd8f8050)<br> ww2 | acrww2  | 
+| Icon | Name |
+![wea_acrtarantula_item_icon](https://github.com/user-attachments/assets/1303d729-4877-4b82-923a-c1e937935385)<br> tarantula | acrtarantula  | 
+| Icon | Name |
+![wea_acrrekcol_item_icon](https://github.com/user-attachments/assets/d4a73f0b-6f14-400b-bedc-932abd069f58)<br> rekcol | acrrekcol  | 
+| Icon | Name |
+![wea_acrnuke_item_icon](https://github.com/user-attachments/assets/71c6b7bf-53c3-4488-bddd-6e3348b4e1dc)<br> nuke | acrnuke  | 
+| Icon | Name |
+![wea_acrlabel_item_icon](https://github.com/user-attachments/assets/6e49ba32-6c2c-43e3-b470-ec5a109d5c0a)<br> label | acrlabel  | 
+| Icon | Name |
+![wea_acrknight_item_icon](https://github.com/user-attachments/assets/4a228d81-aa38-469f-b014-fc516a46a16e)<br> knight | acrknight  | 
+| Icon | Name |
+![wea_acrhellwalker_item_icon](https://github.com/user-attachments/assets/be95ee51-c640-449f-97dc-76a0160abe56)<br> hellwalker | acrhellwalker  | 
+| Icon | Name |
+![wea_acrfusion_item_icon](https://github.com/user-attachments/assets/aa53ec40-7f9d-4afb-b831-66c373101df2)<br> fusion | acrfusion  | 
+| Icon | Name |
+![wea_acrevent_item_icon](https://github.com/user-attachments/assets/a67896c6-e1c8-4ea1-a971-18e8eadfe960)<br> event | acrevent  | 
+| Icon | Name |
+![wea_acrblops_item_icon](https://github.com/user-attachments/assets/b241304a-7a4e-4fec-8f30-2dbbbcc621f6)<br> blops | acrblops  | 
+| Icon | Name |
+![wea_acrair_item_icon](https://github.com/user-attachments/assets/ee78aaaf-c0c4-4e92-8525-83d0f48c84cf)<br> air | acrair  | 
+
+
+</details>
 
 ## SPBC
 
@@ -843,6 +875,26 @@
 | | | | | 
 ![wea_spbc_item_icon](https://github.com/user-attachments/assets/5c67057e-0604-4119-924a-67325426c898)<br> Default | spbc  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_spbcstar_item_icon](https://github.com/user-attachments/assets/d600246c-5631-46d9-b0f9-4af83e8df62b)<br> star | spbcstar  | 
+| Icon | Name |
+![wea_spbcgunship_item_icon](https://github.com/user-attachments/assets/24298987-20e8-428d-b31c-71140e5fb0e3)<br> gunship | spbcgunship  | 
+| Icon | Name |
+![wea_spbcgold_item_icon](https://github.com/user-attachments/assets/e53b803f-2153-4830-b1ec-5139b6d681da)<br> gold | spbcgold  | 
+| Icon | Name |
+![wea_spbcglasswork_item_icon](https://github.com/user-attachments/assets/4660c3d5-7267-4c10-9add-20cd9c650973)<br> glasswork | spbcglasswork  | 
+| Icon | Name |
+![wea_spbcevent_item_icon](https://github.com/user-attachments/assets/c2332b63-9dde-422b-8f54-aaacde397dd7)<br> event | spbcevent  | 
+| Icon | Name |
+![wea_spbcclown_item_icon](https://github.com/user-attachments/assets/2a031a51-cc44-4220-9a7b-b22483e2bf40)<br> clown | spbcclown  | 
+
+</details>
 
 ## Vepr
 
@@ -850,6 +902,27 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_vepr_item_icon](https://github.com/user-attachments/assets/c8b52b22-67db-4321-9ad8-d1156dd237f5)<br> Default | vepr  | 
+
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_veprlaborday_item_icon](https://github.com/user-attachments/assets/69d6cfc2-cd3a-449f-a318-a878c65d709b)<br> laborday | veprlaborday  | 
+| Icon | Name |
+![wea_veprhalloween_item_icon](https://github.com/user-attachments/assets/b3d1ef3b-94e5-4223-b0eb-c3a32d557d8d)<br> halloween | veprhalloween  | 
+| Icon | Name |
+![wea_veprgraffiti_item_icon](https://github.com/user-attachments/assets/0b301f12-85ca-4393-a822-fed44012d2f0)<br> graffiti | veprgraffiti  | 
+| Icon | Name |
+![wea_veprvulcan_item_icon](https://github.com/user-attachments/assets/d1ae1867-ea65-4441-a60d-9407c80bbc1b)<br> vulcan | veprvulcan  | 
+| Icon | Name |
+![wea_veprtyrant_item_icon](https://github.com/user-attachments/assets/1ccea1e3-de25-4288-ae51-0d0acbccecff)<br> tyrant | veprtyrant  | 
+| Icon | Name |
+![wea_veprrekcol_item_icon](https://github.com/user-attachments/assets/7cf4315e-f0c5-4e6b-b4d3-1b260d2f63a8)<br> rekcol | veprrekcol  | 
+
+</details>
 
 <a name="R5_RGP"></a>
 ## R5 RGP
@@ -859,6 +932,23 @@
 | | | | | 
 ![wea_r5rgp_item_icon](https://github.com/user-attachments/assets/b304cd9a-953d-4180-b312-4e304106e348)<br> Default | m4a1techr5  |
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_r5rgptyrant_item_icon](https://github.com/user-attachments/assets/4c079de3-4654-4a92-a80d-9e723517a25a)<br> tyrant | m4a1techr5tyrant  |
+| Icon | Name |
+![wea_r5rgpsupplydp_item_icon](https://github.com/user-attachments/assets/f1a8d3dc-7bdd-436b-8e7d-48babc4936ec)<br> supplydp | m4a1techr5supplydp  |
+| Icon | Name |
+![wea_r5rgpred_item_icon](https://github.com/user-attachments/assets/ac0ed2c8-8063-4fc1-8934-4d8e268341e0)<br> red | m4a1techr5red  |
+| Icon | Name |
+![wea_r5rgpneon_item_icon](https://github.com/user-attachments/assets/a6ff0570-16fc-47a9-b314-86a0b3959a1f)<br> neon | m4a1techr5neon  |
+
+</details>
+
 
 ## X51
 
@@ -867,6 +957,26 @@
 | | | | | 
 ![wea_arx51_item_icon](https://github.com/user-attachments/assets/c901c28b-58b9-4a66-b31f-1d41f22ed639)<br> Default | arx51  |
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_arx51snake_item_icon](https://github.com/user-attachments/assets/6402123f-c40e-48d8-9e3e-a117fa1ec13b)<br> snake | arx51snake  |
+| Icon | Name |
+![wea_arx51gld_item_icon](https://github.com/user-attachments/assets/3c8b0e08-bc37-43b9-ac70-c29b4c93e061)<br> gld | arx51gld  |
+| Icon | Name |
+![wea_arx51dmzalt_item_icon](https://github.com/user-attachments/assets/a5dc055b-6c51-4e80-8872-8e5fcabf4fe7)<br> dmzalt | arx51dmzalt  |
+| Icon | Name |
+![wea_arx51dmz_item_icon](https://github.com/user-attachments/assets/7d9d2d79-42a4-48f9-b85c-3f0b8ed9dfb1)<br> dmz | arx51dmz  |
+| Icon | Name |
+![wea_arx51blk_item_icon](https://github.com/user-attachments/assets/a645317a-020d-474c-afde-c72793247e56)<br> black | arx51blk  |
+| Icon | Name |
+![wea_arx51zhunt_item_icon](https://github.com/user-attachments/assets/2bf72574-11fa-4864-bb27-bf709a2a6178)<br> zhunt | arx51zhunt  |
+
+</details>
 
 ## Chaos
 
