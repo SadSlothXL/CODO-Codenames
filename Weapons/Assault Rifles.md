@@ -985,6 +985,22 @@
 | | | | | 
 ![wea_an94ss_item_icon](https://github.com/user-attachments/assets/b0d8663c-7ece-4b3a-bd32-5bd696244e48)<br> Default | an94ss  |
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_an94ssstar_item_icon](https://github.com/user-attachments/assets/a37af1c8-a07e-4ca8-83de-9bb39aebb662)<br> star | an94ssstar  |
+| Icon | Name |
+![wea_an94sslava_item_icon](https://github.com/user-attachments/assets/67895517-9df0-4e55-8219-e0d0c10498b8)<br> lava | an94sslava  |
+| Icon | Name |
+![wea_an94ssblk_item_icon](https://github.com/user-attachments/assets/43d12b53-4dd8-4990-bdd0-0873e07495dc)<br> Black | an94ssblk  |
+| Icon | Name |
+![wea_an94sswht_item_icon](https://github.com/user-attachments/assets/2f0b8b23-d50b-4a8b-b599-a42c65dadfca)<br> White | an94sswht  |
+
+</details>
 
 ## Death
 
@@ -993,6 +1009,20 @@
 | | | | | 
 ![wea_honeybadgerss_item_icon](https://github.com/user-attachments/assets/ad0e5117-8264-4bb3-b939-a99819b626a4)<br> Default | acchoneybadgerss  |
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_honeybadgersslava_item_icon](https://github.com/user-attachments/assets/136f0258-446f-4264-812d-5922dc08b238)<br> lava | acchoneybadgersslava  |
+
+| Icon | Name |
+![wea_honeybadgerssblk_item_icon](https://github.com/user-attachments/assets/a1c760e5-3f95-45b0-b195-899c74300f04)<br> Black | acchoneybadgerssblk  |
+
+
+</details>
 
 ## Doom
 
