@@ -3,7 +3,11 @@
 >
 > Like `mag` or `stock`
 
-## Weapons
+## Index
+
+<details>
+<summary> Weapons </summary>
+
 - [AAC](#AAC)
 
 - [AK117](#AK117)
@@ -72,7 +76,7 @@
 
 - [Mandate](#Mandate)
 
-
+</details>
 
 ## AAC
 | Icon | Name |
