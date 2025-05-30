@@ -548,6 +548,21 @@
 | | | | | 
 ![wea_tar21_item_icon](https://github.com/user-attachments/assets/0b3b23ba-dc01-483d-91b0-260237b853ce)<br> Default | tar21  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_tar21se_item_icon](https://github.com/user-attachments/assets/5338cc6f-f90c-4002-bdd7-42267576d59a)<br> se | tar21se  | 
+| Icon | Name |
+![wea_tar21graffiti_item_icon](https://github.com/user-attachments/assets/ce8b782e-e1c3-42eb-8924-47498501e175)<br> graffiti | tar21graffiti  | 
+| Icon | Name |
+![wea_tar21zhunt_item_icon](https://github.com/user-attachments/assets/3e2e3036-149e-469d-915a-c9ad4c13f811)<br> zhunt | tar21zhunt  | 
+
+</details>
+
 <a name="Tavor_21_Tech"></a>
 ## Tavor-21 Tech
 
@@ -564,6 +579,28 @@
 | | | | | 
 ![wea_m1garand_item_icon](https://github.com/user-attachments/assets/59b9bf14-d8b9-44a7-a0f7-9036915ffddb)<br> Default | m1garandmodern  | 
 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+| Icon | Name |
+![wea_m1garandww2_item_icon](https://github.com/user-attachments/assets/69500ed6-b025-4fac-8ec8-2642217074ed)<br> ww2 | garandww2  | 
+| Icon | Name |
+![wea_m1garandvulcan_item_icon](https://github.com/user-attachments/assets/b5fcc4d1-589a-48e4-9e3c-ca82ea209fb3)<br> vulcan | m1garandvulcan  | 
+| Icon | Name |
+![wea_m1garandsmart_item_icon](https://github.com/user-attachments/assets/beb4e0c7-032a-430c-9939-783361e31468)<br> smart | m1garandsmart  | 
+| Icon | Name |
+![wea_m1garandpatriot_item_icon](https://github.com/user-attachments/assets/44343807-19af-456a-9a06-b334d291ac95)<br> patriot | m1garandpatriot  | 
+| Icon | Name |
+![wea_m1garandhalloween_item_icon](https://github.com/user-attachments/assets/1f3efc8d-de53-496c-899f-ec9c6a3f36e6)<br> halloween | m1garandhalloween  | 
+| Icon | Name |
+![wea_m1garandgld_item_icon](https://github.com/user-attachments/assets/bf754b66-72e4-4646-9106-d47a7c9cf315)<br> gld | m1garandgld  | 
+| Icon | Name |
+![wea_m1garandbc_item_icon](https://github.com/user-attachments/assets/a6332ce3-8cfc-46db-8fe9-59b9b6d9027d)<br> bc | m1garandbc  | 
+
+</details>
 
 ## M4A1
 
