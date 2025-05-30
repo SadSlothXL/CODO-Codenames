@@ -616,17 +616,11 @@
 | :--: | :--: | 
 | |
 | Icon | Name |
-![wea_m4t2_item_icon](https://github.com/user-attachments/assets/bea58a5f-c26e-44be-86e1-403a383606a7)<br> t2 | m4t2  | 
+![wea_m4t2_item_icon](https://github.com/user-attachments/assets/daf7c274-5919-4c68-a764-1f26805b9c4a)<br> t2 | m4t2  | 
 | Icon | Name |
-![wea_m4cny_item_icon](https://github.com/user-attachments/assets/f07e91be-cef0-4f99-949e-9db2bbc073dd)<br> cny | m4cny  | 
+![wea_m4cny_item_icon](https://github.com/user-attachments/assets/7109062a-238b-4866-97a7-f8de07b80ce1)<br> cny | m4cny  | 
 | Icon | Name |
-![wea_m4carbon_item_icon](https://github.com/user-attachments/assets/8737b36b-59e9-48d5-b0a8-46b5513bdf4a)<br> carbon | m4carbon  | 
-| Icon | Name |
-![wea_m4bluing_item_icon](https://github.com/user-attachments/assets/58e36f07-18a9-4508-b6b2-0f2047e1579a)<br> bluing | m4bluing  | 
-| Icon | Name |
-![wea_m4a1techzombie_item_icon](https://github.com/user-attachments/assets/83511e01-1700-439a-add8-f85564555f80)<br> techzombie | m4techzombie  | 
-| Icon | Name |
-![wea_m4a1techverc_item_icon](https://github.com/user-attachments/assets/d1867efb-88c4-4aa1-b06b-cf8428febbcd)<br> verc | m4verc  | 
+![wea_m4bluing_item_icon](https://github.com/user-attachments/assets/53b2a1b4-0365-4011-9bc6-01ea804a26bd)<br> bluing | m4bluing  | 
 
 </details>
 
@@ -645,15 +639,38 @@
 | :--: | :--: | 
 | |
 | Icon | Name |
-![wea_m4t2_item_icon](https://github.com/user-attachments/assets/bea58a5f-c26e-44be-86e1-403a383606a7)<br> t2 | m4t2  | 
+
 | Icon | Name |
-![wea_m4cny_item_icon](https://github.com/user-attachments/assets/f07e91be-cef0-4f99-949e-9db2bbc073dd)<br> cny | m4cny  | 
+
 | Icon | Name |
-![wea_m4carbon_item_icon](https://github.com/user-attachments/assets/8737b36b-59e9-48d5-b0a8-46b5513bdf4a)<br> carbon | m4carbon  | 
+
 | Icon | Name |
-![wea_m4a1techzombie_item_icon](https://github.com/user-attachments/assets/83511e01-1700-439a-add8-f85564555f80)<br> techzombie | m4techzombie  | 
+
 | Icon | Name |
-![wea_m4a1techverc_item_icon](https://github.com/user-attachments/assets/d1867efb-88c4-4aa1-b06b-cf8428febbcd)<br> verc | m4verc  | 
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
+
+| Icon | Name |
 
 </details>
 
