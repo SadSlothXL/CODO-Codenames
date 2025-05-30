@@ -671,13 +671,14 @@
 | :--: | :--: | 
 | |
 | Icon | Name |
-![wea_m16police_item_icon](https://github.com/user-attachments/assets/465d1056-9334-4449-a2b4-ffbba399157d)<br> police | m16police  | 
+![wea_m16police_item_icon](https://github.com/user-attachments/assets/ede80741-dd44-4a22-a7cb-85201145e3ff)<br> police | m16police  | 
 | Icon | Name |
-![wea_m16navyblue_item_icon](https://github.com/user-attachments/assets/b171fc8d-6c9a-4bbd-9d78-572e2a79c23a)<br> navyblue | m16navyblue  | 
+![wea_m16navyblue_item_icon](https://github.com/user-attachments/assets/06b2c66e-d37d-41b0-8078-ab98032a2da6)<br> navyblue | m16navyblue  |
 | Icon | Name |
-![wea_m16mucha_item_icon](https://github.com/user-attachments/assets/b4794297-a67e-401d-b376-1da140653dd2)<br> mucha | m16mucha  | 
+![wea_m16mucha_item_icon](https://github.com/user-attachments/assets/c17a1dc7-f8fd-4416-b722-f442741a1fe0)<br> mucha | m16mucha  | 
 | Icon | Name |
-![wea_m16se_item_icon](https://github.com/user-attachments/assets/9e2f72ff-a097-443f-9102-e7ab8f76bc41)<br> se | m16se  | 
+![wea_m16se_item_icon](https://github.com/user-attachments/assets/e73dacb9-ba09-4e9c-b470-abd28bca0b7a)<br> se | m16se  | 
+
 
 </details>
 
