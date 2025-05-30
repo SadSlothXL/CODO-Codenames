@@ -1080,13 +1080,7 @@
 | :--: | :--: | 
 | |
 | Icon | Name |
-![wea_g36cssstar_item_icon](https://github.com/user-attachments/assets/cd0b0aa4-f3e2-4fd1-9146-9f14460df6cb)<br> star | g36cssstar  |
-| Icon | Name |
-![wea_g36csscny_item_icon](https://github.com/user-attachments/assets/6c01a6fc-c301-4fd9-8bdb-e3a894abeb32)<br> cny | g36csscny  |
-| Icon | Name |
-![wea_g36cssblk_item_icon](https://github.com/user-attachments/assets/b34c3f25-9120-4500-8eaf-d967c5c56186)<br> blk | g36cssblk  |
-| Icon | Name |
-![wea_g36cssyellow_item_icon](https://github.com/user-attachments/assets/efb301a1-f47f-4158-9bea-24b47e516231)<br> yellow | g36cssyellow  |
+![wea_scarsaprssstar_item_icon](https://github.com/user-attachments/assets/c06dee27-f536-4fdc-b563-1b1c4cac39b7)<br> star | scarsaprssstar  |
 
 </details>
 
@@ -1106,13 +1100,13 @@
 | Icon | Name |
 ![wea_ak47ss_item_icon](https://github.com/user-attachments/assets/9126ebdd-704a-41b1-badd-b0aa8e4b36de)<br> Default | ak47ss  | 
 | Icon | Name |
-![wea_ak47ssblack_item_icon](https://github.com/user-attachments/assets/0e7babd2-9126-4a88-b1f6-203b36491047)<br> Default | ak47ss  | 
+![wea_ak47ssblack_item_icon](https://github.com/user-attachments/assets/0e7babd2-9126-4a88-b1f6-203b36491047)<br> black | ak47ssblack  | 
 | Icon | Name |
-![wea_ak47sscny_item_icon](https://github.com/user-attachments/assets/c8d5bc23-3329-47de-855d-050d63e46997)<br> Default | ak47ss  | 
+![wea_ak47sscny_item_icon](https://github.com/user-attachments/assets/c8d5bc23-3329-47de-855d-050d63e46997)<br> cny | ak47sscny  | 
 | Icon | Name |
-![wea_ak47sslava_item_icon](https://github.com/user-attachments/assets/ad481cea-2c29-4c54-8ab8-d88305f194bb)<br> Default | ak47ss  | 
+![wea_ak47sslava_item_icon](https://github.com/user-attachments/assets/ad481cea-2c29-4c54-8ab8-d88305f194bb)<br> lava | ak47sslava  | 
 | Icon | Name |
-![wea_ak47ssstar_item_icon](https://github.com/user-attachments/assets/4af1f942-3869-4954-b1d5-6f3dabe15033)<br> Default | ak47ss  | 
+![wea_ak47ssstar_item_icon](https://github.com/user-attachments/assets/4af1f942-3869-4954-b1d5-6f3dabe15033)<br> star | ak47ssstar  | 
 
 </details>
 
