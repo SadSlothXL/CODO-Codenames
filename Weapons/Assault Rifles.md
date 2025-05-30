@@ -1098,8 +1098,6 @@
 | :--: | :--: | 
 | |
 | Icon | Name |
-![wea_ak47ss_item_icon](https://github.com/user-attachments/assets/9126ebdd-704a-41b1-badd-b0aa8e4b36de)<br> Default | ak47ss  | 
-| Icon | Name |
 ![wea_ak47ssblack_item_icon](https://github.com/user-attachments/assets/0e7babd2-9126-4a88-b1f6-203b36491047)<br> black | ak47ssblack  | 
 | Icon | Name |
 ![wea_ak47sscny_item_icon](https://github.com/user-attachments/assets/c8d5bc23-3329-47de-855d-050d63e46997)<br> cny | ak47sscny  | 
