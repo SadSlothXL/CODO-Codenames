@@ -1,4 +1,4 @@
-# CODO Code Names (Unfinished)
+# CODO Code Names
 
 ![latest](https://github.com/user-attachments/assets/ae25943d-c5b0-432a-b188-f2618d5f1561)
 
@@ -7,6 +7,11 @@
 
 ## What is CODO Code Names for?
 CODO Code Names is a data base with a variety of CODO asset names with preview images and internal names
+
+> [!IMPORTANT]
+> Please note that this very W.I.P with assets, images and names being added regularly!
+
+## *Note*
 
 ##
 **Credits:**
