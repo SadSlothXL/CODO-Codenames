@@ -11,9 +11,6 @@ CODO Code Names is a data base with a variety of CODO asset names with preview i
 > [!IMPORTANT]
 > Please note that this very W.I.P with assets, images and names being added regularly!
 
-## *Note*
-
-##
 **Credits:**
 
 Github layout by: [ImSimpy](https://github.com/ImSimpy) From [BO6-Codenames](https://github.com/ImSimpy/BO6-Codenames)
