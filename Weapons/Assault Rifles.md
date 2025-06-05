@@ -683,16 +683,16 @@
 | |
 ![wea_m16police_item_icon](https://github.com/user-attachments/assets/ede80741-dd44-4a22-a7cb-85201145e3ff)<br> police | m16police  | 
 | Icon | Name |
-![wea_m16navyblue_item_icon](https://github.com/user-attachments/assets/06b2c66e-d37d-41b0-8078-ab98032a2da6)<br> navyblue | m16navyblue  |
+![wea_m16navyblue_item_icon](https://github.com/user-attachments/assets/06b2c66e-d37d-41b0-8078-ab98032a2da6)<br> navyblue | m16_navyblue  |
 | Icon | Name |
-![wea_m16mucha_item_icon](https://github.com/user-attachments/assets/c17a1dc7-f8fd-4416-b722-f442741a1fe0)<br> mucha | m16mucha  | 
+![wea_m16mucha_item_icon](https://github.com/user-attachments/assets/c17a1dc7-f8fd-4416-b722-f442741a1fe0)<br> mucha | m16_maiden  | 
 </details>
 
 ## MK14
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_m14ebr_item_icon](https://github.com/user-attachments/assets/3358be58-88fa-4290-b707-084ee5b5de87)<br> Default | m14ebr  | 
+![wea_m14ebr_item_icon](https://github.com/user-attachments/assets/3358be58-88fa-4290-b707-084ee5b5de87)<br> Default | m14ebr_blk  | 
 
 <details>
 <summary> Skins </summary>
@@ -700,25 +700,21 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-![wea_m14ebrwargod_item_icon](https://github.com/user-attachments/assets/86e25223-8d41-470f-8e3f-a73b4238d194)<br> wargod | m14ebrwargod  | 
+![wea_m14ebrplatinum_item_icon](https://github.com/user-attachments/assets/b1985b09-8de1-41e0-abff-74b503f9f9c1)<br> platinum | m14ebr_platinum  | 
 | Icon | Name |
-![wea_m14ebrplatinum_item_icon](https://github.com/user-attachments/assets/b1985b09-8de1-41e0-abff-74b503f9f9c1)<br> platinum | m14ebrplatinum  | 
-| Icon | Name |
-![wea_m14ebrornate_item_icon](https://github.com/user-attachments/assets/69822932-116a-4bff-9824-3b50fe419791)<br> ornate | m14ebrornate  | 
+![wea_m14ebrornate_item_icon](https://github.com/user-attachments/assets/69822932-116a-4bff-9824-3b50fe419791)<br> ornate | m14ebrornate_blk  | 
 | Icon | Name |
 ![wea_m14ebrheloderma_item_icon](https://github.com/user-attachments/assets/c5b6133b-f337-473d-a0c4-5b48f62d11d0)<br> heloderma | m14ebrheloderma  | 
 | Icon | Name |
-![wea_m14ebrevent_item_icon](https://github.com/user-attachments/assets/2ae23b97-d5f3-4df1-92cc-05236e9e5d55)<br> event | m14ebrevent  | 
-| Icon | Name |
 ![wea_m14ebrcampaigner_item_icon](https://github.com/user-attachments/assets/4501a177-91b9-48c6-8ddf-e5427f2ac016)<br> campaigner | m14ebrcampaigner  | 
 | Icon | Name |
-![wea_m14ebrbluing_item_icon](https://github.com/user-attachments/assets/62513d64-bc2e-41bf-be01-9ba72dbc04fb)<br> bluing | m14ebrbluing  | 
+![wea_m14ebrbluing_item_icon](https://github.com/user-attachments/assets/62513d64-bc2e-41bf-be01-9ba72dbc04fb)<br> bluing | mk14_bluing  | 
 | Icon | Name |
-![wea_m14ebrtile_item_icon](https://github.com/user-attachments/assets/b1c4cd19-0e6f-4291-9e67-4fad1c9f7941)<br> tile | m14ebrtile  | 
+![wea_m14ebrtile_item_icon](https://github.com/user-attachments/assets/b1c4cd19-0e6f-4291-9e67-4fad1c9f7941)<br> tile | m14ebrblue_blk  | 
 | Icon | Name |
-![wea_m14ebrsnake_item_icon](https://github.com/user-attachments/assets/d60fc1c3-18bb-4211-aad0-4599143ab039)<br> snake | m14ebrsnake  | 
+![wea_m14ebrsnake_item_icon](https://github.com/user-attachments/assets/d60fc1c3-18bb-4211-aad0-4599143ab039)<br> snake | m14ebrsupplydp  | 
 | Icon | Name |
-![wea_m14ebrspace_item_icon](https://github.com/user-attachments/assets/f88fed9b-4151-4b5b-965c-06d77f18b145)<br> space | m14ebrspace  | 
+![wea_m14ebrspace_item_icon](https://github.com/user-attachments/assets/f88fed9b-4151-4b5b-965c-06d77f18b145)<br> space | m14ebrspace_blk  | 
 
 </details>
 
