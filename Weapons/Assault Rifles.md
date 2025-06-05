@@ -562,7 +562,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_m1garandww2_item_icon](https://github.com/user-attachments/assets/69500ed6-b025-4fac-8ec8-2642217074ed)<br> ww2 | m1garand  | 
 | Icon | Name |
 ![wea_m1garandvulcan_item_icon](https://github.com/user-attachments/assets/b5fcc4d1-589a-48e4-9e3c-ca82ea209fb3)<br> vulcan | m1garandvulcan  | 
@@ -610,7 +609,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_m4a1techfrost_item_icon](https://github.com/user-attachments/assets/a8bbcf10-6465-4709-bebf-49bad56f7896)<br> frost | m4a1techfrost_ice  | 
 | Icon | Name |
 ![wea_m4a1techevent_item_icon](https://github.com/user-attachments/assets/952b9abd-06b9-4ce2-9001-6e9374c199d1)<br> event | m4a1techcarbon_blk  | 
@@ -686,7 +684,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_m16police_item_icon](https://github.com/user-attachments/assets/ede80741-dd44-4a22-a7cb-85201145e3ff)<br> police | m16police  | 
 | Icon | Name |
 ![wea_m16navyblue_item_icon](https://github.com/user-attachments/assets/06b2c66e-d37d-41b0-8078-ab98032a2da6)<br> navyblue | m16navyblue  |
@@ -711,7 +708,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_m14ebrwargod_item_icon](https://github.com/user-attachments/assets/86e25223-8d41-470f-8e3f-a73b4238d194)<br> wargod | m14ebrwargod  | 
 | Icon | Name |
 ![wea_m14ebrplatinum_item_icon](https://github.com/user-attachments/assets/b1985b09-8de1-41e0-abff-74b503f9f9c1)<br> platinum | m14ebrplatinum  | 
@@ -748,7 +744,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_type95army_item_icon](https://github.com/user-attachments/assets/818eb5ed-0afa-480c-ab81-659fe55b1bf0)<br> army | type95army  | 
 | Icon | Name |
 ![wea_type95space_item_icon](https://github.com/user-attachments/assets/e13a6476-11bf-4706-8768-b21d02b7a898)<br> space | type95space  | 
@@ -775,7 +770,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_type95techwargod_item_icon](https://github.com/user-attachments/assets/3eb4bd89-0ae8-4986-a1ba-2f999f336f12)<br> wargod | type95techwargod  | 
 | Icon | Name |
 ![wea_type95techutacb_item_icon](https://github.com/user-attachments/assets/9a704e83-0f8f-46a9-b47a-5bc95943bfb4)<br> utacb | type95techutacb  | 
@@ -810,7 +804,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_acrzhunt_item_icon](https://github.com/user-attachments/assets/4e96c895-62fd-4af3-963b-50435a1f1cba)<br> zhunt | acrzhunt  | 
 | Icon | Name |
 ![wea_acrww2_item_icon](https://github.com/user-attachments/assets/ea697745-96b8-4488-848f-3144dd8f8050)<br> ww2 | acrww2  | 
@@ -851,7 +844,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_spbcstar_item_icon](https://github.com/user-attachments/assets/d600246c-5631-46d9-b0f9-4af83e8df62b)<br> star | spbcstar  | 
 | Icon | Name |
 ![wea_spbcgunship_item_icon](https://github.com/user-attachments/assets/24298987-20e8-428d-b31c-71140e5fb0e3)<br> gunship | spbcgunship  | 
@@ -879,7 +871,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_veprlaborday_item_icon](https://github.com/user-attachments/assets/69d6cfc2-cd3a-449f-a318-a878c65d709b)<br> laborday | veprlaborday  | 
 | Icon | Name |
 ![wea_veprhalloween_item_icon](https://github.com/user-attachments/assets/b3d1ef3b-94e5-4223-b0eb-c3a32d557d8d)<br> halloween | veprhalloween  | 
@@ -908,7 +899,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_r5rgptyrant_item_icon](https://github.com/user-attachments/assets/4c079de3-4654-4a92-a80d-9e723517a25a)<br> tyrant | m4a1techr5tyrant  |
 | Icon | Name |
 ![wea_r5rgpsupplydp_item_icon](https://github.com/user-attachments/assets/f1a8d3dc-7bdd-436b-8e7d-48babc4936ec)<br> supplydp | m4a1techr5supplydp  |
@@ -933,7 +923,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_arx51snake_item_icon](https://github.com/user-attachments/assets/6402123f-c40e-48d8-9e3e-a117fa1ec13b)<br> snake | arx51snake  |
 | Icon | Name |
 ![wea_arx51gld_item_icon](https://github.com/user-attachments/assets/3c8b0e08-bc37-43b9-ac70-c29b4c93e061)<br> gld | arx51gld  |
@@ -961,7 +950,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_an94ssstar_item_icon](https://github.com/user-attachments/assets/a37af1c8-a07e-4ca8-83de-9bb39aebb662)<br> star | an94ssstar  |
 | Icon | Name |
 ![wea_an94sslava_item_icon](https://github.com/user-attachments/assets/67895517-9df0-4e55-8219-e0d0c10498b8)<br> lava | an94sslava  |
@@ -985,7 +973,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_honeybadgersslava_item_icon](https://github.com/user-attachments/assets/136f0258-446f-4264-812d-5922dc08b238)<br> lava | acchoneybadgersslava  |
 | Icon | Name |
 ![wea_honeybadgerssblk_item_icon](https://github.com/user-attachments/assets/a1c760e5-3f95-45b0-b195-899c74300f04)<br> Black | acchoneybadgerssblk  |
@@ -1005,7 +992,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_scarsslava_item_icon](https://github.com/user-attachments/assets/92672dc2-afc1-4296-8966-5973d21ff4b2)<br> lava | scarsslava  |
 | Icon | Name |
 ![wea_scarssstar_item_icon](https://github.com/user-attachments/assets/a14fb7c2-0781-46ee-b2cd-10952d15ccf6)<br> star | scarssstar  |
@@ -1025,7 +1011,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_g36cssstar_item_icon](https://github.com/user-attachments/assets/cd0b0aa4-f3e2-4fd1-9146-9f14460df6cb)<br> star | g36cssstar  |
 | Icon | Name |
 ![wea_g36csscny_item_icon](https://github.com/user-attachments/assets/6c01a6fc-c301-4fd9-8bdb-e3a894abeb32)<br> cny | g36csscny  |
@@ -1049,7 +1034,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_scarsaprssstar_item_icon](https://github.com/user-attachments/assets/c06dee27-f536-4fdc-b563-1b1c4cac39b7)<br> star | scarsaprssstar  |
 
 </details>
@@ -1067,7 +1051,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_ak47ssblack_item_icon](https://github.com/user-attachments/assets/0e7babd2-9126-4a88-b1f6-203b36491047)<br> black | ak47ssblack  | 
 | Icon | Name |
 ![wea_ak47sscny_item_icon](https://github.com/user-attachments/assets/c8d5bc23-3329-47de-855d-050d63e46997)<br> cny | ak47sscny  | 
@@ -1091,7 +1074,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_m4a1techsslava_item_icon](https://github.com/user-attachments/assets/d982352f-5de8-409d-b10a-25f6c85e4770)<br> lava | m4a1techsslava  |
 | Icon | Name |
 ![wea_m4a1techsscny_item_icon](https://github.com/user-attachments/assets/ce87c5d7-bea6-430c-925b-4a4d67826d7d)<br> cny | m4a1techsscny  |
