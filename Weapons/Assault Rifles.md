@@ -668,19 +668,14 @@
 ![wea_m4a1techfuture_item_icon](https://github.com/user-attachments/assets/066ee2b0-9aff-4180-b9ac-cbd8c4098c1d)<br> future | m4a1techwb_blk  | 
 | Icon | Name |
 ![wea_m4a1techdeatheg_item_icon](https://github.com/user-attachments/assets/e39e316c-7162-455a-9ac5-d790b8c736ac)<br> death | m4a1techdeatheg  | 
-
 </details>
-
 ## M16A4
-
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_m16_item_icon](https://github.com/user-attachments/assets/9140338a-007e-457b-9518-b3e1cc7a50ff)<br> Default | m16  | 
-
+![wea_m16_item_icon](https://github.com/user-attachments/assets/9140338a-007e-457b-9518-b3e1cc7a50ff)<br> Default | m16_blk  | 
 <details>
 <summary> Skins </summary>
-
 | Icon | Name |
 | :--: | :--: | 
 | |
@@ -689,14 +684,8 @@
 ![wea_m16navyblue_item_icon](https://github.com/user-attachments/assets/06b2c66e-d37d-41b0-8078-ab98032a2da6)<br> navyblue | m16navyblue  |
 | Icon | Name |
 ![wea_m16mucha_item_icon](https://github.com/user-attachments/assets/c17a1dc7-f8fd-4416-b722-f442741a1fe0)<br> mucha | m16mucha  | 
-| Icon | Name |
-![wea_m16se_item_icon](https://github.com/user-attachments/assets/e73dacb9-ba09-4e9c-b470-abd28bca0b7a)<br> se | m16se  | 
-
-
 </details>
-
 ## MK14
-
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
