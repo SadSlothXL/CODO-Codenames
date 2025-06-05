@@ -110,14 +110,13 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-![wea_ak104common_item_icon](https://github.com/user-attachments/assets/081853f6-f854-49ac-b642-03f0090de86a)<br> Default | ak104 | 
+![wea_ak104common_item_icon](https://github.com/user-attachments/assets/081853f6-f854-49ac-b642-03f0090de86a)<br> Default | ak104_blk | 
 <details>
 <summary> Skins </summary>
 
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_ak104waterblue_item_icon](https://github.com/user-attachments/assets/be7b789d-7268-46fa-a78f-5c139681395d)<br> waterblue | ak104water_blue | 
 | Icon | Name |
 ![wea_ak104bg_item_icon](https://github.com/user-attachments/assets/77c72660-f1d6-4354-9800-c5010d76f6ee)<br> Default | ak104bg_blk | 
@@ -183,7 +182,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-![wea_ak47_item_icon](https://github.com/user-attachments/assets/89ab0672-ae9b-4d63-bfbb-ecff16323aab)<br> Default | ak47  | 
+![wea_ak47_item_icon](https://github.com/user-attachments/assets/89ab0672-ae9b-4d63-bfbb-ecff16323aab)<br> Default | ak47_blk  | 
 <details>
 <summary> Skins </summary>
 
@@ -192,45 +191,39 @@
 | |
 ![wea_ak47air_item_icon](https://github.com/user-attachments/assets/2dbfc528-8662-457d-9e7d-e229e78ab419)<br> air | ak47air  | 
 | Icon | Name |
-![wea_ak47animal_item_icon](https://github.com/user-attachments/assets/236107c9-ee77-431b-89fd-9ab95451da43)<br> Default | ak47  | 
-| Icon | Name |
-![wea_ak47bo3_item_icon](https://github.com/user-attachments/assets/d9d23821-a502-4dbe-956b-8706ef7a975b)<br> bo3 | ak47bo3  | 
+![wea_ak47bo3_item_icon](https://github.com/user-attachments/assets/d9d23821-a502-4dbe-956b-8706ef7a975b)<br> bo3 | ak47epic  | 
 | Icon | Name |
 ![wea_ak47cardboard_item_icon](https://github.com/user-attachments/assets/eb826867-b190-4514-a2ab-10ca1ec1685d)<br> cardboard | ak47cardboard  | 
 | Icon | Name |
-![wea_ak47cell_item_icon](https://github.com/user-attachments/assets/a014313c-29cc-439b-9550-93131819249c)<br> Cell Shading | ak47cell  | 
+![wea_ak47cell_item_icon](https://github.com/user-attachments/assets/a014313c-29cc-439b-9550-93131819249c)<br> Cell Shading | ak47_cellshading  | 
 | Icon | Name |
-![wea_ak47dog_item_icon](https://github.com/user-attachments/assets/d3c3a119-0e9d-4659-8898-bb40a9b0665e)<br> dog | ak47dog  | 
+![wea_ak47dog_item_icon](https://github.com/user-attachments/assets/d3c3a119-0e9d-4659-8898-bb40a9b0665e)<br> dog | ak47dog_a  | 
 | Icon | Name |
-![wea_ak47esports_item_icon](https://github.com/user-attachments/assets/48bec3af-f5a0-453d-b59e-faa2c488590f)<br> esports | ak47esports  | 
+![wea_ak47esports_item_icon](https://github.com/user-attachments/assets/48bec3af-f5a0-453d-b59e-faa2c488590f)<br> esports | ak47ccl_blk  | 
 | Icon | Name |
 ![wea_ak47fighterjet_item_icon](https://github.com/user-attachments/assets/f60c45ff-547e-4a98-b990-4202290dbd08)<br> fighterjet | ak47fighterjet  | 
 | Icon | Name |
-![wea_ak47frost_item_icon](https://github.com/user-attachments/assets/d36cc895-9697-4651-bd6e-7211d9985cce)<br> frost | ak47frost  | 
+![wea_ak47frost_item_icon](https://github.com/user-attachments/assets/d36cc895-9697-4651-bd6e-7211d9985cce)<br> frost | ak47frost_ice  | 
 | Icon | Name |
-![wea_ak47gld_item_icon](https://github.com/user-attachments/assets/67af5175-e7ab-4113-8384-e8b761d83484)<br> Gold | ak47gld  | 
+![wea_ak47gld_item_icon](https://github.com/user-attachments/assets/67af5175-e7ab-4113-8384-e8b761d83484)<br> Gold | ak47_gld  | 
 | Icon | Name |
-![wea_ak47heavy_item_icon](https://github.com/user-attachments/assets/c6f2f459-5f94-4281-aa70-79db9a2ca055)<br> heavy | ak47heavy  | 
+![wea_ak47heavy_item_icon](https://github.com/user-attachments/assets/c6f2f459-5f94-4281-aa70-79db9a2ca055)<br> heavy | ak47heavymt  | 
 | Icon | Name |
-![wea_ak47holiday_item_icon](https://github.com/user-attachments/assets/8456372a-3b3c-4746-9316-279c71dc4eef)<br> holiday | ak47holiday  | 
+![wea_ak47holiday_item_icon](https://github.com/user-attachments/assets/8456372a-3b3c-4746-9316-279c71dc4eef)<br> holiday | ak47frost_blk  | 
 | Icon | Name |
-![wea_ak47irradiated_item_icon](https://github.com/user-attachments/assets/c54a501d-8e80-46e2-94cc-3ae208d2eb7c)<br> irradiated | ak47irradiated  | 
+![wea_ak47irradiated_item_icon](https://github.com/user-attachments/assets/c54a501d-8e80-46e2-94cc-3ae208d2eb7c)<br> irradiated | ak47_irradiated_blk  | 
 | Icon | Name |
-![wea_ak47irradiatedblue_item_icon](https://github.com/user-attachments/assets/4c4faa93-1b4d-415e-866a-e63c79181638)<br> irradiatedblue | ak47irradiatedblue  | 
+![wea_ak47irradiatedblue_item_icon](https://github.com/user-attachments/assets/4c4faa93-1b4d-415e-866a-e63c79181638)<br> irradiatedblue | ak47_irradiated_blue  | 
 | Icon | Name |
-![wea_ak47modern_item_icon](https://github.com/user-attachments/assets/12058e13-ac3b-49e1-b6a4-c7cab9724c6c)<br> modern | ak47modern  | 
+![wea_ak47modern_item_icon](https://github.com/user-attachments/assets/12058e13-ac3b-49e1-b6a4-c7cab9724c6c)<br> modern | ak47modernwf  | 
 | Icon | Name |
 ![wea_ak47orbit_item_icon](https://github.com/user-attachments/assets/47cf1fc6-6a5c-417e-8642-2e629cfde802)<br> orbit | ak47orbit  | 
 | Icon | Name |
-![wea_ak47ornate_item_icon](https://github.com/user-attachments/assets/f4fd3864-995d-48a2-8033-0bd07eb42a49)<br> ornate | ak47ornate  | 
+![wea_ak47ornate_item_icon](https://github.com/user-attachments/assets/f4fd3864-995d-48a2-8033-0bd07eb42a49)<br> ornate | ak47ornate_blk  | 
 | Icon | Name |
-![wea_ak47platinum_item_icon](https://github.com/user-attachments/assets/1a990d26-e448-4c38-92aa-b9ddb8d6e73c)<br> platinum | ak47platinum  | 
+![wea_ak47platinum_item_icon](https://github.com/user-attachments/assets/1a990d26-e448-4c38-92aa-b9ddb8d6e73c)<br> platinum | ak47_platinum  | 
 | Icon | Name |
-![wea_ak47puppy_item_icon](https://github.com/user-attachments/assets/b93789bc-2b20-4ed1-98b5-4a3f64b0b63d)<br> puppy | ak47puppy  | 
-| Icon | Name |
-![wea_ak47rainbow_item_icon](https://github.com/user-attachments/assets/1435935c-7cde-45ac-8fb4-53a409278c86)<br> rainbow | ak47rainbow  | 
-| Icon | Name |
-![wea_ak47t2event_item_icon](https://github.com/user-attachments/assets/efa7e33a-6db4-40e8-9b45-64db8b1302ed)<br> t2event | ak47t2event  | 
+![wea_ak47puppy_item_icon](https://github.com/user-attachments/assets/b93789bc-2b20-4ed1-98b5-4a3f64b0b63d)<br> puppy | ak47dog_b  | 
 | Icon | Name |
 ![wea_ak47tank_item_icon](https://github.com/user-attachments/assets/c0c7cd5a-3945-4d32-8d1d-85a1cb66ab73)<br> tank | ak47tank  | 
 | Icon | Name |
@@ -238,17 +231,17 @@
 | Icon | Name |
 ![wea_ak47tool_item_icon](https://github.com/user-attachments/assets/6c51723c-2ea0-4780-9757-71e5576db62e)<br> tool | ak47tool  | 
 | Icon | Name |
-![wea_ak47toy_item_icon](https://github.com/user-attachments/assets/9b53712f-c93c-4673-a781-4c283f4ed3ee)<br> toy | ak47toy  | 
+![wea_ak47toy_item_icon](https://github.com/user-attachments/assets/9b53712f-c93c-4673-a781-4c283f4ed3ee)<br> toy | ak47_rare_toy  | 
 | Icon | Name |
-![wea_ak47wargod_item_icon](https://github.com/user-attachments/assets/7f65d434-7f32-49aa-9f69-4dc5ed39e4f4)<br> wargod | ak47wargod  | 
+![wea_ak47wargod_item_icon](https://github.com/user-attachments/assets/7f65d434-7f32-49aa-9f69-4dc5ed39e4f4)<br> wargod | ak47_wargord  | 
 | Icon | Name |
-![wea_ak47wgplatinum_item_icon](https://github.com/user-attachments/assets/07fdbbd8-e6cb-4343-918d-60deeaa632fe)<br> wgplatinum | ak47wgplatinum  | 
+![wea_ak47wgplatinum_item_icon](https://github.com/user-attachments/assets/07fdbbd8-e6cb-4343-918d-60deeaa632fe)<br> wgplatinum | ak47_wgplatinum  | 
 | Icon | Name |
-![wea_ak47wrath_item_icon](https://github.com/user-attachments/assets/5bb3315a-05bd-435d-b6be-840f4a1ded28)<br> wrath | ak47wrath  | 
+![wea_ak47wrath_item_icon](https://github.com/user-attachments/assets/5bb3315a-05bd-435d-b6be-840f4a1ded28)<br> wrath | ak47fury_blk  | 
 | Icon | Name |
-![wea_ak47wrathblk_item_icon](https://github.com/user-attachments/assets/7b010121-bbc1-40c7-be9d-ed9536c920b5)<br> wrathblk | ak47wrathblk  | 
+![wea_ak47wrathblk_item_icon](https://github.com/user-attachments/assets/7b010121-bbc1-40c7-be9d-ed9536c920b5)<br> wrathblk | ak47furyss  | 
 | Icon | Name |
-![wea_ak47ww2_item_icon](https://github.com/user-attachments/assets/d57201fe-5612-4621-b8e5-c54a36432694)<br> ww2 | ak47ww2  | 
+![wea_ak47ww2_item_icon](https://github.com/user-attachments/assets/d57201fe-5612-4621-b8e5-c54a36432694)<br> ww2 | ak47ww2_blk  | 
 | Icon | Name |
 ![wea_ak47zhunter_item_icon](https://github.com/user-attachments/assets/497767a8-9840-4959-b00a-a567f177f643)<br> zhunter | ak47zhunter  | 
 </details>
