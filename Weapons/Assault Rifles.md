@@ -669,6 +669,7 @@
 | Icon | Name |
 ![wea_m4a1techdeatheg_item_icon](https://github.com/user-attachments/assets/e39e316c-7162-455a-9ac5-d790b8c736ac)<br> death | m4a1techdeatheg  | 
 </details>
+
 ## M16A4
 | Icon | Name |
 | :--: | :--: | 
@@ -685,6 +686,7 @@
 | Icon | Name |
 ![wea_m16mucha_item_icon](https://github.com/user-attachments/assets/c17a1dc7-f8fd-4416-b722-f442741a1fe0)<br> mucha | m16mucha  | 
 </details>
+
 ## MK14
 | Icon | Name |
 | :--: | :--: | 
