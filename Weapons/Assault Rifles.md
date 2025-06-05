@@ -668,6 +668,8 @@
 ![wea_m4a1techgeo_item_icon](https://github.com/user-attachments/assets/a5d3b299-bfb7-4bfe-b0da-178ae98ca961)<br> geo | m4a1techgeo_blk  | 
 | Icon | Name |
 ![wea_m4a1techfuture_item_icon](https://github.com/user-attachments/assets/066ee2b0-9aff-4180-b9ac-cbd8c4098c1d)<br> future | m4a1techwb_blk  | 
+| Icon | Name |
+![wea_m4a1techdeatheg_item_icon](https://github.com/user-attachments/assets/abe12451-b763-4d84-ae12-0563e9a87a88)<br> death | m4a1techdeatheg  | 
 
 </details>
 
