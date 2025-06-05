@@ -259,11 +259,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-![wea_akbpcoral_item_icon](https://github.com/user-attachments/assets/650a2969-7fe2-48a4-be12-ed50d35a6ca5)<br> coral | akbpcoral | 
+![wea_akbppink_item_icon](https://github.com/user-attachments/assets/b9141340-a4a5-4f19-9355-22a3fd23473e)<br> pink | akbp_scarlet | 
 | Icon | Name |
-![wea_akbppink_item_icon](https://github.com/user-attachments/assets/b9141340-a4a5-4f19-9355-22a3fd23473e)<br> pink | akbppink | 
-| Icon | Name |
-![wea_akbpvip_item_icon](https://github.com/user-attachments/assets/928808f8-8ae9-46bd-ae7e-3950bb9b5c72)<br> vip | akbpvip |
+![wea_akbpvip_item_icon](https://github.com/user-attachments/assets/928808f8-8ae9-46bd-ae7e-3950bb9b5c72)<br> vip | akbp_vip |
 
 </details>
 
