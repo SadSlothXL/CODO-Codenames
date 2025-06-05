@@ -677,6 +677,7 @@
 ![wea_m16_item_icon](https://github.com/user-attachments/assets/9140338a-007e-457b-9518-b3e1cc7a50ff)<br> Default | m16_blk  | 
 <details>
 <summary> Skins </summary>
+
 | Icon | Name |
 | :--: | :--: | 
 | |
