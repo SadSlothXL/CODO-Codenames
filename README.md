@@ -10,6 +10,8 @@ CODO Code Names is a data base with a variety of CODO asset names with preview i
 
 > [!IMPORTANT]
 > Please note that this very W.I.P with assets, images and names being added regularly!
+>
+> If you see something that is missing or incorrect, please make an issue and I will check it when I have time, Thank you!
 
 **Credits:**
 
