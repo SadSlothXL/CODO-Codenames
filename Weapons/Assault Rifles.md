@@ -271,14 +271,14 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_akbptech_item_icon](https://github.com/user-attachments/assets/23e6b7c9-0b63-4fbf-9c02-6c2699e40da1)<br> Default | akbptech | 
+![wea_akbptech_item_icon](https://github.com/user-attachments/assets/23e6b7c9-0b63-4fbf-9c02-6c2699e40da1)<br> Default | akbptech_blk | 
 <details>
 <summary> Skins </summary>
 
 | Icon | Name |
 | :--: | :--: | 
 | |
-![wea_akbptechsupplydrop_item_icon](https://github.com/user-attachments/assets/d54b5c15-32c9-4eeb-bd01-6efea0b060b0)<br> supplydrop | akbptechsupplydrop | 
+![wea_akbptechsupplydrop_item_icon](https://github.com/user-attachments/assets/d54b5c15-32c9-4eeb-bd01-6efea0b060b0)<br> supplydrop | akbpsupplydp | 
 
 </details>
 
@@ -286,8 +286,8 @@
 
 | Icon | Name |
 | :--: | :--: | 
-| | | | | 
-![wea_an94_item_icon](https://github.com/user-attachments/assets/1aa56f31-4620-4ae4-8859-b8544f6de205)<br> Default | an94  | 
+| |
+![wea_an94_item_icon](https://github.com/user-attachments/assets/1aa56f31-4620-4ae4-8859-b8544f6de205)<br> Default | an94_blk  | 
 
 <details>
 <summary> Skins </summary>
@@ -299,19 +299,19 @@
 | Icon | Name |
 ![wea_an94flanker_item_icon](https://github.com/user-attachments/assets/5c1a882d-0e23-476d-8998-783f299d4274)<br> flanker | an94flanker | 
 | Icon | Name |
-![wea_an94gldera_item_icon](https://github.com/user-attachments/assets/c70c08b5-a1e3-46a6-a82e-78c1b466e0dc)<br> gldera | an94gldera | 
+![wea_an94gldera_item_icon](https://github.com/user-attachments/assets/c70c08b5-a1e3-46a6-a82e-78c1b466e0dc)<br> gldera | an94goldenera | 
 | Icon | Name |
-![wea_an94green_item_icon](https://github.com/user-attachments/assets/12548a75-59a7-4ace-b6c5-c1efdb8de03e)<br> green | an94green | 
+![wea_an94green_item_icon](https://github.com/user-attachments/assets/12548a75-59a7-4ace-b6c5-c1efdb8de03e)<br> green | an94green_an94_blk | 
 | Icon | Name |
-![wea_an94hellwalker_item_icon](https://github.com/user-attachments/assets/5f1273b1-499b-47ed-8c68-8d988b9d08b2)<br> hellwalker | an94hellwalker | 
+![wea_an94hellwalker_item_icon](https://github.com/user-attachments/assets/5f1273b1-499b-47ed-8c68-8d988b9d08b2)<br> hellwalker | an94hellwalker_an94_blk | 
 | Icon | Name |
 ![wea_an94heloderma_item_icon](https://github.com/user-attachments/assets/8d1df680-fdea-44fb-a19c-a75e157d4a94)<br> heloderma | an94heloderma | 
 | Icon | Name |
-![wea_an94mw_item_icon](https://github.com/user-attachments/assets/43921ddc-9135-4625-8461-bef565b8911d)<br> mw | an94mw | 
+![wea_an94mw_item_icon](https://github.com/user-attachments/assets/43921ddc-9135-4625-8461-bef565b8911d)<br> mw | an94space_blk | 
 | Icon | Name |
-![wea_an94pink_item_icon](https://github.com/user-attachments/assets/6b5f95df-25c1-4412-a7ba-8adc2824ba30)<br> pink | an94pink | 
+![wea_an94pink_item_icon](https://github.com/user-attachments/assets/6b5f95df-25c1-4412-a7ba-8adc2824ba30)<br> pink | an94_scarlet | 
 | Icon | Name |
-![wea_an94platinum_item_icon](https://github.com/user-attachments/assets/21f45a44-3310-4406-a017-999a73a8e65a)<br> platinum | an94platinum | 
+![wea_an94platinum_item_icon](https://github.com/user-attachments/assets/21f45a44-3310-4406-a017-999a73a8e65a)<br> platinum | an94_platinum | 
 | Icon | Name |
 ![wea_an94spstation_item_icon](https://github.com/user-attachments/assets/d6e16c9a-7576-4ccc-98c5-4742c8792b8f)<br> spstation | an94spstation | 
 | Icon | Name |
@@ -329,7 +329,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_ff58_item_icon](https://github.com/user-attachments/assets/d67b2694-63b8-4216-893c-4ec59c00a64d)<br> Default | ff58 | 
+![wea_ff58_item_icon](https://github.com/user-attachments/assets/d67b2694-63b8-4216-893c-4ec59c00a64d)<br> Default | ff58_blk | 
 
 <details>
 <summary> Skins </summary>
@@ -339,11 +339,9 @@
 | |
 ![wea_ff58wolf_item_icon](https://github.com/user-attachments/assets/402c8448-95d6-4024-b1c4-93445726505d)<br> wolf | ff58wolf | 
 | Icon | Name |
-![wea_ff58platinum_item_icon](https://github.com/user-attachments/assets/f9c4696e-2e11-4e0d-911b-278b2358254a)<br> platinum | ff58platinum | 
+![wea_ff58platinum_item_icon](https://github.com/user-attachments/assets/f9c4696e-2e11-4e0d-911b-278b2358254a)<br> platinum | ff58_platinum | 
 | Icon | Name |
-![wea_ff58navyblue_item_icon](https://github.com/user-attachments/assets/553c19fd-7a6b-43da-b306-05fe7029c854)<br> navyblue | ff58navyblue | 
-| Icon | Name |
-![wea_ff58hero_item_icon](https://github.com/user-attachments/assets/36b0330f-c143-4412-bc4e-3922058e28a8)<br> hero | ff58hero | 
+![wea_ff58navyblue_item_icon](https://github.com/user-attachments/assets/553c19fd-7a6b-43da-b306-05fe7029c854)<br> navyblue | ff58_navyblue | 
 | Icon | Name |
 ![wea_ff58ww2_item_icon](https://github.com/user-attachments/assets/bc9a82b0-04fe-412c-9136-3d548002a821)<br> ww2 | ff58ww2 | 
 
@@ -354,7 +352,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_famas_item_icon](https://github.com/user-attachments/assets/74e3d237-acff-4f76-8b1b-f06edd4a4e7d)<br> Default  | famas | 
+![wea_famas_item_icon](https://github.com/user-attachments/assets/74e3d237-acff-4f76-8b1b-f06edd4a4e7d)<br> Default  | famas_blk | 
 
 <details>
 <summary> Skins </summary>
@@ -362,18 +360,11 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
-![wea_famasnya_item_icon](https://github.com/user-attachments/assets/dfe65198-08f5-4a90-9fff-435a9a814c96)<br> nya  | famasnya | 
-| Icon | Name |
 ![wea_famasflanker_item_icon](https://github.com/user-attachments/assets/8b4477a9-cf76-4435-8e8d-eee727c7e371)<br> flanker  | famasflanker | 
 | Icon | Name |
-![wea_famas3kingdoms_item_icon](https://github.com/user-attachments/assets/b036d77b-906a-4f06-b75a-ba87d33bbde7)<br> 3kingdoms  | famas3kingdoms | 
+![wea_famasss_item_icon](https://github.com/user-attachments/assets/c4ff9153-a03c-4834-9d19-696aa9edc71d)<br> ss | famasss_blk |
 | Icon | Name |
-![wea_famasnyb_item_icon](https://github.com/user-attachments/assets/e0c04662-15f0-4937-b843-362b0c7a9e8d)<br> nyb  | famasnyb | 
-| Icon | Name |
-![wea_famasss_item_icon](https://github.com/user-attachments/assets/c4ff9153-a03c-4834-9d19-696aa9edc71d)<br> ss | famasss |
-| Icon | Name |
-![wea_famassscny_item_icon](https://github.com/user-attachments/assets/0fb30511-1e34-42bf-80c6-ecb25d8f1ab7)<br> sscny | famassscny |
+![wea_famassscny_item_icon](https://github.com/user-attachments/assets/0fb30511-1e34-42bf-80c6-ecb25d8f1ab7)<br> sscny | famassscny_blk |
 
 </details>
 
@@ -382,7 +373,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_fn2000_item_icon](https://github.com/user-attachments/assets/ac340f86-772f-464d-b372-b3cb170d78ea)<br> Default | fn2000  | 
+![wea_fn2000_item_icon](https://github.com/user-attachments/assets/ac340f86-772f-464d-b372-b3cb170d78ea)<br> Default | fn2000_blk  | 
 
 <details>
 <summary> Skins </summary>
@@ -390,10 +381,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
-![wea_fn2000tiger_item_icon](https://github.com/user-attachments/assets/1ebf3825-8007-46dc-ba44-be6ca2ab28c2)<br> tiger | fn2000tiger  | 
-| Icon | Name |
-![wea_fn2000xmas_item_icon](https://github.com/user-attachments/assets/7e51bdbd-80c0-4617-88d8-4d2021b081f4)<br> xmas | fn2000xmas  | 
+![wea_fn2000tiger_item_icon](https://github.com/user-attachments/assets/1ebf3825-8007-46dc-ba44-be6ca2ab28c2)<br> tiger | fn2000tiger_blk  | 
 
 </details>
 
@@ -411,9 +399,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
-![wea_fn2000techshard_item_icon](https://github.com/user-attachments/assets/4fe8bfe6-1782-49ea-8b24-f44a3f599d71)<br> shard | fn2000techshard  | 
-| Icon | Name |
 ![wea_fn2000techclown_item_icon](https://github.com/user-attachments/assets/b791eab3-90a4-49b5-961a-f98cad028003)<br> clown | fn2000techclown  | 
 
 </details>
@@ -423,7 +408,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_scar_item_icon](https://github.com/user-attachments/assets/0581bd3f-148a-4cb8-b31c-2ce7aa195e7e)<br> Default | scar  |
+![wea_scar_item_icon](https://github.com/user-attachments/assets/0581bd3f-148a-4cb8-b31c-2ce7aa195e7e)<br> Default | scar_blk  |
 
 <details>
 <summary> Skins </summary>
@@ -460,7 +445,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
 ![wea_scarsaprreskin_item_icon](https://github.com/user-attachments/assets/7ccb9c89-d860-4769-95b6-c0f442df8c4c)<br> reskin | scarsaprreskin  | 
 | Icon | Name |
 ![wea_scarsaprsd_item_icon](https://github.com/user-attachments/assets/c516b86f-ceea-45aa-8354-40e86a8e3e94)<br> sd | scarsaprsd  | 
@@ -504,30 +488,27 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_g36c_item_icon](https://github.com/user-attachments/assets/1123889c-eee7-48dd-89de-f0657e8173df)<br> Default | g36c  | 
+![wea_g36c_item_icon](https://github.com/user-attachments/assets/1123889c-eee7-48dd-89de-f0657e8173df)<br> Default | g36c_blk  | 
 
 <details>
 <summary> Skins </summary>
 
-| Icon | Name |
+| Icon | Name | 
 | :--: | :--: | 
 | |
+![wea_g36cbattlepass_item_icon](https://github.com/user-attachments/assets/35262ddc-e916-4f2a-ac31-c7a3b27b16ad)<br> battlepass | g36c_battlepass  | 
 | Icon | Name |
-![wea_g36cbattlepass_item_icon](https://github.com/user-attachments/assets/35262ddc-e916-4f2a-ac31-c7a3b27b16ad)<br> battlepass | g36cbattlepass  | 
+![wea_g36cbrick_item_icon](https://github.com/user-attachments/assets/60fd2e2a-fe77-4c55-947d-5139fc7c0961)<br> brick | g36ccolor_blk  | 
 | Icon | Name |
-![wea_g36cbrick_item_icon](https://github.com/user-attachments/assets/60fd2e2a-fe77-4c55-947d-5139fc7c0961)<br> brick | g36cbrick  | 
+![wea_g36chive_item_icon](https://github.com/user-attachments/assets/db595d5e-d56c-4223-91df-d5cae1727699)<br> hive | g36csupplydp  | 
 | Icon | Name |
-![wea_g36chive_item_icon](https://github.com/user-attachments/assets/db595d5e-d56c-4223-91df-d5cae1727699)<br> hive | g36chive  | 
+![wea_g36cmurder_item_icon](https://github.com/user-attachments/assets/6022ed56-4588-4d24-b745-d9cdc75b86e6)<br> murder | g36cmurder_blk  | 
 | Icon | Name |
-![wea_g36cmurder_item_icon](https://github.com/user-attachments/assets/6022ed56-4588-4d24-b745-d9cdc75b86e6)<br> murder | g36cmurder  | 
-| Icon | Name |
-![wea_g36cplatinum_item_icon](https://github.com/user-attachments/assets/92428c9e-d435-4dc9-ac89-5a0f296f2ef0)<br> platinum | g36cplatinum  | 
-| Icon | Name |
-![wea_g36crr_item_icon](https://github.com/user-attachments/assets/9f3030f0-ea63-4ffa-becb-f4188c6cce35)<br> rr | g36crr  | 
+![wea_g36cplatinum_item_icon](https://github.com/user-attachments/assets/92428c9e-d435-4dc9-ac89-5a0f296f2ef0)<br> platinum | g36c_platinum  | 
 | Icon | Name |
 ![wea_g36cwater_item_icon](https://github.com/user-attachments/assets/e067e48a-49a9-4920-adc0-3193cf805505)<br> water | g36cwater  | 
 | Icon | Name |
-![wea_g36cwaterblue_item_icon](https://github.com/user-attachments/assets/5fa73d77-f2d8-4b02-b8f9-d65a3ddeed31)<br> waterblue | g36cwaterblue  | 
+![wea_g36cwaterblue_item_icon](https://github.com/user-attachments/assets/5fa73d77-f2d8-4b02-b8f9-d65a3ddeed31)<br> waterblue | g36cwater_blue  | 
 
 </details>
 
