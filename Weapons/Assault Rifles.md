@@ -669,7 +669,7 @@
 | Icon | Name |
 ![wea_m4a1techfuture_item_icon](https://github.com/user-attachments/assets/066ee2b0-9aff-4180-b9ac-cbd8c4098c1d)<br> future | m4a1techwb_blk  | 
 | Icon | Name |
-![wea_m4a1techdeatheg_item_icon](https://github.com/user-attachments/assets/abe12451-b763-4d84-ae12-0563e9a87a88)<br> death | m4a1techdeatheg  | 
+![wea_m4a1techdeatheg_item_icon](https://github.com/user-attachments/assets/e39e316c-7162-455a-9ac5-d790b8c736ac)<br> death | m4a1techdeatheg  | 
 
 </details>
 
