@@ -519,7 +519,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_tar21_item_icon](https://github.com/user-attachments/assets/0b3b23ba-dc01-483d-91b0-260237b853ce)<br> Default | tar21  | 
+![wea_tar21_item_icon](https://github.com/user-attachments/assets/0b3b23ba-dc01-483d-91b0-260237b853ce)<br> Default | tar21_blk  | 
 
 <details>
 <summary> Skins </summary>
@@ -527,12 +527,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
-![wea_tar21se_item_icon](https://github.com/user-attachments/assets/5338cc6f-f90c-4002-bdd7-42267576d59a)<br> se | tar21se  | 
-| Icon | Name |
 ![wea_tar21graffiti_item_icon](https://github.com/user-attachments/assets/ce8b782e-e1c3-42eb-8924-47498501e175)<br> graffiti | tar21graffiti  | 
-| Icon | Name |
-![wea_tar21zhunt_item_icon](https://github.com/user-attachments/assets/3e2e3036-149e-469d-915a-c9ad4c13f811)<br> zhunt | tar21zhunt  | 
 
 </details>
 
@@ -542,7 +537,17 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_tar21tech_item_icon](https://github.com/user-attachments/assets/180533ea-f894-42cd-af2a-e294335356e0)<br> Default | tar21tech  | 
+![wea_tar21tech_item_icon](https://github.com/user-attachments/assets/180533ea-f894-42cd-af2a-e294335356e0)<br> Default | tar21tech_blk  | 
+
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: | 
+| |
+![wea_tar21zhunt_item_icon](https://github.com/user-attachments/assets/3e2e3036-149e-469d-915a-c9ad4c13f811)<br> zhunt | tar21techzhunter  | 
+
+</details>
 
 <a name="M1_Garand"></a>
 ## M1 Garand
