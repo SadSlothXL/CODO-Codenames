@@ -584,7 +584,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_m4_item_icon](https://github.com/user-attachments/assets/f730b7ff-0da5-4c86-b7cb-c4acfcee852d)<br> Default | m4  | 
+![wea_m4_item_icon](https://github.com/user-attachments/assets/f730b7ff-0da5-4c86-b7cb-c4acfcee852d)<br> Default | m4_blk  | 
 
 <details>
 <summary> Skins </summary>
@@ -592,12 +592,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-| Icon | Name |
-![wea_m4t2_item_icon](https://github.com/user-attachments/assets/daf7c274-5919-4c68-a764-1f26805b9c4a)<br> t2 | m4t2  | 
-| Icon | Name |
-![wea_m4cny_item_icon](https://github.com/user-attachments/assets/7109062a-238b-4866-97a7-f8de07b80ce1)<br> cny | m4cny  | 
-| Icon | Name |
-![wea_m4bluing_item_icon](https://github.com/user-attachments/assets/53b2a1b4-0365-4011-9bc6-01ea804a26bd)<br> bluing | m4bluing  | 
+![wea_m4bluing_item_icon](https://github.com/user-attachments/assets/53b2a1b4-0365-4011-9bc6-01ea804a26bd)<br> bluing | m4_bluing  | 
 
 </details>
 
@@ -607,7 +602,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_m4a1techcommon_item_icon](https://github.com/user-attachments/assets/baa89d70-acab-4395-88b7-8af5b359a8ea)<br> Default | m4a1tech  | 
+![wea_m4a1techcommon_item_icon](https://github.com/user-attachments/assets/baa89d70-acab-4395-88b7-8af5b359a8ea)<br> Default | m4a1tech_blk  | 
 
 <details>
 <summary> Skins </summary>
@@ -616,67 +611,63 @@
 | :--: | :--: | 
 | |
 | Icon | Name |
-![wea_m4a1techfrost_item_icon](https://github.com/user-attachments/assets/a8bbcf10-6465-4709-bebf-49bad56f7896)<br> frost | m4a1techfrost  | 
+![wea_m4a1techfrost_item_icon](https://github.com/user-attachments/assets/a8bbcf10-6465-4709-bebf-49bad56f7896)<br> frost | m4a1techfrost_ice  | 
 | Icon | Name |
-![wea_m4a1techevent_item_icon](https://github.com/user-attachments/assets/952b9abd-06b9-4ce2-9001-6e9374c199d1)<br> event | m4a1techevent  | 
+![wea_m4a1techevent_item_icon](https://github.com/user-attachments/assets/952b9abd-06b9-4ce2-9001-6e9374c199d1)<br> event | m4a1techcarbon_blk  | 
 | Icon | Name |
-![wea_m4a1techdeath_item_icon](https://github.com/user-attachments/assets/1b9ecccd-139d-4da9-b4c3-ae136dcd392d)<br> death | m4a1techdeath  | 
+![wea_m4a1techdeath_item_icon](https://github.com/user-attachments/assets/1b9ecccd-139d-4da9-b4c3-ae136dcd392d)<br> death | m4a1techdeath_blk  | 
 | Icon | Name |
-![wea_m4a1techcny_item_icon](https://github.com/user-attachments/assets/9a4454d0-3f03-4769-816b-d77de6249fed)<br> cny | m4a1techcny  | 
+![wea_m4a1techcny_item_icon](https://github.com/user-attachments/assets/9a4454d0-3f03-4769-816b-d77de6249fed)<br> cny | m4a1tech2019newy  | 
 | Icon | Name |
-![wea_m4a1techcellshadeple_item_icon](https://github.com/user-attachments/assets/701f5d87-e70f-4093-946e-f8c01e7e5ffb)<br> shadeple | m4a1techshadeple  | 
+![wea_m4a1techcellshadeple_item_icon](https://github.com/user-attachments/assets/701f5d87-e70f-4093-946e-f8c01e7e5ffb)<br> shadeple | m4a1techcellshading_ple  | 
 | Icon | Name |
 ![wea_m4a1techbo3_item_icon](https://github.com/user-attachments/assets/ec36d6ef-a7ec-45f0-af31-1c54982e7a5c)<br> bo3 | m4a1techbo3  | 
 | Icon | Name |
 ![wea_m4a1techbluecell_item_icon](https://github.com/user-attachments/assets/2503c3c3-83c8-4d28-8a5c-afd4766950e4)<br> Blue Cell Shading | m4a1techbluecell  | 
 | Icon | Name |
-![wea_m4a1techbc_item_icon](https://github.com/user-attachments/assets/77922309-a592-40b9-903e-c14799a94314)<br> bc | m4a1techbc  | 
+![wea_m4a1techbc_item_icon](https://github.com/user-attachments/assets/77922309-a592-40b9-903e-c14799a94314)<br> bc | m4a1techbtc  | 
 | Icon | Name |
-![wea_m4a1techanimal_item_icon](https://github.com/user-attachments/assets/5a175964-c234-4a5a-a526-f7aafbc7ae23)<br> animal | m4a1techanimal  | 
+![wea_m4a1techcell_item_icon](https://github.com/user-attachments/assets/a26bf3ad-e33b-4bcf-a384-118573e1c8fc)<br> Cell Shading | m4a1techcellshading  | 
 | Icon | Name |
-![wea_m4a1techcell_item_icon](https://github.com/user-attachments/assets/a26bf3ad-e33b-4bcf-a384-118573e1c8fc)<br> Cell Shading | m4a1techcell  | 
+![wea_m4a1techzb_item_icon](https://github.com/user-attachments/assets/95622513-ada4-4d4d-ae3f-b2f44fc8779a)<br> zb | m4a1techzb_blue  | 
 | Icon | Name |
-![wea_m4a1techzb_item_icon](https://github.com/user-attachments/assets/95622513-ada4-4d4d-ae3f-b2f44fc8779a)<br> zb | m4a1techzb  | 
-| Icon | Name |
-![wea_m4a1techzombie_item_icon](https://github.com/user-attachments/assets/749bceef-bc86-4427-98ab-f156f750ac01)<br> zombie | m4a1techzombie  | 
+![wea_m4a1techzombie_item_icon](https://github.com/user-attachments/assets/749bceef-bc86-4427-98ab-f156f750ac01)<br> zombie | m4a1techzb_blk  | 
 | Icon | Name |
 ![wea_m4a1techverc_item_icon](https://github.com/user-attachments/assets/44fb247f-9d4e-4cd3-a6dc-6b8f62c9c04d)<br> verc | m4a1techverc  | 
 | Icon | Name |
-![wea_m4a1techtungstenblk_item_icon](https://github.com/user-attachments/assets/582693e9-b16b-42f0-93ac-6e19ac23d49d)<br> tungstenblk | m4a1techtungstenblk  | 
+![wea_m4a1techtungstenblk_item_icon](https://github.com/user-attachments/assets/582693e9-b16b-42f0-93ac-6e19ac23d49d)<br> tungstenblk | tungsten_blk  | 
 | Icon | Name |
-![wea_m4a1techtungsten_item_icon](https://github.com/user-attachments/assets/9e0f99df-72b3-4074-bbb8-b2161d650014)<br> tungsten | m4a1techtungsten  | 
+![wea_m4a1techtungsten_item_icon](https://github.com/user-attachments/assets/9e0f99df-72b3-4074-bbb8-b2161d650014)<br> tungsten | m4a1tech_tungsten  | 
 | Icon | Name |
-![wea_m4a1techtool_item_icon](https://github.com/user-attachments/assets/f916ee7c-6ef1-4f10-a67a-a8f402ab3631)<br> tool | m4a1techtool  | 
+![wea_m4a1techtool_item_icon](https://github.com/user-attachments/assets/f916ee7c-6ef1-4f10-a67a-a8f402ab3631)<br> tool | m4a1techtool_blk  | 
 | Icon | Name |
-![wea_m4a1techtdreward_item_icon](https://github.com/user-attachments/assets/a9fd3cfc-8e1e-4dde-b038-68b0ce445f78)<br> dreward | m4a1techdreward  | 
-| Icon | Name |
-![wea_m4a1techstinger_item_icon](https://github.com/user-attachments/assets/98f9fe0d-fa60-4c47-92b1-e18747cc5425)<br> stinger | m4a1techstinger  | 
+![wea_m4a1techstinger_item_icon](https://github.com/user-attachments/assets/98f9fe0d-fa60-4c47-92b1-e18747cc5425)<br> stinger | m4a1stinger  | 
 | Icon | Name |
 ![wea_m4a1techsmart_item_icon](https://github.com/user-attachments/assets/17500503-29c8-48c6-93ed-1e5a218a55e6)<br> smart | m4a1techsmart  | 
 | Icon | Name |
-![wea_m4a1techsd_item_icon](https://github.com/user-attachments/assets/11573c67-b123-4503-ac24-04484997bfc2)<br> sd | m4a1techsd  | 
+![wea_m4a1techsd_item_icon](https://github.com/user-attachments/assets/11573c67-b123-4503-ac24-04484997bfc2)<br> sd | m4a1techsd_blk  | 
 | Icon | Name |
-![wea_m4a1techplus_item_icon](https://github.com/user-attachments/assets/7530fe8f-2047-4e00-8b7e-72a35ce45cf0)<br> plus | m4a1techplus  | 
+![wea_m4a1techplus_item_icon](https://github.com/user-attachments/assets/7530fe8f-2047-4e00-8b7e-72a35ce45cf0)<br> plus | m4a1techplus_blk  | 
 | Icon | Name |
-![wea_m4a1techplc_item_icon](https://github.com/user-attachments/assets/d27e8157-acb1-4587-ab34-ef074533d6f6)<br> plc | m4a1techplc  | 
+![wea_m4a1techplc_item_icon](https://github.com/user-attachments/assets/d27e8157-acb1-4587-ab34-ef074533d6f6)<br> plc | m4a1techpolice  | 
 | Icon | Name |
-![wea_m4a1techmustang_item_icon](https://github.com/user-attachments/assets/47519a82-7ba3-4f2b-8a0a-aea1e350a75b)<br> mustang | m4a1techmustang  | 
+![wea_m4a1techmustang_item_icon](https://github.com/user-attachments/assets/47519a82-7ba3-4f2b-8a0a-aea1e350a75b)<br> mustang | m4a1techwwiimustang  | 
 | Icon | Name |
-![wea_m4a1techmodern_item_icon](https://github.com/user-attachments/assets/d1e2b3c0-70e5-4f83-a975-a7b872ba09bd)<br> modern | m4a1techmodern  | 
+![wea_m4a1techmodern_item_icon](https://github.com/user-attachments/assets/d1e2b3c0-70e5-4f83-a975-a7b872ba09bd)<br> modern | m4a1techmodernwf  | 
 | Icon | Name |
 ![wea_m4a1techmarberry_item_icon](https://github.com/user-attachments/assets/6a3ab7a9-8ca9-4953-a477-76494b5af67a)<br> marberry | m4a1techmarberry  | 
 | Icon | Name |
-![wea_m4a1techholiday_item_icon](https://github.com/user-attachments/assets/5df54c73-1d1c-4795-a8d5-1419f4dbfc93)<br> holiday | m4a1techholiday  | 
+![wea_m4a1techholiday_item_icon](https://github.com/user-attachments/assets/5df54c73-1d1c-4795-a8d5-1419f4dbfc93)<br> holiday | m4a1techfrost  | 
 | Icon | Name |
-![wea_m4a1techhex_item_icon](https://github.com/user-attachments/assets/a25b1398-754f-4f33-9183-6c07e1c901e2)<br> hex | m4a1techhex  | 
+![wea_m4a1techhex_item_icon](https://github.com/user-attachments/assets/a25b1398-754f-4f33-9183-6c07e1c901e2)<br> hex | m4a1techhex_blk  | 
 | Icon | Name |
-![wea_m4a1techheavy_item_icon](https://github.com/user-attachments/assets/c69026eb-53a0-4032-9c3b-34fa3d53a307)<br> heavy | m4a1techheavy  | 
+![wea_m4a1techheavy_item_icon](https://github.com/user-attachments/assets/c69026eb-53a0-4032-9c3b-34fa3d53a307)<br> heavy | m4a1techheavymt  | 
 | Icon | Name |
-![wea_m4a1techgld_item_icon](https://github.com/user-attachments/assets/d4504df2-c540-4b39-9323-1e5aacb7a12c)<br> gld | m4a1techgld  | 
+![wea_m4a1techgld_item_icon](https://github.com/user-attachments/assets/d4504df2-c540-4b39-9323-1e5aacb7a12c)<br> gld | m4a1tech_gld  | 
 | Icon | Name |
-![wea_m4a1techgeo_item_icon](https://github.com/user-attachments/assets/a5d3b299-bfb7-4bfe-b0da-178ae98ca961)<br> geo | m4a1techgeo  | 
+![wea_m4a1techgeo_item_icon](https://github.com/user-attachments/assets/a5d3b299-bfb7-4bfe-b0da-178ae98ca961)<br> geo | m4a1techgeo_blk  | 
 | Icon | Name |
-![wea_m4a1techfuture_item_icon](https://github.com/user-attachments/assets/066ee2b0-9aff-4180-b9ac-cbd8c4098c1d)<br> future | m4a1techfuture  | 
+![wea_m4a1techfuture_item_icon](https://github.com/user-attachments/assets/066ee2b0-9aff-4180-b9ac-cbd8c4098c1d)<br> future | m4a1techwb_blk  | 
 
 </details>
 
