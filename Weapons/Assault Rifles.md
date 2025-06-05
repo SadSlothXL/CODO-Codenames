@@ -89,21 +89,21 @@
 | Icon | Name |
 | :--: | :--: |
 | | 
-![wea_honeybadgerdis_item_icon](https://github.com/user-attachments/assets/98f5169f-ba09-40d0-889b-7df2597fc4e5)<br> rdis | honeybadgerdis |
+![wea_honeybadgerdis_item_icon](https://github.com/user-attachments/assets/98f5169f-ba09-40d0-889b-7df2597fc4e5)<br> rdis | acchbdisguise |
 | Icon | Name |
-![wea_honeybadgermustang_item_icon](https://github.com/user-attachments/assets/d87c6d89-e406-4b3b-85d1-53d16a85bab7)<br> mustang | honeybadgermustang |
+![wea_honeybadgermustang_item_icon](https://github.com/user-attachments/assets/d87c6d89-e406-4b3b-85d1-53d16a85bab7)<br> mustang | acchoneybridgermustang |
 | Icon | Name |
-![wea_honeybadgerplatinum_item_icon](https://github.com/user-attachments/assets/6b73c773-3838-4f87-82b6-b631394f0351)<br> platinu | honeybadgerplatinum |
+![wea_honeybadgerplatinum_item_icon](https://github.com/user-attachments/assets/6b73c773-3838-4f87-82b6-b631394f0351)<br> platinu | acchoneybadgerwgplatinum |
 | Icon | Name |
-![wea_honeybadgerronin_item_icon](https://github.com/user-attachments/assets/2583cdb8-6218-4265-96de-8e1024cfcf65)<br> ronin | honeybadgerronin |
+![wea_honeybadgerronin_item_icon](https://github.com/user-attachments/assets/2583cdb8-6218-4265-96de-8e1024cfcf65)<br> ronin | acchbdronin |
 | Icon | Name |
-![wea_honeybadgerspstation_item_icon](https://github.com/user-attachments/assets/dd11735d-1ff9-4c3f-bcd0-90c39447164f)<br> spstation | honeybadgerspstation |
+![wea_honeybadgerspstation_item_icon](https://github.com/user-attachments/assets/dd11735d-1ff9-4c3f-bcd0-90c39447164f)<br> spstation | acchbspstation |
 | Icon | Name |
-![wea_honeybadgerstar_item_icon](https://github.com/user-attachments/assets/b6030a39-d9eb-407f-9c33-21b6da577353)<br> star | honeybadgerstar |
+![wea_honeybadgerstar_item_icon](https://github.com/user-attachments/assets/b6030a39-d9eb-407f-9c33-21b6da577353)<br> star | acchoneybadger_star |
 | Icon | Name |
-![wea_honeybadgertank_item_icon](https://github.com/user-attachments/assets/32e1e824-86b5-4c50-b917-aa8a88c90227)<br> tank | honeybadgertank |
+![wea_honeybadgertank_item_icon](https://github.com/user-attachments/assets/32e1e824-86b5-4c50-b917-aa8a88c90227)<br> tank | acchoneybdtank |
 | Icon | Name |
-![wea_honeybadgerwargod_item_icon](https://github.com/user-attachments/assets/b3efa296-6b3a-42c4-abd5-719486d783eb)<br> wargod | honeybadgerwargod |
+![wea_honeybadgerwargod_item_icon](https://github.com/user-attachments/assets/b3efa296-6b3a-42c4-abd5-719486d783eb)<br> wargod | acchoneybadgerwargod |
 </details>
 
 ## AK117  
