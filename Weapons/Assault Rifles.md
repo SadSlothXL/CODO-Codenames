@@ -724,7 +724,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_type95_item_icon](https://github.com/user-attachments/assets/f72863ff-4ebb-447c-863e-b4e19faa6e84)<br> Default | type95  | 
+![wea_type95_item_icon](https://github.com/user-attachments/assets/f72863ff-4ebb-447c-863e-b4e19faa6e84)<br> Default | type95_blk  | 
 
 <details>
 <summary> Skins </summary>
@@ -732,13 +732,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-![wea_type95army_item_icon](https://github.com/user-attachments/assets/818eb5ed-0afa-480c-ab81-659fe55b1bf0)<br> army | type95army  | 
+![wea_type95army_item_icon](https://github.com/user-attachments/assets/818eb5ed-0afa-480c-ab81-659fe55b1bf0)<br> army | type95army_blk  | 
 | Icon | Name |
-![wea_type95space_item_icon](https://github.com/user-attachments/assets/e13a6476-11bf-4706-8768-b21d02b7a898)<br> space | type95space  | 
-| Icon | Name |
-![wea_type95event_item_icon](https://github.com/user-attachments/assets/360a9449-f733-44d6-855c-dd104d9a203b)<br> event | type95event  | 
-| Icon | Name |
-![wea_type95coral_item_icon](https://github.com/user-attachments/assets/1a34bc64-2d89-46db-b49e-0d197eec4e5c)<br> coral | type95coral  | 
+![wea_type95space_item_icon](https://github.com/user-attachments/assets/e13a6476-11bf-4706-8768-b21d02b7a898)<br> space | type95future_blk  | 
 | Icon | Name |
 ![wea_type95clown_item_icon](https://github.com/user-attachments/assets/b7e9d9d6-b2a4-4c48-aef7-7b1a9b215220)<br> clown | type95clown  | 
 
@@ -750,7 +746,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_type95tech_item_icon](https://github.com/user-attachments/assets/a5597f1a-b1f7-402e-8f3b-5c16ba68890b)<br> Default | type95tech  | 
+![wea_type95tech_item_icon](https://github.com/user-attachments/assets/a5597f1a-b1f7-402e-8f3b-5c16ba68890b)<br> Default | type95tech_blk  | 
 
 <details>
 <summary> Skins </summary>
@@ -758,23 +754,19 @@
 | Icon | Name |
 | :--: | :--: | 
 | |
-![wea_type95techwargod_item_icon](https://github.com/user-attachments/assets/3eb4bd89-0ae8-4986-a1ba-2f999f336f12)<br> wargod | type95techwargod  | 
+![wea_type95techwargod_item_icon](https://github.com/user-attachments/assets/3eb4bd89-0ae8-4986-a1ba-2f999f336f12)<br> wargod | type95wargod  | 
 | Icon | Name |
-![wea_type95techutacb_item_icon](https://github.com/user-attachments/assets/9a704e83-0f8f-46a9-b47a-5bc95943bfb4)<br> utacb | type95techutacb  | 
+![wea_type95techutacb_item_icon](https://github.com/user-attachments/assets/9a704e83-0f8f-46a9-b47a-5bc95943bfb4)<br> utacb | type95techutaco  | 
 | Icon | Name |
-![wea_type95techutaca_item_icon](https://github.com/user-attachments/assets/b125c017-85ee-4052-8994-9fd6a8ed599d)<br> utaca | type95techutaca  | 
+![wea_type95techutaca_item_icon](https://github.com/user-attachments/assets/b125c017-85ee-4052-8994-9fd6a8ed599d)<br> utaca | type95techutacw  | 
 | Icon | Name |
-![wea_type95techstar_item_icon](https://github.com/user-attachments/assets/d2305af8-d6cd-46e1-8a0a-ec8c33f3eb58)<br> star | type95techstar  | 
+![wea_type95techstar_item_icon](https://github.com/user-attachments/assets/d2305af8-d6cd-46e1-8a0a-ec8c33f3eb58)<br> star | type95tech_star  | 
 | Icon | Name |
 ![wea_type95techslime_item_icon](https://github.com/user-attachments/assets/99c04901-de4e-42d3-a5fa-7dded93a963b)<br> slime | type95techslime  | 
 | Icon | Name |
-![wea_type95techmurder_item_icon](https://github.com/user-attachments/assets/be8cb735-6ad0-41c5-9743-620d36b1f60f)<br> murder | type95techmurder  | 
+![wea_type95techmurder_item_icon](https://github.com/user-attachments/assets/be8cb735-6ad0-41c5-9743-620d36b1f60f)<br> murder | type95techmurder_blk  | 
 | Icon | Name |
-![wea_type95techfriend_item_icon](https://github.com/user-attachments/assets/a15c98ec-d1f3-47be-8935-20b45eaf36a8)<br> friend | type95techfriend  | 
-| Icon | Name |
-![wea_type95techbcl_item_icon](https://github.com/user-attachments/assets/5f73a935-ae50-4478-9dc7-9f634d4bceeb)<br> bcl | type95techbcl  | 
-| Icon | Name |
-![wea_type95techwgplatinum_item_icon](https://github.com/user-attachments/assets/4b407877-80e4-463e-a132-e594054bf853)<br> wgplatinum | wgplatinum  | 
+![wea_type95techwgplatinum_item_icon](https://github.com/user-attachments/assets/4b407877-80e4-463e-a132-e594054bf853)<br> wgplatinum | type95wgplatinum_blk  | 
 
 </details>
 
