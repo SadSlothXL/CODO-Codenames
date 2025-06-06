@@ -8,6 +8,8 @@
 ## What is CODO Code Names for?
 CODO Code Names is a data base with a variety of CODO asset names with preview images and internal names
 
+##
+
 > [!IMPORTANT]
 > Please note that this very W.I.P with assets, images and names being added regularly!
 >
@@ -15,8 +17,8 @@ CODO Code Names is a data base with a variety of CODO asset names with preview i
 >
 > *Assets from game version 3.19.26.8*
 
+##
+
 **Credits:**
-
 Github layout by: [ImSimpy](https://github.com/ImSimpy) From [BO6-Codenames](https://github.com/ImSimpy/BO6-Codenames)
-
 COD:O CordyCep,COD:O GreyHound: [Dest1yo](https://github.com/dest1yo)
