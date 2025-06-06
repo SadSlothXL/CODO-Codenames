@@ -1,10 +1,5 @@
-# Equipment
-
 > [!IMPORTANT]
 > Temp
-
-
-# Equipment
 
 | Icon | Name | Ret/overlay |
 | :--: | :--: | :--: |
