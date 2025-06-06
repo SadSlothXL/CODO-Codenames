@@ -9,7 +9,6 @@
 | Icon | Name | 
 | :--: | :--: | 
 | | | | | 
-![loadscreen_mp_nuked](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> NukeTown | mp_nuked | 
 | Icon | Name | 
 ![loadscreen_mp_abandon_sh_mk](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Carnival | mp_abandon_sh_mk |
 | Icon | Name | 
@@ -48,22 +47,6 @@
 ![loadscreen_mp_crash_tropical](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Crash Tropical | mp_crash_tropical |
 | Icon | Name | 
 ![loadscreen_mp_cross_fire](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> CrossFire | mp_cross_fire |
-| Icon | Name | 
-![loadscreen_mp_deathmarch_chap1](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Deathmarch Chap1 | mp_deathmarch_chap1 |
-| Icon | Name | 
-![loadscreen_mp_deathmarch_chap1_b](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Deathmarch Chap1 B | mp_deathmarch_chap1_b |
-| Icon | Name | 
-![loadscreen_mp_deathmarch_chap1_c](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Deathmarch Chap1 C | mp_deathmarch_chap1_c |
-| Icon | Name | 
-![loadscreen_mp_deathmarch_chap1_d](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Deathmarch Chap1 D | mp_deathmarch_chap1_d |
-| Icon | Name | 
-![loadscreen_mp_deathmarch_chap3_a](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Deathmarch Chap3 A | mp_deathmarch_chap3_a |
-| Icon | Name | 
-![loadscreen_mp_deathmarch_chap3_b](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Deathmarch Chap3 B | mp_deathmarch_chap3_b |
-| Icon | Name | 
-![loadscreen_mp_deathmarch_chap4_a](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Deathmarch Chap4 A | mp_deathmarch_chap4_a |
-| Icon | Name | 
-![loadscreen_mp_deathmarch_chap4_b](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Deathmarch Chap4 B | mp_deathmarch_chap4_b |
 | Icon | Name | 
 ![loadscreen_mp_derail_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Derail | mp_derail_sh |
 | Icon | Name | 
@@ -107,13 +90,15 @@
 | Icon | Name | 
 ![loadscreen_mp_melee_resort](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Melee Resort | mp_melee_resort |
 | Icon | Name | 
-![loadscreen_mp_mideast](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Oasis Short | mp_mideast |
-| Icon | Name | 
-![loadscreen_mp_mogadishu_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Bakaara | mp_mogadishu_sh |
-| Icon | Name | 
 ![loadscreen_mp_nightshift_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Skidrow | mp_nightshift_sh |
 | Icon | Name | 
 ![loadscreen_mp_nukearena_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Nukearena | mp_nukearena_sh |
+| Icon | Name | 
+![loadscreen_mp_nuked](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> NukeTown | mp_nuked | 
+| Icon | Name |
+![loadscreen_mp_mideast](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Oasis Short | mp_mideast |
+| Icon | Name | 
+![loadscreen_mp_mogadishu_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Bakaara | mp_mogadishu_sh |
 | Icon | Name | 
 ![loadscreen_mp_offshore](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Doomsday Drilling | mp_offshore |
 | Icon | Name | 
