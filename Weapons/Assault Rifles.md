@@ -1045,7 +1045,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_m4a1techss_item_icon](https://github.com/user-attachments/assets/c1ad6c49-1a5a-49dc-90f9-99cff45e3a0d)<br> Default | m4a1techss  |
+![wea_m4a1techss_item_icon](https://github.com/user-attachments/assets/c1ad6c49-1a5a-49dc-90f9-99cff45e3a0d)<br> Default | m4a1techss_blk  |
 
 <details>
 <summary> Skins </summary>
@@ -1055,10 +1055,10 @@
 | |
 ![wea_m4a1techsslava_item_icon](https://github.com/user-attachments/assets/d982352f-5de8-409d-b10a-25f6c85e4770)<br> lava | m4a1techsslava  |
 | Icon | Name |
-![wea_m4a1techsscny_item_icon](https://github.com/user-attachments/assets/ce87c5d7-bea6-430c-925b-4a4d67826d7d)<br> cny | m4a1techsscny  |
+![wea_m4a1techsscny_item_icon](https://github.com/user-attachments/assets/ce87c5d7-bea6-430c-925b-4a4d67826d7d)<br> cny | m4a1techss_spring19  |
 | Icon | Name |
-![wea_m4a1techssblk_item_icon](https://github.com/user-attachments/assets/6c1a14d9-7339-4c68-85b0-59b7a19cbd18)<br> blk | m4a1techssblk  |
+![wea_m4a1techssblk_item_icon](https://github.com/user-attachments/assets/6c1a14d9-7339-4c68-85b0-59b7a19cbd18)<br> blk | m4a1techssblk_blk  |
 | Icon | Name |
-![wea_m4a1techssstar_item_icon](https://github.com/user-attachments/assets/1109d0a5-eae0-455d-b63e-172de7e0d038)<br> star | m4a1techssstar  |
+![wea_m4a1techssstar_item_icon](https://github.com/user-attachments/assets/1109d0a5-eae0-455d-b63e-172de7e0d038)<br> star | m4a1techss_beacon  |
 
 </details>
