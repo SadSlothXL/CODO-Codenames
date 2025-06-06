@@ -776,7 +776,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_acr_item_icon](https://github.com/user-attachments/assets/67b05454-7aa2-4c93-8822-c8abd30fee87)<br> Default | acr  | 
+![wea_acr_item_icon](https://github.com/user-attachments/assets/67b05454-7aa2-4c93-8822-c8abd30fee87)<br> Default | acr_blk  | 
 
 <details>
 <summary> Skins </summary>
