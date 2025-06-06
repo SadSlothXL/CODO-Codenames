@@ -19,6 +19,8 @@ CODO Code Names is a data base with a variety of CODO asset names with preview i
 
 ##
 
-**Credits:**
-Github layout by: [ImSimpy](https://github.com/ImSimpy) From [BO6-Codenames](https://github.com/ImSimpy/BO6-Codenames)
-COD:O CordyCep,COD:O GreyHound: [Dest1yo](https://github.com/dest1yo)
+> **Credits:**
+> 
+> Github layout by: [ImSimpy](https://github.com/ImSimpy) From [BO6-Codenames](https://github.com/ImSimpy/BO6-Codenames)
+> 
+> COD:O CordyCep, COD:O GreyHound: [Dest1yo](https://github.com/dest1yo)
