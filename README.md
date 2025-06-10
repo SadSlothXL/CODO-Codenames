@@ -15,7 +15,7 @@ CODO Code Names is a data base with a variety of CODO asset names with preview i
 >
 > If you see something that is missing or incorrect, please make an issue and I will check it when I have time, Thank you!
 >
-> *Assets from game version 3.19.26.8*
+> *Assets from game version 3.19.26.22*
 
 ##
 
