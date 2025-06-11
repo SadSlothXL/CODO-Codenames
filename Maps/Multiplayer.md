@@ -10,11 +10,8 @@
 | :--: | :--: | 
 | | | | | 
 ![loadscreen_mp_abandon_sh_mk](https://github.com/user-attachments/assets/1ab9dc5b-681c-4dde-9ca4-0eb5d53832ea)<br> Carnival | mp_abandon_sh_mk |
-| Icon | Name | 
 ![loadscreen_mp_afghan](https://github.com/user-attachments/assets/5ae25aef-e03d-485b-b52c-975a2a139212)<br> Afghan | mp_afghan |
-| Icon | Name | 
 ![loadscreen_mp_ambush_sh](https://github.com/user-attachments/assets/c556d56c-94a7-49f3-8592-0a71ed948359)<br> Ambush | mp_ambush_sh |
-| Icon | Name | 
 ![loadscreen_mp_arkaden_sh](https://github.com/user-attachments/assets/e2fcefc3-24e6-43fa-953a-32c6eeb7136c)<br> Arkaden | mp_arkaden_sh |
 | Icon | Name | 
 ![loadscreen_mp_awp_arena](https://github.com/user-attachments/assets/e929968b-4afb-4fb4-bafb-8f79a7a67bda)<br> HawkEye | mp_awp_arena |
