@@ -95,7 +95,7 @@
 | Icon | Name | 
 ![loadscreen_mp_overgrown](https://github.com/user-attachments/assets/2a55fa84-1042-48f9-baff-b109f18faef9)<br> Overgrown | mp_overgrown |
 | Icon | Name | 
-![loadscreen_mp_overwatch_sh](https://github.com/user-attachments/assets/a9bfffcd-f24a-434b-a2a2-87bd776b85eb)<br> Overwatch | mp_overwatch_sh |
+![loadscreen_mp_overwatch_sh](https://github.com/user-attachments/assets/fefefa07-68f5-47d1-87ec-e4ac57932f56)<br> Overwatch | mp_overwatch_sh |
 | Icon | Name | 
 ![loadscreen_mp_qadeem_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Oasis | mp_qadeem_sh |
 | Icon | Name | 
