@@ -19,7 +19,7 @@
 | Icon | Name | 
 ![loadscreen_mp_awp_arena](https://github.com/user-attachments/assets/e929968b-4afb-4fb4-bafb-8f79a7a67bda)<br> HawkEye | mp_awp_arena |
 | Icon | Name | 
-![loadscreen_mp_bog_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Battlecity | mp_battlecity |
+![missing_image](https://github.com/user-attachments/assets/abb9e211-1176-4ac4-896d-4bdcb5019e7d)<br> Battlecity | mp_battlecity |
 | Icon | Name | 
 ![loadscreen_mp_battlecity_moutains](https://github.com/user-attachments/assets/d434fc65-9a5c-4bb7-b65d-7e0802594665)<br> Battlecity Mountains | mp_battlecity_mountains |
 | Icon | Name | 
