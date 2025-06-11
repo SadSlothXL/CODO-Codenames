@@ -11,19 +11,19 @@
 | | | | | 
 ![loadscreen_mp_abandon_sh_mk](https://github.com/user-attachments/assets/1ab9dc5b-681c-4dde-9ca4-0eb5d53832ea)<br> Carnival | mp_abandon_sh_mk |
 | Icon | Name | 
-![loadscreen_mp_afghan](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Afghan | mp_afghan |
+![loadscreen_mp_afghan](https://github.com/user-attachments/assets/5ae25aef-e03d-485b-b52c-975a2a139212)<br> Afghan | mp_afghan |
 | Icon | Name | 
-![loadscreen_mp_ambush_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Ambush | mp_ambush_sh |
+![loadscreen_mp_ambush_sh](https://github.com/user-attachments/assets/c556d56c-94a7-49f3-8592-0a71ed948359)<br> Ambush | mp_ambush_sh |
 | Icon | Name | 
-![loadscreen_mp_arkaden_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Arkaden | mp_arkaden_sh |
+![loadscreen_mp_arkaden_sh](https://github.com/user-attachments/assets/e2fcefc3-24e6-43fa-953a-32c6eeb7136c)<br> Arkaden | mp_arkaden_sh |
 | Icon | Name | 
-![loadscreen_mp_awp_arena](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> HawkEye | mp_awp_arena |
+![loadscreen_mp_awp_arena](https://github.com/user-attachments/assets/e929968b-4afb-4fb4-bafb-8f79a7a67bda)<br> HawkEye | mp_awp_arena |
 | Icon | Name | 
-![loadscreen_mp_battlecity](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Battlecity | mp_battlecity |
+![loadscreen_mp_bog_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Battlecity | mp_battlecity |
 | Icon | Name | 
-![loadscreen_mp_battlecity_mountains](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Battlecity Mountains | mp_battlecity_mountains |
+![loadscreen_mp_battlecity_moutains](https://github.com/user-attachments/assets/d434fc65-9a5c-4bb7-b65d-7e0802594665)<br> Battlecity Mountains | mp_battlecity_mountains |
 | Icon | Name | 
-![loadscreen_mp_battlecity_mountains_td](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Battlecity Mountains Td | mp_battlecity_mountains_td |
+![loadscreen_mp_battlecity_moutains_td](https://github.com/user-attachments/assets/e879f21d-6a9a-4cad-b911-019bacafe088)<br> Battlecity Mountains Td | mp_battlecity_mountains_td |
 | Icon | Name | 
 ![loadscreen_mp_bog_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Bog | mp_bog_sh |
 | Icon | Name | 
