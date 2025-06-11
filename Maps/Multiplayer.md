@@ -9,7 +9,7 @@
 | Icon | Name | 
 | :--: | :--: | 
 | | | | | 
-![loadscreen_mp_abandon_sh_mk](https://github.com/user-attachments/assets/a18d8762-a2f1-44fe-a661-756f9388d4bf)<br> Carnival | mp_abandon_sh_mk |
+![loadscreen_mp_abandon_sh_mk](https://github.com/user-attachments/assets/1ab9dc5b-681c-4dde-9ca4-0eb5d53832ea)<br> Carnival | mp_abandon_sh_mk |
 | Icon | Name | 
 ![loadscreen_mp_afghan](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> Afghan | mp_afghan |
 | Icon | Name | 
