@@ -70,7 +70,7 @@
 ![loadscreen_mp_subbase_sh](https://github.com/user-attachments/assets/676fd9be-1a4e-4813-97c4-fb9d3dc32924)<br> [Subbase](https://www.youtube.com/watch?v=vh6K5TEQSFk&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_subbase_sh |
 ![loadscreen_mp_mountain](https://github.com/user-attachments/assets/ac60913e-740d-495e-9b0e-cfb5929e63de)<br> [Summit](https://youtu.be/HbW_-8m6RBQ?si=9BJrOmpSto1V_9Er) | mp_mountain |
 ![loadscreen_mp_village](https://github.com/user-attachments/assets/505db4d2-f612-4264-bc68-336d0c716cc8)<br> [Standoff](https://youtu.be/HJkfCtktJT0?si=DKPdp1d3EJZ0IMc) | mp_village |
-![missing_image](https://github.com/user-attachments/assets/abb9e211-1176-4ac4-896d-4bdcb5019e7d)<br> [Sanctuary](https://youtu.be/ICdsGxjKbLI?si=d4JVi2nRX-rhtXuL) | mp_sanctuary_sh |
+![loadscreen_mp_cha_quad](https://github.com/user-attachments/assets/08cc6f57-dcbd-4dce-9b50-eddc6e02f3e6)<br> [Sanctuary](https://youtu.be/ICdsGxjKbLI?si=d4JVi2nRX-rhtXuL) | mp_sanctuary_sh |
 ![loadscreen_mp_terminal_cls](https://github.com/user-attachments/assets/f320c3e9-7d47-4dbf-a64d-1ac25aff9cd9)<br> [Terminal](https://www.youtube.com/watch?v=pr-_QGWBbE0&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=3&t) | mp_terminal_cls |
 ![loadscreen_mp_tunisia](https://github.com/user-attachments/assets/b9d063f5-1cf2-4f3a-9fcc-705b0ba4cbaf)<br> [Tunisia](https://www.youtube.com/watch?v=wCGwG1LSFG8&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=13&t) | mp_tunisia |
 ![loadscreen_mp_underground_sh](https://github.com/user-attachments/assets/9cd184c3-7709-40c0-ae05-f0b3597b5c62)<br> [Underground](https://www.youtube.com/watch?v=o7UdDx8bwhA&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_underground_sh |
