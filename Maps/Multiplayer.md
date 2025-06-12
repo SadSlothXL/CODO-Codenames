@@ -1,8 +1,9 @@
 # Multiplayer 
 
 > [!IMPORTANT]
-> 
-> Temp
+> Maps with a blue name have a link to its map tour
+>
+> Big thanks to [Zhenya Warface](https://www.youtube.com/@ZhenyaLF) for making these videos!
 
 # Maps
 
