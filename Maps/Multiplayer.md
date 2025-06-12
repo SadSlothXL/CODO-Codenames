@@ -54,7 +54,7 @@
 ![loadscreen_mp_offshore](https://github.com/user-attachments/assets/6b202f86-3888-4346-9a96-ea9b60fd8c4b)<br> [Doomsday Drilling](https://www.youtube.com/watch?v=WEvwfzl53h8&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_offshore |
 ![loadscreen_mp_overgrown](https://github.com/user-attachments/assets/2a55fa84-1042-48f9-baff-b109f18faef9)<br> [Overgrown](https://www.youtube.com/watch?v=kKfiDcV1GQY&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_overgrown |
 ![loadscreen_mp_overwatch_sh](https://github.com/user-attachments/assets/fefefa07-68f5-47d1-87ec-e4ac57932f56)<br> [Overwatch](https://www.youtube.com/watch?v=-psXCBe2y44&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_overwatch_sh |
-![loadscreen_mp_qadeem_sh](https://github.com/user-attachments/assets/676b1e3f-e144-47aa-9811-d2aec756c888)<br> [Oasis](https://www.youtube.com/watch?v=Jqdu8lIEkZs&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_qadeem_sh |
+![loadscreen_mp_qadeem_sh](https://github.com/user-attachments/assets/49257f72-92ad-4784-bc5f-9a7f0815ac53))<br> [Oasis](https://www.youtube.com/watch?v=Jqdu8lIEkZs&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_qadeem_sh |
 ![loadscreen_mp_radiation_sh](https://github.com/user-attachments/assets/ba7bdcae-30e6-4b29-8753-47ba92060a6c)<br> [Radiation](https://www.youtube.com/watch?v=QiPllFgJkJE&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=) | mp_radiation_sh |
 ![loadscreen_mp_raid](https://github.com/user-attachments/assets/1090c795-8f06-40e0-8c65-4d2651c4836f)<br> [Raid](https://www.youtube.com/watch?v=f1cZfAqIcCM&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_raid |
 ![loadscreen_mp_resistance_sh](https://github.com/user-attachments/assets/56e5ceab-59c7-4763-85b4-c3e26bc92a09)<br> Resistance | mp_resistance_sh |
@@ -68,10 +68,10 @@
 ![loadscreen_mp_streamline](https://github.com/user-attachments/assets/45f409e9-14fb-404a-bd85-86853d8b2e02)<br> [Streamline](https://www.youtube.com/watch?v=yUdYsjlMLjs&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_streamline | 
 ![loadscreen_mp_strike_sh](https://github.com/user-attachments/assets/d28afed3-c5cf-44ba-8f54-72a0fa737517)<br> [Strike](https://www.youtube.com/watch?v=3ZooRW1CRV8&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_strike_sh | 
 ![loadscreen_mp_subbase_sh](https://github.com/user-attachments/assets/676fd9be-1a4e-4813-97c4-fb9d3dc32924)<br> [Subbase](https://www.youtube.com/watch?v=vh6K5TEQSFk&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_subbase_sh |
-![loadscreen_mp_subbase_sh](https://github.com/user-attachments/assets/676fd9be-1a4e-4813-97c4-fb9d3dc32924)<br> [Summit](https://youtu.be/HbW_-8m6RBQ?si=9BJrOmpSto1V_9Er) | mp_summit_sh |
-![loadscreen_mp_subbase_sh](https://github.com/user-attachments/assets/676fd9be-1a4e-4813-97c4-fb9d3dc32924)<br> [Standoff](https://youtu.be/HJkfCtktJT0?si=DKPdp1d3EJZ0IMc) | mp_standoff_sh |
-![loadscreen_mp_subbase_sh](https://github.com/user-attachments/assets/676fd9be-1a4e-4813-97c4-fb9d3dc32924)<br> [Sanctuary ](https://youtu.be/ICdsGxjKbLI?si=d4JVi2nRX-rhtXuL) | mp_sanctuary_sh |
+![loadscreen_mp_mountain](https://github.com/user-attachments/assets/ac60913e-740d-495e-9b0e-cfb5929e63de)<br> [Summit](https://youtu.be/HbW_-8m6RBQ?si=9BJrOmpSto1V_9Er) | mp_mountain |
+![loadscreen_mp_village](https://github.com/user-attachments/assets/505db4d2-f612-4264-bc68-336d0c716cc8)<br> [Standoff](https://youtu.be/HJkfCtktJT0?si=DKPdp1d3EJZ0IMc) | mp_village |
+![missing_image](https://github.com/user-attachments/assets/abb9e211-1176-4ac4-896d-4bdcb5019e7d)<br> [Sanctuary](https://youtu.be/ICdsGxjKbLI?si=d4JVi2nRX-rhtXuL) | mp_sanctuary_sh |
 ![loadscreen_mp_terminal_cls](https://github.com/user-attachments/assets/f320c3e9-7d47-4dbf-a64d-1ac25aff9cd9)<br> [Terminal](https://www.youtube.com/watch?v=pr-_QGWBbE0&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=3&t) | mp_terminal_cls |
 ![loadscreen_mp_tunisia](https://github.com/user-attachments/assets/b9d063f5-1cf2-4f3a-9fcc-705b0ba4cbaf)<br> [Tunisia](https://www.youtube.com/watch?v=wCGwG1LSFG8&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=13&t) | mp_tunisia |
 ![loadscreen_mp_underground_sh](https://github.com/user-attachments/assets/9cd184c3-7709-40c0-ae05-f0b3597b5c62)<br> [Underground](https://www.youtube.com/watch?v=o7UdDx8bwhA&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_underground_sh |
-![loadscreen_mp_underground_sh](https://github.com/user-attachments/assets/9cd184c3-7709-40c0-ae05-f0b3597b5c62)<br> [Lockdown](https://youtu.be/8G5mutASd2s?si=tTYyJi8Nxp3L0frL) | mp_lockdown_sh |
+![loadscreen_mp_lockdown_sh](https://github.com/user-attachments/assets/10850d4b-6da2-4f2a-9a99-1590388aa76e)<br> [Lockdown](https://youtu.be/8G5mutASd2s?si=tTYyJi8Nxp3L0frL) | mp_lockdown_sh |
