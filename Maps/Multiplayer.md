@@ -31,7 +31,8 @@
 ![loadscreen_mp_derail_sh](https://github.com/user-attachments/assets/e0186a01-59fc-4f11-a064-1b436ed7a1a9)<br> [Derail](https://www.youtube.com/watch?v=MRDqRYnOQ6E&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_derail_sh |
 ![loadscreen_mp_district_hh](https://github.com/user-attachments/assets/12e479d2-b711-4c56-9110-a893b6b82f74)<br> [District](https://www.youtube.com/watch?v=D98UeflvaR8) | mp_district |
 ![loadscreen_mp_dome](https://github.com/user-attachments/assets/e43bbe2b-cb37-4f6e-ac1f-c3974645d2b0)<br> [Dome](https://www.youtube.com/watch?v=yIhVyDZm50Q&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=36&t) | mp_dome |
-![sfproto_mp_dr_box](https://github.com/user-attachments/assets/de15855e-ca46-472b-8380-e551b6ca38e3)<br> [Dr Box](https://www.youtube.com/watch?v=paIs0eSwglY) | mp_dr_box |
+![sfproto_mp_dr_box](https://github.com/user-attachments/assets/de15855e-ca46-472b-8380-e551b6ca38e3)<br> [Crazy Little Black Room](https://www.youtube.com/watch?v=paIs0eSwglY) | mp_dr_box |
+![loadscreen_mp_dr_cistern](https://github.com/user-attachments/assets/7353a80a-28c0-45f5-b2e2-836321af8726)<br> [Crazy Dark Room](https://youtu.be/hfG02v1OD-s?si=pUdr2QAjbU6l6zSl) | mp_dr_cistern |
 ![loadscreen_mp_dwarf_sh](https://github.com/user-attachments/assets/a4630461-d639-4511-9d79-15ab21a91a92)<br> [Dwarf](https://www.youtube.com/watch?v=yqh-LSn1Gpc&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_dwarf_sh |
 ![loadscreen_mp_estate_tropical](https://github.com/user-attachments/assets/78853406-9330-435c-88d9-be323bbd9b4c)<br> [Estate Tropical](https://www.youtube.com/watch?v=OT35KW902BE&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=10&t) | mp_estate_tropical |
 ![loadscreen_mp_fallen_sh](https://github.com/user-attachments/assets/bfbab1fa-fa3f-45c0-874d-480abd0f86b0)<br> [Fallen](https://www.youtube.com/watch?v=bz6tWC5Q8Tg&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_fallen_sh |
