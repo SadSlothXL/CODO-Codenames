@@ -25,7 +25,7 @@
 ![missing_image](https://github.com/user-attachments/assets/abb9e211-1176-4ac4-896d-4bdcb5019e7d)<br> Freighter | mp_cargoship_sh |
 ![loadscreen_mp_cargoship](https://github.com/user-attachments/assets/34e93d99-5d61-4562-aafc-7d50ccb472bc)<br> [Wet Work](https://www.youtube.com/watch?v=k-WwXULjMKM) | mp_cargoship |
 ![loadscreen_mp_cha_quad](https://github.com/user-attachments/assets/08cc6f57-dcbd-4dce-9b50-eddc6e02f3e6)<br> [Sanctuary](https://youtu.be/ICdsGxjKbLI?si=d4JVi2nRX-rhtXuL) | mp_cha_quad |
-![loadscreen_mp_conflict](https://github.com/user-attachments/assets/24a768aa-8b0a-46fc-9b53-b1fd3d203616)<br> [Conflict](https://www.youtube.com/watch?v=QHJzNcdDcsw) | mp_conflict |
+![loadscreen_mp_conflict](https://github.com/user-attachments/assets/24a768aa-8b0a-46fc-9b53-b1fd3d203616)<br> [Solarium](https://www.youtube.com/watch?v=QHJzNcdDcsw) | mp_conflict |
 ![loadscreen_mp_crash_tropical](https://github.com/user-attachments/assets/f7fc9802-c02e-43a7-acd7-1ea75589d801)<br> [Crash Tropical](https://www.youtube.com/watch?v=EsssUy1ZdGo&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_crash_tropical |
 ![loadscreen_mp_crossfire](https://github.com/user-attachments/assets/5190e104-ae76-46e0-b764-9e9fd6ed9d87)<br> [CrossFire](https://www.youtube.com/watch?v=p8WQLxK7h-k&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=37&t) | mp_cross_fire |
 ![loadscreen_mp_derail_sh](https://github.com/user-attachments/assets/e0186a01-59fc-4f11-a064-1b436ed7a1a9)<br> [Derail](https://www.youtube.com/watch?v=MRDqRYnOQ6E&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_derail_sh |
