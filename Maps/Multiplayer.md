@@ -15,22 +15,23 @@
 ![loadscreen_mp_ambush_sh](https://github.com/user-attachments/assets/c556d56c-94a7-49f3-8592-0a71ed948359)<br> [Ambush](https://www.youtube.com/watch?v=stORfM93S7c&t) | mp_ambush_sh |
 ![loadscreen_mp_arkaden_sh](https://github.com/user-attachments/assets/e2fcefc3-24e6-43fa-953a-32c6eeb7136c)<br> [Arkaden](https://www.youtube.com/watch?v=pbPM85GcvPE) | mp_arkaden_sh |
 ![loadscreen_mp_awp_arena](https://github.com/user-attachments/assets/e929968b-4afb-4fb4-bafb-8f79a7a67bda)<br> [HawkEye](https://www.youtube.com/watch?v=3j5-e89ilMk&t) | mp_awp_arena |
-![missing_image](https://github.com/user-attachments/assets/abb9e211-1176-4ac4-896d-4bdcb5019e7d)<br> Battlecity | mp_battlecity |
-![loadscreen_mp_battlecity_moutains](https://github.com/user-attachments/assets/d434fc65-9a5c-4bb7-b65d-7e0802594665)<br> Battlecity Mountains | mp_battlecity_mountains |
+![loadscreen_dmz_comicstoryboard](https://github.com/user-attachments/assets/cdd9f426-7300-4194-aa0a-9d56b7a6f543)<br> [Battlecity](https://www.youtube.com/watch?v=60qN2VUXit8) [part 2](https://www.youtube.com/watch?v=rUtxRWsiMTQ) [part 3](https://www.youtube.com/watch?v=TohFbtpy0EA) | mp_battlecity |
+![loadscreen_mp_battlecity_moutains](https://github.com/user-attachments/assets/d434fc65-9a5c-4bb7-b65d-7e0802594665)<br> [Battlecity Mountains](https://www.youtube.com/watch?v=pqLUDIW5TqA) | mp_battlecity_mountains |
 ![loadscreen_mp_battlecity_moutains_td](https://github.com/user-attachments/assets/e879f21d-6a9a-4cad-b911-019bacafe088)<br> Battlecity Mountains Td | mp_battlecity_mountains_td |
 ![loadscreen_mp_bog_sh](https://github.com/user-attachments/assets/81fb4ed0-3406-43dc-9d59-f96f84ea4843)<br> [Bog](https://www.youtube.com/watch?v=qafNQJerU0Q&t) | mp_bog_sh |
 ![loadscreen_mp_boomtown](https://github.com/user-attachments/assets/0f891770-d9c4-44ba-b380-593c345f345e)<br> [Western Paradise](https://www.youtube.com/watch?v=gQhbE91Q6ws&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_boomtown |
 ![loadscreen_mp_bootleg_sh](https://github.com/user-attachments/assets/258b7276-dd52-496c-ad55-306aca3a42a0)<br> [Bootleg](https://www.youtube.com/watch?v=IV0_Mwghm7A&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_bootleg_sh |
 ![loadscreen_mp_carbon_sh](https://github.com/user-attachments/assets/6a6957e9-2bf1-4fda-aed4-585f0a458a56)<br> [Carbon](https://www.youtube.com/watch?v=2qjSwJTviPY&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=64&t) | mp_carbon_sh |
-![loadscreen_mp_cargoship](https://github.com/user-attachments/assets/34e93d99-5d61-4562-aafc-7d50ccb472bc)<br> Freighter | mp_cargoship |
+![loadscreen_mp_cargoship](https://github.com/user-attachments/assets/34e93d99-5d61-4562-aafc-7d50ccb472bc)<br> Freighter | mp_cargoship_sh |
+![missing_image](https://github.com/user-attachments/assets/abb9e211-1176-4ac4-896d-4bdcb5019e7d)<br> Wet Work | mp_cargoship |
 ![loadscreen_mp_cha_quad](https://github.com/user-attachments/assets/8032bd55-10ea-43b0-932c-1f2d15d00024)<br> Monastery | mp_cha_quad |
-![loadscreen_mp_conflict](https://github.com/user-attachments/assets/24a768aa-8b0a-46fc-9b53-b1fd3d203616)<br> Conflict | mp_conflict |
+![loadscreen_mp_conflict](https://github.com/user-attachments/assets/24a768aa-8b0a-46fc-9b53-b1fd3d203616)<br> [Conflict](https://www.youtube.com/watch?v=QHJzNcdDcsw) | mp_conflict |
 ![loadscreen_mp_crash_tropical](https://github.com/user-attachments/assets/f7fc9802-c02e-43a7-acd7-1ea75589d801)<br> [Crash](https://www.youtube.com/watch?v=EsssUy1ZdGo&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) Tropical | mp_crash_tropical |
 ![loadscreen_mp_crossfire](https://github.com/user-attachments/assets/5190e104-ae76-46e0-b764-9e9fd6ed9d87)<br> [CrossFire](https://www.youtube.com/watch?v=p8WQLxK7h-k&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=37&t) | mp_cross_fire |
 ![loadscreen_mp_derail_sh](https://github.com/user-attachments/assets/e0186a01-59fc-4f11-a064-1b436ed7a1a9)<br> [Derail](https://www.youtube.com/watch?v=MRDqRYnOQ6E&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_derail_sh |
-![loadscreen_mp_district_hh](https://github.com/user-attachments/assets/12e479d2-b711-4c56-9110-a893b6b82f74)<br> District | mp_district |
+![loadscreen_mp_district_hh](https://github.com/user-attachments/assets/12e479d2-b711-4c56-9110-a893b6b82f74)<br> [District](https://www.youtube.com/watch?v=D98UeflvaR8) | mp_district |
 ![loadscreen_mp_dome](https://github.com/user-attachments/assets/e43bbe2b-cb37-4f6e-ac1f-c3974645d2b0)<br> [Dome](https://www.youtube.com/watch?v=yIhVyDZm50Q&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=36&t) | mp_dome |
-![sfproto_mp_dr_box](https://github.com/user-attachments/assets/de15855e-ca46-472b-8380-e551b6ca38e3)<br> Dr Box | mp_dr_box |
+![sfproto_mp_dr_box](https://github.com/user-attachments/assets/de15855e-ca46-472b-8380-e551b6ca38e3)<br> [Dr Box](https://www.youtube.com/watch?v=paIs0eSwglY) | mp_dr_box |
 ![loadscreen_mp_dwarf_sh](https://github.com/user-attachments/assets/a4630461-d639-4511-9d79-15ab21a91a92)<br> [Dwarf](https://www.youtube.com/watch?v=yqh-LSn1Gpc&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_dwarf_sh |
 ![loadscreen_mp_estate_tropical](https://github.com/user-attachments/assets/78853406-9330-435c-88d9-be323bbd9b4c)<br> [Estate Tropical](https://www.youtube.com/watch?v=OT35KW902BE&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=10&t) | mp_estate_tropical |
 ![loadscreen_mp_fallen_sh](https://github.com/user-attachments/assets/bfbab1fa-fa3f-45c0-874d-480abd0f86b0)<br> [Fallen](https://www.youtube.com/watch?v=bz6tWC5Q8Tg&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_fallen_sh |
@@ -60,7 +61,8 @@
 ![loadscreen_mp_resistance_sh](https://github.com/user-attachments/assets/56e5ceab-59c7-4763-85b4-c3e26bc92a09)<br> Resistance | mp_resistance_sh |
 ![loadscreen_mp_rust](https://github.com/user-attachments/assets/4f5f522a-cb27-4207-aecc-9eddf64959bf)<br> [Rust Long](https://www.youtube.com/watch?v=PZTfh_9Pwdk&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=38&t) | mp_rust_long |
 ![loadscreen_mp_jardin](https://github.com/user-attachments/assets/a17fc5b7-f4d5-40b6-8330-feb507301a8e)<br> [Royal Garden](https://www.youtube.com/watch?v=aixoYeZAA-o&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_sd_jardin |
-![loadscreen_mp_proto1](https://github.com/user-attachments/assets/4201a478-48c4-4cea-beae-9167d69e9c80)<br> [Solarium](https://www.youtube.com/watch?v=QHJzNcdDcsw&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index=14) | mp_sd_proto1 |
+![loadscreen_mp_proto1](https://github.com/user-attachments/assets/4201a478-48c4-4cea-beae-9167d69e9c80)<br> [Solarium](https://www.youtube.com/watch?v=QHJzNcdDcsw&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_sd_proto1 |
+![loadscreen_mp_proto1](https://github.com/user-attachments/assets/4201a478-48c4-4cea-beae-9167d69e9c80)<br> [Short Wasteland](https://www.youtube.com/watch?v=xy3MVutf1hw) | mp_sd_proto1 |
 ![loadscreen_mp_seatown](https://github.com/user-attachments/assets/d00b3357-3861-4c39-9ac9-c5c8d8463415)<br> [Seatown](https://www.youtube.com/watch?v=HZQv4BtGVi0&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_seatown |
 ![loadscreen_mp_shipment](https://github.com/user-attachments/assets/63f167aa-86e3-4f87-aa5b-c9c8908556dc)<br> [Shipment Long](https://www.youtube.com/watch?v=4DH08gSyK6s&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_shipment_long |
 ![loadscreen_mp_showdown_hh](https://github.com/user-attachments/assets/5def6b78-4968-47ca-9476-abe9eda056b7)<br> [Showdown](https://www.youtube.com/watch?v=IjQpnBmXqQE&list=PL_CS8KhzrKyngNnb5BUb7y75PS7SfSEhC&index) | mp_showdown |
