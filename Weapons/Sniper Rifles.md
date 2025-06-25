@@ -90,12 +90,18 @@
 | :--: | :--: | 
 | | | | | 
 ![wea_rsrt3_item_icon](https://github.com/user-attachments/assets/8503a294-956f-4b2f-bed6-7754382c40de)<br> Default | rsrt3 | 
+<details>
+<summary> Skins </summary>
+
+| Icon | Name |
+| :--: | :--: |
+| | | | | 
 ![wea_rsrt3army_item_icon](https://github.com/user-attachments/assets/ee49bddc-5a94-429a-9374-89f62934370a)<br> army | rsrt3army | 
 ![wea_rsrt3judge_item_icon](https://github.com/user-attachments/assets/69e08706-8d8e-4e27-aeeb-dbb49157d0ec)<br> judge | rsrt3judge | 
 ![wea_rsrt3murder_item_icon](https://github.com/user-attachments/assets/6d4cdcac-2300-4e29-b6eb-a58b915e3618)<br> murder | rsrt3murder | 
 ![wea_rsrt3red_item_icon](https://github.com/user-attachments/assets/3742b366-dfc9-4b99-b3d8-7f58a6fa4363)<br> red | rsrt3red | 
 ![wea_rsrt3wolf_item_icon](https://github.com/user-attachments/assets/6a7416e8-798a-42cf-8f3e-d0e2a1b1a88b)<br> wolf | rsrt3wolf | 
-
+</details>
 
 # M21 EBR
 
