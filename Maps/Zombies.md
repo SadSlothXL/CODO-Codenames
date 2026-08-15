@@ -13,7 +13,7 @@
 ![loadscreen_zm_sumpf_sh](https://github.com/user-attachments/assets/9a927b7c-6ca8-4cf9-8fa0-146d7ad27c3b)<br> Evil Swamp | zm_sumpf_sh |
 ![loadscreen_zm_prototype_sh](https://github.com/user-attachments/assets/e46613bd-df3d-48e5-bb5b-9b8848cc0e78)<br> Machine Manufacturing Plant | zm_factory_sh |
 ![loadscreen_za_coliseum](https://github.com/user-attachments/assets/bf14f491-d640-4607-afc4-416abf9e9d0a)<br> Zombie Arena | za_coliseum |
-![loadscreen_za_island](https://github.com/user-attachments/assets/40c04f09-0f5d-4dd0-a992-99ba8a4b079e)<br> Zombie Island | za_island |
+![loadscreen_za_island](https://github.com/user-attachments/assets/40c04f09-0f5d-4dd0-a992-99ba8a4b079e)<br> [Zombie Island](https://www.youtube.com/watch?v=Mq8nnbgRf5I) | za_island |
 ![loadscreen_mp_deathmarch_chap1](https://github.com/user-attachments/assets/96299853-9ae4-42ad-a71a-56ee099d197d)<br> ZombieHavoc Chapter 1 Part 1 | mp_deathmarch_chap1 |
 ![loadscreen_mp_deathmarch_chap1_b](https://github.com/user-attachments/assets/f9e9f231-5cc6-4d8e-9569-0bcd2bce44ba)<br> ZombieHavoc Chapter 1 Part 2 | mp_deathmarch_chap1_b |
 ![loadscreen_mp_deathmarch_chap1_c](https://github.com/user-attachments/assets/34f69f6e-a9a5-4438-b938-17fbc1eb6ea6)<br> ZombieHavoc Chapter 2 Part 1 | mp_deathmarch_chap1_c |
