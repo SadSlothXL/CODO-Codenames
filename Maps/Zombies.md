@@ -9,7 +9,7 @@
 
 | Icon | Name | 
 | :--: | :--: | 
-![loadscreen_zm_prototype_sh](https://github.com/user-attachments/assets/d83d6fbd-a76d-4d0b-9530-0232b338a56b)<br> Outpost | zm_prototype_sh |
+![loadscreen_zm_prototype_sh](https://github.com/user-attachments/assets/d83d6fbd-a76d-4d0b-9530-0232b338a56b)<br> [Outpost](https://youtu.be/OXSieWbl1M0) | zm_prototype_sh |
 ![loadscreen_zm_asylum_sh](https://github.com/user-attachments/assets/6472922c-8527-4e5c-8ad8-b3921a8d4896)<br> Mechanical Research Institue | zm_asylum_sh |
 ![loadscreen_zm_sumpf_sh](https://github.com/user-attachments/assets/9a927b7c-6ca8-4cf9-8fa0-146d7ad27c3b)<br> Evil Swamp | zm_sumpf_sh |
 ![loadscreen_zm_prototype_sh](https://github.com/user-attachments/assets/e46613bd-df3d-48e5-bb5b-9b8848cc0e78)<br> Machine Manufacturing Plant | zm_factory_sh |
