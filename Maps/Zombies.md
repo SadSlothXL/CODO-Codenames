@@ -12,7 +12,7 @@
 ![loadscreen_zm_prototype_sh](https://github.com/user-attachments/assets/d83d6fbd-a76d-4d0b-9530-0232b338a56b)<br> [Outpost](https://youtu.be/OXSieWbl1M0) | zm_prototype_sh |
 ![loadscreen_zm_asylum_sh](https://github.com/user-attachments/assets/6472922c-8527-4e5c-8ad8-b3921a8d4896)<br> Mechanical Research Institue | zm_asylum_sh |
 ![loadscreen_zm_sumpf_sh](https://github.com/user-attachments/assets/9a927b7c-6ca8-4cf9-8fa0-146d7ad27c3b)<br> [Evil Swamp](https://www.youtube.com/watch?v=3inlEVydJ_M) | zm_sumpf_sh |
-![loadscreen_zm_prototype_sh](https://github.com/user-attachments/assets/e46613bd-df3d-48e5-bb5b-9b8848cc0e78)<br> Machine Manufacturing Plant | zm_factory_sh |
+<img width="427" height="240" alt="loadscreen_zm_factory_sh_converted" src="https://github.com/user-attachments/assets/3587421a-3a63-4d59-ae49-47aaeec6a4b2" /><br> [Machine Manufacturing Plant](https://www.youtube.com/watch?v=nVfaeu3C21E) | zm_factory_sh |
 ![loadscreen_za_coliseum](https://github.com/user-attachments/assets/bf14f491-d640-4607-afc4-416abf9e9d0a)<br> Zombie Arena | za_coliseum |
 ![loadscreen_za_island](https://github.com/user-attachments/assets/40c04f09-0f5d-4dd0-a992-99ba8a4b079e)<br> [Zombie Island](https://www.youtube.com/watch?v=Mq8nnbgRf5I) | za_island |
 ![loadscreen_mp_deathmarch_chap1](https://github.com/user-attachments/assets/96299853-9ae4-42ad-a71a-56ee099d197d)<br> ZombieHavoc Chapter 1 Part 1 | mp_deathmarch_chap1 |
